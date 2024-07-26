@@ -1,0 +1,76 @@
+"residencia_provincia_nombre","clasificacion_resumen","cantidad_contagios"
+"Buenos Aires","Confirmado",2068632
+"Buenos Aires","Descartado",4479145
+"Buenos Aires","Sospechoso",211590
+"CABA","Confirmado",515490
+"CABA","Descartado",3143373
+"CABA","Sospechoso",49726
+"Catamarca","Confirmado",51535
+"Catamarca","Descartado",135810
+"Catamarca","Sospechoso",2779
+"Chaco","Confirmado",100505
+"Chaco","Descartado",345649
+"Chaco","Sospechoso",18271
+"Chubut","Confirmado",83577
+"Chubut","Descartado",139892
+"Chubut","Sospechoso",5533
+"Córdoba","Confirmado",519833
+"Córdoba","Descartado",1593802
+"Córdoba","Sospechoso",112999
+"Corrientes","Confirmado",93900
+"Corrientes","Descartado",271926
+"Corrientes","Sospechoso",5232
+"Entre Ríos","Confirmado",137218
+"Entre Ríos","Descartado",150808
+"Entre Ríos","Sospechoso",4129
+"Formosa","Confirmado",62171
+"Formosa","Descartado",495931
+"Formosa","Sospechoso",2631
+"Jujuy","Confirmado",48370
+"Jujuy","Descartado",160518
+"Jujuy","Sospechoso",6192
+"La Pampa","Confirmado",68689
+"La Pampa","Descartado",163663
+"La Pampa","Sospechoso",4197
+"La Rioja","Confirmado",33724
+"La Rioja","Descartado",79822
+"La Rioja","Sospechoso",1273
+"Mendoza","Confirmado",165211
+"Mendoza","Descartado",368947
+"Mendoza","Sospechoso",20647
+"Misiones","Confirmado",36617
+"Misiones","Descartado",68704
+"Misiones","Sospechoso",773
+"Neuquén","Confirmado",113950
+"Neuquén","Descartado",131030
+"Neuquén","Sospechoso",11367
+"Río Negro","Confirmado",101143
+"Río Negro","Descartado",152910
+"Río Negro","Sospechoso",3515
+"Salta","Confirmado",85784
+"Salta","Descartado",188784
+"Salta","Sospechoso",8179
+"San Juan","Confirmado",70035
+"San Juan","Descartado",187663
+"San Juan","Sospechoso",13435
+"San Luis","Confirmado",80536
+"San Luis","Descartado",224686
+"San Luis","Sospechoso",35316
+"Santa Cruz","Confirmado",59530
+"Santa Cruz","Descartado",156847
+"Santa Cruz","Sospechoso",10097
+"Santa Fe","Confirmado",470592
+"Santa Fe","Descartado",767373
+"Santa Fe","Sospechoso",24989
+"Santiago del Estero","Confirmado",81691
+"Santiago del Estero","Descartado",156826
+"Santiago del Estero","Sospechoso",18116
+"SIN ESPECIFICAR","Confirmado",8416
+"SIN ESPECIFICAR","Descartado",41299
+"SIN ESPECIFICAR","Sospechoso",1317
+"Tierra del Fuego","Confirmado",32417
+"Tierra del Fuego","Descartado",53155
+"Tierra del Fuego","Sospechoso",885
+"Tucumán","Confirmado",205694
+"Tucumán","Descartado",545305
+"Tucumán","Sospechoso",28803

@@ -1,0 +1,25 @@
+tipo,recurso,version,detalles,licencia,enlaces
+lenguaje de desarrollo,R,4.1.1,Lenguaje orientado a la computación estadística,"GPLv3, LGPLv3",https://www.r-project.org/
+base de datos,PostgreSQL,14,sistema de gestión de base de datos,PostgreSQL License,https://www.postgresql.org/
+web app,shiny,1.7.1,framework para construcción de aplicaciones web,GPLv3,https://shiny.rstudio.com/
+mapas,leaflet,2.0.4.1,biblioteca para construir mapas dinámicos en R,GPLv3,https://rstudio.github.io/leaflet/
+Gráficos estáticos,ggplot2,3.3.5,construcción de gráficos en R,MIT,https://ggplot2.tidyverse.org/
+Gráficos dinámicos,dygraphs,1.1.1.6,Interfaz para series temporales interactivas en R,MIT,https://rstudio.github.io/dygraphs/
+Gráficos dinámicos,plotly,4.9.4.1,Interfaz para gráficos dinámicos en R,"Plotly, Inc. (MIT)",https://plotly.com/r/
+dashboard,shinydashboard,0.7.2,creación de dashboard con shiny,GPLv3,https://rstudio.github.io/shinydashboard/
+aspecto del dashboard,dashboardthemes,1.1.5,Soporte para temas shinydashboard,MIT,https://nik01010.wordpress.com/
+Elementos gráficos,lemon,0.4.5,Extensión para ggplot2,GPLv3,https://github.com/stefanedwards/lemon
+Interfaz con PostgreSQL,RPostgres,1.4.1,Interfaz con PostgreSQL,GPLv3,https://github.com/r-dbi/RPostgres
+Interfaz con PostgreSQL,RPostgreSQL,0.7,Interfaz para el SGBD de PostgreSQL,GPLv3,https://cran.r-project.org/web/packages/RPostgreSQL/index.html
+Manejo y transformación de datos,dplyr,1.0.7,gramática y funciones adicionales para el manejo de data frames,MIT,https://dplyr.tidyverse.org/
+extensión de leaflet,leafpop,0.1.0,integración de tablas en mapas leaflet,MIT,https://github.com/r-spatial/leafpop
+Lectura de los polígonos de las provincias en el mapa,rgdal,1.5-27,Lectura de datos geoespaciales,GPLv3,https://github.com/cran/rgdal
+Extensión de ggplot2 para manejar escalas,scales,1.1.1,Provee facilidades para escalar gráficos ggplot2,MIT,https://scales.r-lib.org/
+Extensión de shiny para las pantallas de carga,shinycssloaders,1.0.0,Animaciones de carga para shiny,MIT,https://github.com/daattali/shinycssloaders
+Manejo de datos en tablas,data.table,1.14.2,Estructura de datos optimizada para R,MPLv2,https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html
+Tablas de la aplicación,DT,0.19,Interafaz para tablas tipo data.table,GPLv3,https://rstudio.github.io/DT/
+Lectura de datos csv,readr,2.0.2,Lectura de datos csv,MIT,https://readr.tidyverse.org/
+discretizacion de datos,arules,1.6-8,Manipulacion de datos y reglas de asociación,GPLv3,https://cran.r-project.org/web/packages/arules/index.html
+iconos de carga,Blocks-0.8s-74px,-,"the icon ""blocks"" is provided by loading.io",Loading.io Free License,https://loading.io/spinner/blocks/-rectangle-square-rotate-cycle-adobe
+iconos de carga,Double Ring-1s-118px,-,"the icon ""double ring"" is provided by loading.io",Loading.io Free License,https://loading.io/spinner/double-ring/-disqus-ring-donut-rotate-double
+assets css,css patterns,-,assets css,Jeroen Franse,https://projects.verou.me/css3patterns/

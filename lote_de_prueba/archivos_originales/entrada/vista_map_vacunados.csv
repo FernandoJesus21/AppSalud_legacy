@@ -1,0 +1,432 @@
+"jurisdiccion_residencia","vacuna","orden_dosis","cantidad_aplicaciones"
+"Buenos Aires","AstraZeneca","1",3413304
+"Buenos Aires","AstraZeneca","2",3711389
+"Buenos Aires","AstraZeneca","3",862
+"Buenos Aires","Cansino","1",24032
+"Buenos Aires","Cansino","2",1
+"Buenos Aires","COVISHIELD","1",243773
+"Buenos Aires","COVISHIELD","2",387
+"Buenos Aires","Moderna","1",318072
+"Buenos Aires","Moderna","2",956575
+"Buenos Aires","Moderna","3",1
+"Buenos Aires","Pfizer","1",758671
+"Buenos Aires","Pfizer","2",147207
+"Buenos Aires","Sinopharm","1",4544613
+"Buenos Aires","Sinopharm","2",3225447
+"Buenos Aires","Sinopharm","3",9
+"Buenos Aires","Sputnik","1",4048177
+"Buenos Aires","Sputnik","2",2312188
+"Buenos Aires","Sputnik","3",11
+"CABA","AstraZeneca","1",671729
+"CABA","AstraZeneca","2",707042
+"CABA","AstraZeneca","3",16662
+"CABA","Cansino","1",23730
+"CABA","COVISHIELD","1",72165
+"CABA","COVISHIELD","2",161
+"CABA","Moderna","1",22135
+"CABA","Moderna","2",274217
+"CABA","Moderna","3",15
+"CABA","Pfizer","1",142248
+"CABA","Pfizer","2",49824
+"CABA","Sinopharm","1",856075
+"CABA","Sinopharm","2",656572
+"CABA","Sinopharm","3",383
+"CABA","Sputnik","1",950604
+"CABA","Sputnik","2",570872
+"CABA","Sputnik","3",9
+"Catamarca","AstraZeneca","1",85989
+"Catamarca","AstraZeneca","2",80118
+"Catamarca","AstraZeneca","3",823
+"Catamarca","Cansino","1",1076
+"Catamarca","COVISHIELD","1",4677
+"Catamarca","COVISHIELD","2",4
+"Catamarca","Moderna","1",7187
+"Catamarca","Moderna","2",21088
+"Catamarca","Moderna","3",1
+"Catamarca","Pfizer","1",17553
+"Catamarca","Pfizer","2",985
+"Catamarca","Sinopharm","1",130072
+"Catamarca","Sinopharm","2",93341
+"Catamarca","Sinopharm","3",4
+"Catamarca","Sputnik","1",95324
+"Catamarca","Sputnik","2",62696
+"Catamarca","Sputnik","3",13
+"Chaco","AstraZeneca","1",224984
+"Chaco","AstraZeneca","2",180865
+"Chaco","AstraZeneca","3",4781
+"Chaco","Cansino","1",1305
+"Chaco","COVISHIELD","1",15218
+"Chaco","COVISHIELD","2",610
+"Chaco","Moderna","1",24943
+"Chaco","Moderna","2",50382
+"Chaco","Moderna","3",13
+"Chaco","Pfizer","1",24825
+"Chaco","Pfizer","2",1976
+"Chaco","Pfizer","3",30
+"Chaco","Sinopharm","1",268455
+"Chaco","Sinopharm","2",158352
+"Chaco","Sinopharm","3",32
+"Chaco","Sputnik","1",242499
+"Chaco","Sputnik","2",139487
+"Chaco","Sputnik","3",215
+"Chubut","AstraZeneca","1",123965
+"Chubut","AstraZeneca","2",114767
+"Chubut","AstraZeneca","3",354
+"Chubut","Cansino","1",234
+"Chubut","Cansino","2",1
+"Chubut","COVISHIELD","1",11449
+"Chubut","COVISHIELD","2",588
+"Chubut","Moderna","1",17869
+"Chubut","Moderna","2",27345
+"Chubut","Pfizer","1",15941
+"Chubut","Pfizer","2",2150
+"Chubut","Sinopharm","1",129042
+"Chubut","Sinopharm","2",88812
+"Chubut","Sinopharm","3",14
+"Chubut","Sputnik","1",134993
+"Chubut","Sputnik","2",87098
+"Chubut","Sputnik","3",4
+"Córdoba","AstraZeneca","1",777550
+"Córdoba","AstraZeneca","2",757908
+"Córdoba","AstraZeneca","3",40973
+"Córdoba","Cansino","1",12495
+"Córdoba","Cansino","2",192
+"Córdoba","COVISHIELD","1",44323
+"Córdoba","COVISHIELD","2",100
+"Córdoba","Moderna","1",41654
+"Córdoba","Moderna","2",245604
+"Córdoba","Pfizer","1",197185
+"Córdoba","Pfizer","2",19699
+"Córdoba","Pfizer","3",55
+"Córdoba","Sinopharm","1",1047892
+"Córdoba","Sinopharm","2",700545
+"Córdoba","Sinopharm","3",79
+"Córdoba","Sputnik","1",883680
+"Córdoba","Sputnik","2",553969
+"Córdoba","Sputnik","3",18
+"Corrientes","AstraZeneca","1",188813
+"Corrientes","AstraZeneca","2",158204
+"Corrientes","AstraZeneca","3",213
+"Corrientes","Cansino","1",3697
+"Corrientes","COVISHIELD","1",19896
+"Corrientes","COVISHIELD","2",409
+"Corrientes","Moderna","1",25096
+"Corrientes","Moderna","2",54030
+"Corrientes","Moderna","3",1
+"Corrientes","Pfizer","1",38135
+"Corrientes","Pfizer","2",1071
+"Corrientes","Pfizer","3",2
+"Corrientes","Sinopharm","1",323782
+"Corrientes","Sinopharm","2",190150
+"Corrientes","Sinopharm","3",3
+"Corrientes","Sputnik","1",255758
+"Corrientes","Sputnik","2",142790
+"Corrientes","Sputnik","3",6
+"Entre Ríos","AstraZeneca","1",280084
+"Entre Ríos","AstraZeneca","2",245544
+"Entre Ríos","AstraZeneca","3",1333
+"Entre Ríos","Cansino","1",6149
+"Entre Ríos","COVISHIELD","1",17117
+"Entre Ríos","COVISHIELD","2",332
+"Entre Ríos","Moderna","1",20693
+"Entre Ríos","Moderna","2",69819
+"Entre Ríos","Pfizer","1",45630
+"Entre Ríos","Pfizer","2",1649
+"Entre Ríos","Sinopharm","1",340833
+"Entre Ríos","Sinopharm","2",251285
+"Entre Ríos","Sinopharm","3",13
+"Entre Ríos","Sputnik","1",308401
+"Entre Ríos","Sputnik","2",172722
+"Entre Ríos","Sputnik","3",10
+"Formosa","AstraZeneca","1",117909
+"Formosa","AstraZeneca","2",137250
+"Formosa","AstraZeneca","3",44
+"Formosa","Cansino","1",495
+"Formosa","COVISHIELD","1",7306
+"Formosa","COVISHIELD","2",3
+"Formosa","Moderna","1",37966
+"Formosa","Moderna","2",5560
+"Formosa","Pfizer","1",16496
+"Formosa","Pfizer","2",23792
+"Formosa","Sinopharm","1",180400
+"Formosa","Sinopharm","2",118989
+"Formosa","Sinopharm","3",2
+"Formosa","Sputnik","1",132592
+"Formosa","Sputnik","2",75732
+"Formosa","Sputnik","3",2
+"Jujuy","AstraZeneca","1",159709
+"Jujuy","AstraZeneca","2",134703
+"Jujuy","AstraZeneca","3",2090
+"Jujuy","Cansino","1",160
+"Jujuy","COVISHIELD","1",13889
+"Jujuy","COVISHIELD","2",286
+"Jujuy","Moderna","1",20893
+"Jujuy","Moderna","2",25395
+"Jujuy","Moderna","3",2
+"Jujuy","Pfizer","1",23701
+"Jujuy","Pfizer","2",1406
+"Jujuy","Pfizer","3",3
+"Jujuy","Sinopharm","1",202957
+"Jujuy","Sinopharm","2",116625
+"Jujuy","Sinopharm","3",18
+"Jujuy","Sputnik","1",153094
+"Jujuy","Sputnik","2",112301
+"Jujuy","Sputnik","3",57
+"La Pampa","AstraZeneca","1",70004
+"La Pampa","AstraZeneca","2",75969
+"La Pampa","AstraZeneca","3",13448
+"La Pampa","Cansino","1",2558
+"La Pampa","COVISHIELD","1",4794
+"La Pampa","COVISHIELD","2",3
+"La Pampa","Moderna","1",5003
+"La Pampa","Moderna","2",25236
+"La Pampa","Pfizer","1",22404
+"La Pampa","Pfizer","2",3119
+"La Pampa","Sinopharm","1",118505
+"La Pampa","Sinopharm","2",90456
+"La Pampa","Sinopharm","3",1
+"La Pampa","Sputnik","1",89053
+"La Pampa","Sputnik","2",56615
+"La Pampa","Sputnik","3",1
+"La Rioja","AstraZeneca","1",76646
+"La Rioja","AstraZeneca","2",73577
+"La Rioja","AstraZeneca","3",6312
+"La Rioja","Cansino","1",1989
+"La Rioja","COVISHIELD","1",7071
+"La Rioja","COVISHIELD","2",108
+"La Rioja","Moderna","1",8992
+"La Rioja","Moderna","2",23183
+"La Rioja","Pfizer","1",20912
+"La Rioja","Pfizer","2",3663
+"La Rioja","Pfizer","3",9
+"La Rioja","Sinopharm","1",117264
+"La Rioja","Sinopharm","2",73641
+"La Rioja","Sinopharm","3",8
+"La Rioja","Sputnik","1",92069
+"La Rioja","Sputnik","2",60627
+"La Rioja","Sputnik","3",429
+"Mendoza","AstraZeneca","1",405553
+"Mendoza","AstraZeneca","2",365558
+"Mendoza","AstraZeneca","3",10707
+"Mendoza","Cansino","1",3964
+"Mendoza","Cansino","2",2
+"Mendoza","COVISHIELD","1",24999
+"Mendoza","COVISHIELD","2",406
+"Mendoza","Moderna","1",23271
+"Mendoza","Moderna","2",125785
+"Mendoza","Moderna","3",1
+"Mendoza","Pfizer","1",99496
+"Mendoza","Pfizer","2",20310
+"Mendoza","Pfizer","3",3
+"Mendoza","Sinopharm","1",402164
+"Mendoza","Sinopharm","2",291602
+"Mendoza","Sinopharm","3",130
+"Mendoza","Sputnik","1",452423
+"Mendoza","Sputnik","2",252861
+"Mendoza","Sputnik","3",7
+"Misiones","AstraZeneca","1",209557
+"Misiones","AstraZeneca","2",203978
+"Misiones","AstraZeneca","3",3247
+"Misiones","Cansino","1",3547
+"Misiones","Cansino","2",1
+"Misiones","COVISHIELD","1",16403
+"Misiones","COVISHIELD","2",770
+"Misiones","Moderna","1",38046
+"Misiones","Moderna","2",46484
+"Misiones","Pfizer","1",21650
+"Misiones","Pfizer","2",1302
+"Misiones","Pfizer","3",18
+"Misiones","Sinopharm","1",232356
+"Misiones","Sinopharm","2",136856
+"Misiones","Sinopharm","3",189
+"Misiones","Sputnik","1",233518
+"Misiones","Sputnik","2",127753
+"Misiones","Sputnik","3",53
+"Neuquén","AstraZeneca","1",136217
+"Neuquén","AstraZeneca","2",123393
+"Neuquén","AstraZeneca","3",3459
+"Neuquén","Cansino","1",4294
+"Neuquén","COVISHIELD","1",12743
+"Neuquén","COVISHIELD","2",63
+"Neuquén","Moderna","1",11474
+"Neuquén","Moderna","2",36590
+"Neuquén","Pfizer","1",27630
+"Neuquén","Pfizer","2",2781
+"Neuquén","Sinopharm","1",184219
+"Neuquén","Sinopharm","2",120049
+"Neuquén","Sinopharm","3",4
+"Neuquén","Sputnik","1",156923
+"Neuquén","Sputnik","2",96764
+"Neuquén","Sputnik","3",2
+"Río Negro","AstraZeneca","1",143687
+"Río Negro","AstraZeneca","2",143549
+"Río Negro","AstraZeneca","3",9374
+"Río Negro","Cansino","1",1735
+"Río Negro","COVISHIELD","1",14219
+"Río Negro","COVISHIELD","2",107
+"Río Negro","Moderna","1",10463
+"Río Negro","Moderna","2",46411
+"Río Negro","Moderna","3",8
+"Río Negro","Pfizer","1",40481
+"Río Negro","Pfizer","2",6408
+"Río Negro","Pfizer","3",2
+"Río Negro","Sinopharm","1",233523
+"Río Negro","Sinopharm","2",153800
+"Río Negro","Sinopharm","3",213
+"Río Negro","Sputnik","1",172159
+"Río Negro","Sputnik","2",99589
+"Río Negro","Sputnik","3",64
+"S.I.","AstraZeneca","1",14863
+"S.I.","AstraZeneca","2",14007
+"S.I.","AstraZeneca","3",93
+"S.I.","Cansino","1",742
+"S.I.","COVISHIELD","1",987
+"S.I.","COVISHIELD","2",13
+"S.I.","Moderna","1",817
+"S.I.","Moderna","2",2405
+"S.I.","Pfizer","1",2904
+"S.I.","Pfizer","2",379
+"S.I.","Sinopharm","1",25144
+"S.I.","Sinopharm","2",18238
+"S.I.","Sinopharm","3",2
+"S.I.","Sputnik","1",18624
+"S.I.","Sputnik","2",9957
+"S.I.","Sputnik","3",5
+"Salta","AstraZeneca","1",300792
+"Salta","AstraZeneca","2",242011
+"Salta","AstraZeneca","3",4376
+"Salta","Cansino","1",769
+"Salta","COVISHIELD","1",17806
+"Salta","COVISHIELD","2",54
+"Salta","Moderna","1",23625
+"Salta","Moderna","2",65612
+"Salta","Moderna","3",38
+"Salta","Pfizer","1",45354
+"Salta","Pfizer","2",3978
+"Salta","Pfizer","3",2
+"Salta","Sinopharm","1",295279
+"Salta","Sinopharm","2",156121
+"Salta","Sinopharm","3",30
+"Salta","Sputnik","1",293055
+"Salta","Sputnik","2",173806
+"Salta","Sputnik","3",31
+"San Juan","AstraZeneca","1",146277
+"San Juan","AstraZeneca","2",149265
+"San Juan","AstraZeneca","3",1827
+"San Juan","Cansino","1",159
+"San Juan","COVISHIELD","1",8799
+"San Juan","COVISHIELD","2",12
+"San Juan","Moderna","1",17758
+"San Juan","Moderna","2",38785
+"San Juan","Pfizer","1",33384
+"San Juan","Pfizer","2",5088
+"San Juan","Sinopharm","1",196156
+"San Juan","Sinopharm","2",135720
+"San Juan","Sinopharm","3",103
+"San Juan","Sputnik","1",191166
+"San Juan","Sputnik","2",116944
+"San Juan","Sputnik","3",1
+"San Luis","AstraZeneca","1",99603
+"San Luis","AstraZeneca","2",104956
+"San Luis","AstraZeneca","3",10100
+"San Luis","Cansino","1",3906
+"San Luis","Cansino","2",1
+"San Luis","COVISHIELD","1",6866
+"San Luis","COVISHIELD","2",2
+"San Luis","Moderna","1",8721
+"San Luis","Moderna","2",30283
+"San Luis","Pfizer","1",28505
+"San Luis","Pfizer","2",4676
+"San Luis","Sinopharm","1",151852
+"San Luis","Sinopharm","2",106107
+"San Luis","Sinopharm","3",3
+"San Luis","Sputnik","1",122262
+"San Luis","Sputnik","2",84681
+"Santa Cruz","AstraZeneca","1",65355
+"Santa Cruz","AstraZeneca","2",61497
+"Santa Cruz","AstraZeneca","3",982
+"Santa Cruz","Cansino","1",1439
+"Santa Cruz","Cansino","2",1
+"Santa Cruz","COVISHIELD","1",5987
+"Santa Cruz","COVISHIELD","2",695
+"Santa Cruz","Moderna","1",8735
+"Santa Cruz","Moderna","2",17336
+"Santa Cruz","Pfizer","1",14615
+"Santa Cruz","Pfizer","2",2442
+"Santa Cruz","Sinopharm","1",83793
+"Santa Cruz","Sinopharm","2",57717
+"Santa Cruz","Sinopharm","3",2
+"Santa Cruz","Sputnik","1",92274
+"Santa Cruz","Sputnik","2",59598
+"Santa Cruz","Sputnik","3",2
+"Santa Fe","AstraZeneca","1",747771
+"Santa Fe","AstraZeneca","2",739392
+"Santa Fe","AstraZeneca","3",10481
+"Santa Fe","Cansino","1",10390
+"Santa Fe","Cansino","2",2
+"Santa Fe","COVISHIELD","1",41479
+"Santa Fe","COVISHIELD","2",68
+"Santa Fe","Moderna","1",36930
+"Santa Fe","Moderna","2",229736
+"Santa Fe","Pfizer","1",169981
+"Santa Fe","Pfizer","2",15351
+"Santa Fe","Pfizer","3",3
+"Santa Fe","Sinopharm","1",940348
+"Santa Fe","Sinopharm","2",672019
+"Santa Fe","Sinopharm","3",1
+"Santa Fe","Sputnik","1",872929
+"Santa Fe","Sputnik","2",533080
+"Santa Fe","Sputnik","3",6
+"Santiago del Estero","AstraZeneca","1",206701
+"Santiago del Estero","AstraZeneca","2",196011
+"Santiago del Estero","AstraZeneca","3",9766
+"Santiago del Estero","Cansino","1",6255
+"Santiago del Estero","Cansino","2",1
+"Santiago del Estero","COVISHIELD","1",11836
+"Santiago del Estero","COVISHIELD","2",1153
+"Santiago del Estero","Moderna","1",9590
+"Santiago del Estero","Moderna","2",62726
+"Santiago del Estero","Moderna","3",1
+"Santiago del Estero","Pfizer","1",58962
+"Santiago del Estero","Pfizer","2",2724
+"Santiago del Estero","Sinopharm","1",323179
+"Santiago del Estero","Sinopharm","2",208255
+"Santiago del Estero","Sinopharm","3",2
+"Santiago del Estero","Sputnik","1",220971
+"Santiago del Estero","Sputnik","2",130046
+"Santiago del Estero","Sputnik","3",1131
+"Tierra del Fuego","AstraZeneca","1",35698
+"Tierra del Fuego","AstraZeneca","2",34853
+"Tierra del Fuego","AstraZeneca","3",1429
+"Tierra del Fuego","Cansino","1",97
+"Tierra del Fuego","Cansino","2",1
+"Tierra del Fuego","COVISHIELD","1",2740
+"Tierra del Fuego","COVISHIELD","2",721
+"Tierra del Fuego","Moderna","1",2010
+"Tierra del Fuego","Moderna","2",11541
+"Tierra del Fuego","Moderna","3",12
+"Tierra del Fuego","Pfizer","1",12046
+"Tierra del Fuego","Pfizer","2",1162
+"Tierra del Fuego","Pfizer","3",2
+"Tierra del Fuego","Sinopharm","1",53205
+"Tierra del Fuego","Sinopharm","2",34827
+"Tierra del Fuego","Sinopharm","3",4
+"Tierra del Fuego","Sputnik","1",46062
+"Tierra del Fuego","Sputnik","2",27303
+"Tierra del Fuego","Sputnik","3",5
+"Tucumán","AstraZeneca","1",305078
+"Tucumán","AstraZeneca","2",281775
+"Tucumán","AstraZeneca","3",7625
+"Tucumán","Cansino","1",246
+"Tucumán","COVISHIELD","1",20278
+"Tucumán","COVISHIELD","2",60
+"Tucumán","Moderna","1",30516
+"Tucumán","Moderna","2",86084
+"Tucumán","Pfizer","1",68216
+"Tucumán","Pfizer","2",12170
+"Tucumán","Sinopharm","1",403107
+"Tucumán","Sinopharm","2",262135
+"Tucumán","Sinopharm","3",1
+"Tucumán","Sputnik","1",395476
+"Tucumán","Sputnik","2",225794
+"Tucumán","Sputnik","3",12

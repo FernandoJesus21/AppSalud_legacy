@@ -1,0 +1,4319 @@
+"sexo","jurisdiccion_residencia","depto_residencia","orden_dosis","cantidad_aplicaciones"
+"F","Buenos Aires","25 de Mayo","1",16447
+"F","Buenos Aires","25 de Mayo","2",14066
+"F","Buenos Aires","25 de Mayo","3",7
+"F","Buenos Aires","9 de Julio","1",22194
+"F","Buenos Aires","9 de Julio","2",18695
+"F","Buenos Aires","Adolfo Alsina","1",7249
+"F","Buenos Aires","Adolfo Alsina","2",6202
+"F","Buenos Aires","Adolfo Alsina","3",4
+"F","Buenos Aires","Adolfo Gonzales Chaves","1",5355
+"F","Buenos Aires","Adolfo Gonzales Chaves","2",4620
+"F","Buenos Aires","Alberti","1",5017
+"F","Buenos Aires","Alberti","2",4422
+"F","Buenos Aires","Almirante Brown","1",249619
+"F","Buenos Aires","Almirante Brown","2",191765
+"F","Buenos Aires","Almirante Brown","3",6
+"F","Buenos Aires","Arrecifes","1",13216
+"F","Buenos Aires","Arrecifes","2",11251
+"F","Buenos Aires","Arrecifes","3",2
+"F","Buenos Aires","Avellaneda","1",156213
+"F","Buenos Aires","Avellaneda","2",130534
+"F","Buenos Aires","Avellaneda","3",12
+"F","Buenos Aires","Ayacucho","1",8988
+"F","Buenos Aires","Ayacucho","2",7447
+"F","Buenos Aires","Ayacucho","3",1
+"F","Buenos Aires","Azul","1",30094
+"F","Buenos Aires","Azul","2",24961
+"F","Buenos Aires","Azul","3",2
+"F","Buenos Aires","Bahía Blanca","1",127878
+"F","Buenos Aires","Bahía Blanca","2",107301
+"F","Buenos Aires","Bahía Blanca","3",11
+"F","Buenos Aires","Balcarce","1",18270
+"F","Buenos Aires","Balcarce","2",14592
+"F","Buenos Aires","Baradero","1",15931
+"F","Buenos Aires","Baradero","2",13142
+"F","Buenos Aires","Baradero","3",1
+"F","Buenos Aires","Benito Juárez","1",8600
+"F","Buenos Aires","Benito Juárez","2",7302
+"F","Buenos Aires","Berazategui","1",145690
+"F","Buenos Aires","Berazategui","2",117806
+"F","Buenos Aires","Berazategui","3",4
+"F","Buenos Aires","Berisso","1",42851
+"F","Buenos Aires","Berisso","2",35681
+"F","Buenos Aires","Berisso","3",1
+"F","Buenos Aires","Bolívar","1",16467
+"F","Buenos Aires","Bolívar","2",14318
+"F","Buenos Aires","Bolívar","3",2
+"F","Buenos Aires","Bragado","1",19783
+"F","Buenos Aires","Bragado","2",17231
+"F","Buenos Aires","Brandsen","1",12732
+"F","Buenos Aires","Brandsen","2",10306
+"F","Buenos Aires","Campana","1",45759
+"F","Buenos Aires","Campana","2",37440
+"F","Buenos Aires","Campana","3",2
+"F","Buenos Aires","Cañuelas","1",24614
+"F","Buenos Aires","Cañuelas","2",20233
+"F","Buenos Aires","Cañuelas","3",3
+"F","Buenos Aires","Capitán Sarmiento","1",7104
+"F","Buenos Aires","Capitán Sarmiento","2",6055
+"F","Buenos Aires","Carlos Casares","1",10466
+"F","Buenos Aires","Carlos Casares","2",8918
+"F","Buenos Aires","Carlos Tejedor","1",5390
+"F","Buenos Aires","Carlos Tejedor","2",4636
+"F","Buenos Aires","Carmen de Areco","1",7165
+"F","Buenos Aires","Carmen de Areco","2",6149
+"F","Buenos Aires","Castelli","1",3722
+"F","Buenos Aires","Castelli","2",3065
+"F","Buenos Aires","Chacabuco","1",23230
+"F","Buenos Aires","Chacabuco","2",19777
+"F","Buenos Aires","Chascomús","1",17503
+"F","Buenos Aires","Chascomús","2",15134
+"F","Buenos Aires","Chivilcoy","1",31909
+"F","Buenos Aires","Chivilcoy","2",27850
+"F","Buenos Aires","Chivilcoy","3",3
+"F","Buenos Aires","Colón","1",11750
+"F","Buenos Aires","Colón","2",10034
+"F","Buenos Aires","COMUNA 1","1",14
+"F","Buenos Aires","COMUNA 1","2",10
+"F","Buenos Aires","COMUNA 13","1",1
+"F","Buenos Aires","COMUNA 13","2",1
+"F","Buenos Aires","COMUNA 3","1",1
+"F","Buenos Aires","COMUNA 3","2",1
+"F","Buenos Aires","COMUNA 5","1",1
+"F","Buenos Aires","COMUNA 5","2",1
+"F","Buenos Aires","Coronel de Marina L. Rosales","1",24553
+"F","Buenos Aires","Coronel de Marina L. Rosales","2",20817
+"F","Buenos Aires","Coronel de Marina L. Rosales","3",1
+"F","Buenos Aires","Coronel Dorrego","1",6787
+"F","Buenos Aires","Coronel Dorrego","2",5903
+"F","Buenos Aires","Coronel Pringles","1",10113
+"F","Buenos Aires","Coronel Pringles","2",8741
+"F","Buenos Aires","Coronel Suárez","1",16888
+"F","Buenos Aires","Coronel Suárez","2",14564
+"F","Buenos Aires","Coronel Suárez","3",2
+"F","Buenos Aires","Daireaux","1",7530
+"F","Buenos Aires","Daireaux","2",6374
+"F","Buenos Aires","Dolores","1",12959
+"F","Buenos Aires","Dolores","2",10623
+"F","Buenos Aires","Ensenada","1",28450
+"F","Buenos Aires","Ensenada","2",23507
+"F","Buenos Aires","Ensenada","3",3
+"F","Buenos Aires","Escobar","1",95677
+"F","Buenos Aires","Escobar","2",74937
+"F","Buenos Aires","Escobar","3",3
+"F","Buenos Aires","Esteban Echeverría","1",129709
+"F","Buenos Aires","Esteban Echeverría","2",98582
+"F","Buenos Aires","Esteban Echeverría","3",4
+"F","Buenos Aires","Exaltación de la Cruz","1",15695
+"F","Buenos Aires","Exaltación de la Cruz","2",12916
+"F","Buenos Aires","Exaltación de la Cruz","3",1
+"F","Buenos Aires","Ezeiza","1",76368
+"F","Buenos Aires","Ezeiza","2",59536
+"F","Buenos Aires","Ezeiza","3",2
+"F","Buenos Aires","Florencio Varela","1",178815
+"F","Buenos Aires","Florencio Varela","2",134345
+"F","Buenos Aires","Florencio Varela","3",7
+"F","Buenos Aires","Florentino Ameghino","1",4076
+"F","Buenos Aires","Florentino Ameghino","2",3412
+"F","Buenos Aires","Florentino Ameghino","3",1
+"F","Buenos Aires","General Alvarado","1",17046
+"F","Buenos Aires","General Alvarado","2",12985
+"F","Buenos Aires","General Alvarado","3",5
+"F","Buenos Aires","General Alvear","1",4531
+"F","Buenos Aires","General Alvear","2",3815
+"F","Buenos Aires","General Arenales","1",6901
+"F","Buenos Aires","General Arenales","2",5847
+"F","Buenos Aires","General Belgrano","1",8348
+"F","Buenos Aires","General Belgrano","2",7235
+"F","Buenos Aires","General Guido","1",1304
+"F","Buenos Aires","General Guido","2",1142
+"F","Buenos Aires","General Juan Madariaga","1",9904
+"F","Buenos Aires","General Juan Madariaga","2",8177
+"F","Buenos Aires","General La Madrid","1",4952
+"F","Buenos Aires","General La Madrid","2",4288
+"F","Buenos Aires","General Las Heras","1",7196
+"F","Buenos Aires","General Las Heras","2",5955
+"F","Buenos Aires","General Lavalle","1",2145
+"F","Buenos Aires","General Lavalle","2",1742
+"F","Buenos Aires","General Paz","1",5729
+"F","Buenos Aires","General Paz","2",4749
+"F","Buenos Aires","General Pedernera","1",3
+"F","Buenos Aires","General Pedernera","2",1
+"F","Buenos Aires","General Pinto","1",4994
+"F","Buenos Aires","General Pinto","2",4240
+"F","Buenos Aires","General Pueyrredón","1",265328
+"F","Buenos Aires","General Pueyrredón","2",203251
+"F","Buenos Aires","General Pueyrredón","3",15
+"F","Buenos Aires","General Rodríguez","1",44889
+"F","Buenos Aires","General Rodríguez","2",35063
+"F","Buenos Aires","General San Martín","1",175230
+"F","Buenos Aires","General San Martín","2",135018
+"F","Buenos Aires","General San Martín","3",8
+"F","Buenos Aires","General Viamonte","1",7972
+"F","Buenos Aires","General Viamonte","2",6817
+"F","Buenos Aires","General Viamonte","3",1
+"F","Buenos Aires","General Villegas","1",13442
+"F","Buenos Aires","General Villegas","2",11171
+"F","Buenos Aires","General Villegas","3",2
+"F","Buenos Aires","Guaminí","1",4902
+"F","Buenos Aires","Guaminí","2",4159
+"F","Buenos Aires","Hipólito Yrigoyen","1",4327
+"F","Buenos Aires","Hipólito Yrigoyen","2",3643
+"F","Buenos Aires","Hurlingham","1",77950
+"F","Buenos Aires","Hurlingham","2",62366
+"F","Buenos Aires","Hurlingham","3",3
+"F","Buenos Aires","Ituzaingó","1",74869
+"F","Buenos Aires","Ituzaingó","2",63687
+"F","Buenos Aires","Ituzaingó","3",6
+"F","Buenos Aires","José C. Paz","1",112507
+"F","Buenos Aires","José C. Paz","2",78606
+"F","Buenos Aires","José C. Paz","3",6
+"F","Buenos Aires","Junín","1",43865
+"F","Buenos Aires","Junín","2",37667
+"F","Buenos Aires","Junín","3",1
+"F","Buenos Aires","La Capital","1",4
+"F","Buenos Aires","La Capital","2",1
+"F","Buenos Aires","La Costa","1",38942
+"F","Buenos Aires","La Costa","2",31711
+"F","Buenos Aires","La Costa","3",6
+"F","Buenos Aires","La Matanza","1",590670
+"F","Buenos Aires","La Matanza","2",444342
+"F","Buenos Aires","La Matanza","3",37
+"F","Buenos Aires","La Plata","1",482489
+"F","Buenos Aires","La Plata","2",376008
+"F","Buenos Aires","La Plata","3",20
+"F","Buenos Aires","Lanús","1",206091
+"F","Buenos Aires","Lanús","2",173489
+"F","Buenos Aires","Lanús","3",19
+"F","Buenos Aires","Laprida","1",5116
+"F","Buenos Aires","Laprida","2",4419
+"F","Buenos Aires","Las Flores","1",11322
+"F","Buenos Aires","Las Flores","2",9616
+"F","Buenos Aires","Leandro N. Alem","1",7859
+"F","Buenos Aires","Leandro N. Alem","2",6774
+"F","Buenos Aires","Leandro N. Alem","3",1
+"F","Buenos Aires","Lezama","1",1126
+"F","Buenos Aires","Lezama","2",978
+"F","Buenos Aires","Lincoln","1",19486
+"F","Buenos Aires","Lincoln","2",16766
+"F","Buenos Aires","Lobería","1",7315
+"F","Buenos Aires","Lobería","2",6434
+"F","Buenos Aires","Lobería","3",1
+"F","Buenos Aires","Lobos","1",16440
+"F","Buenos Aires","Lobos","2",14132
+"F","Buenos Aires","Lobos","3",1
+"F","Buenos Aires","Lomas de Zamora","1",276302
+"F","Buenos Aires","Lomas de Zamora","2",210180
+"F","Buenos Aires","Lomas de Zamora","3",13
+"F","Buenos Aires","Luján","1",46519
+"F","Buenos Aires","Luján","2",40160
+"F","Buenos Aires","Luján","3",1
+"F","Buenos Aires","Magdalena","1",8189
+"F","Buenos Aires","Magdalena","2",6845
+"F","Buenos Aires","Maipú","1",4785
+"F","Buenos Aires","Maipú","2",4067
+"F","Buenos Aires","Malvinas Argentinas","1",139540
+"F","Buenos Aires","Malvinas Argentinas","2",104449
+"F","Buenos Aires","Malvinas Argentinas","3",8
+"F","Buenos Aires","Mar Chiquita","1",11824
+"F","Buenos Aires","Mar Chiquita","2",9993
+"F","Buenos Aires","Marcos Paz","1",23875
+"F","Buenos Aires","Marcos Paz","2",19488
+"F","Buenos Aires","Marcos Paz","3",1
+"F","Buenos Aires","Mercedes","1",29341
+"F","Buenos Aires","Mercedes","2",25193
+"F","Buenos Aires","Mercedes","3",1
+"F","Buenos Aires","Merlo","1",213633
+"F","Buenos Aires","Merlo","2",158823
+"F","Buenos Aires","Merlo","3",10
+"F","Buenos Aires","Monte","1",10229
+"F","Buenos Aires","Monte","2",8395
+"F","Buenos Aires","Monte Hermoso","1",3683
+"F","Buenos Aires","Monte Hermoso","2",3170
+"F","Buenos Aires","Moreno","1",191205
+"F","Buenos Aires","Moreno","2",139896
+"F","Buenos Aires","Moreno","3",13
+"F","Buenos Aires","Morón","1",146039
+"F","Buenos Aires","Morón","2",126491
+"F","Buenos Aires","Morón","3",14
+"F","Buenos Aires","Navarro","1",7392
+"F","Buenos Aires","Navarro","2",6296
+"F","Buenos Aires","Necochea","1",42269
+"F","Buenos Aires","Necochea","2",36067
+"F","Buenos Aires","Olavarría","1",51580
+"F","Buenos Aires","Olavarría","2",43461
+"F","Buenos Aires","Olavarría","3",2
+"F","Buenos Aires","Patagones","1",14327
+"F","Buenos Aires","Patagones","2",11961
+"F","Buenos Aires","Patagones","3",15
+"F","Buenos Aires","Pehuajó","1",18898
+"F","Buenos Aires","Pehuajó","2",16340
+"F","Buenos Aires","Pellegrini","1",2493
+"F","Buenos Aires","Pellegrini","2",2128
+"F","Buenos Aires","Pellegrini","3",2
+"F","Buenos Aires","Pergamino","1",48620
+"F","Buenos Aires","Pergamino","2",40766
+"F","Buenos Aires","Pergamino","3",2
+"F","Buenos Aires","Pila","1",1665
+"F","Buenos Aires","Pila","2",1458
+"F","Buenos Aires","Pilar","1",141594
+"F","Buenos Aires","Pilar","2",109796
+"F","Buenos Aires","Pilar","3",14
+"F","Buenos Aires","Pinamar","1",14052
+"F","Buenos Aires","Pinamar","2",11681
+"F","Buenos Aires","Pinamar","3",3
+"F","Buenos Aires","Presidente Perón","1",38858
+"F","Buenos Aires","Presidente Perón","2",29041
+"F","Buenos Aires","Presidente Perón","3",2
+"F","Buenos Aires","Puán","1",6950
+"F","Buenos Aires","Puán","2",6171
+"F","Buenos Aires","Puán","3",1
+"F","Buenos Aires","Punta Indio","1",4807
+"F","Buenos Aires","Punta Indio","2",3993
+"F","Buenos Aires","Quilmes","1",252582
+"F","Buenos Aires","Quilmes","2",200276
+"F","Buenos Aires","Quilmes","3",9
+"F","Buenos Aires","Ramallo","1",16542
+"F","Buenos Aires","Ramallo","2",13729
+"F","Buenos Aires","Rauch","1",7216
+"F","Buenos Aires","Rauch","2",6234
+"F","Buenos Aires","Rivadavia","1",7658
+"F","Buenos Aires","Rivadavia","2",6273
+"F","Buenos Aires","Rivadavia","3",1
+"F","Buenos Aires","Rojas","1",10591
+"F","Buenos Aires","Rojas","2",8959
+"F","Buenos Aires","Rojas","3",2
+"F","Buenos Aires","Roque Pérez","1",5898
+"F","Buenos Aires","Roque Pérez","2",5029
+"F","Buenos Aires","S.I.","1",16999
+"F","Buenos Aires","S.I.","2",13461
+"F","Buenos Aires","S.I.","3",1
+"F","Buenos Aires","Saavedra","1",9263
+"F","Buenos Aires","Saavedra","2",8121
+"F","Buenos Aires","Saladillo","1",14449
+"F","Buenos Aires","Saladillo","2",12325
+"F","Buenos Aires","Salliqueló","1",3831
+"F","Buenos Aires","Salliqueló","2",3376
+"F","Buenos Aires","Salto","1",15701
+"F","Buenos Aires","Salto","2",13151
+"F","Buenos Aires","San Andrés de Giles","1",10869
+"F","Buenos Aires","San Andrés de Giles","2",9084
+"F","Buenos Aires","San Antonio de Areco","1",10852
+"F","Buenos Aires","San Antonio de Areco","2",9419
+"F","Buenos Aires","San Cayetano","1",3540
+"F","Buenos Aires","San Cayetano","2",3131
+"F","Buenos Aires","San Fernando","1",71654
+"F","Buenos Aires","San Fernando","2",59348
+"F","Buenos Aires","San Fernando","3",6
+"F","Buenos Aires","San Isidro","1",134701
+"F","Buenos Aires","San Isidro","2",112683
+"F","Buenos Aires","San Isidro","3",17
+"F","Buenos Aires","San Martín","1",1
+"F","Buenos Aires","San Martín","2",1
+"F","Buenos Aires","San Miguel","1",131075
+"F","Buenos Aires","San Miguel","2",97685
+"F","Buenos Aires","San Miguel","3",16
+"F","Buenos Aires","San Nicolás","1",68190
+"F","Buenos Aires","San Nicolás","2",55492
+"F","Buenos Aires","San Nicolás","3",6
+"F","Buenos Aires","San Pedro","1",26381
+"F","Buenos Aires","San Pedro","2",20487
+"F","Buenos Aires","San Pedro","3",1
+"F","Buenos Aires","San Vicente","1",33626
+"F","Buenos Aires","San Vicente","2",25955
+"F","Buenos Aires","San Vicente","3",1
+"F","Buenos Aires","Suipacha","1",5054
+"F","Buenos Aires","Suipacha","2",4310
+"F","Buenos Aires","Tandil","1",53986
+"F","Buenos Aires","Tandil","2",47306
+"F","Buenos Aires","Tandil","3",3
+"F","Buenos Aires","Tapalqué","1",4143
+"F","Buenos Aires","Tapalqué","2",3513
+"F","Buenos Aires","Tigre","1",166337
+"F","Buenos Aires","Tigre","2",122955
+"F","Buenos Aires","Tigre","3",8
+"F","Buenos Aires","Tordillo","1",939
+"F","Buenos Aires","Tordillo","2",803
+"F","Buenos Aires","Tornquist","1",5673
+"F","Buenos Aires","Tornquist","2",4990
+"F","Buenos Aires","Tornquist","3",1
+"F","Buenos Aires","Trenque Lauquen","1",20892
+"F","Buenos Aires","Trenque Lauquen","2",17565
+"F","Buenos Aires","Trenque Lauquen","3",4
+"F","Buenos Aires","Tres Arroyos","1",26675
+"F","Buenos Aires","Tres Arroyos","2",23246
+"F","Buenos Aires","Tres Arroyos","3",1
+"F","Buenos Aires","Tres de Febrero","1",152792
+"F","Buenos Aires","Tres de Febrero","2",128750
+"F","Buenos Aires","Tres de Febrero","3",11
+"F","Buenos Aires","Tres Lomas","1",3467
+"F","Buenos Aires","Tres Lomas","2",3037
+"F","Buenos Aires","Vicente López","1",109921
+"F","Buenos Aires","Vicente López","2",96943
+"F","Buenos Aires","Vicente López","3",38
+"F","Buenos Aires","Villa Gesell","1",14345
+"F","Buenos Aires","Villa Gesell","2",11075
+"F","Buenos Aires","Villa Gesell","3",1
+"F","Buenos Aires","Villarino","1",11607
+"F","Buenos Aires","Villarino","2",9608
+"F","Buenos Aires","Zárate","1",70301
+"F","Buenos Aires","Zárate","2",54546
+"F","Buenos Aires","Zárate","3",1
+"F","CABA","COMUNA 1","1",858920
+"F","CABA","COMUNA 1","2",707951
+"F","CABA","COMUNA 1","3",6515
+"F","CABA","COMUNA 10","1",34558
+"F","CABA","COMUNA 10","2",29951
+"F","CABA","COMUNA 10","3",220
+"F","CABA","COMUNA 11","1",35106
+"F","CABA","COMUNA 11","2",30624
+"F","CABA","COMUNA 11","3",204
+"F","CABA","COMUNA 12","1",44281
+"F","CABA","COMUNA 12","2",38319
+"F","CABA","COMUNA 12","3",181
+"F","CABA","COMUNA 13","1",60777
+"F","CABA","COMUNA 13","2",53058
+"F","CABA","COMUNA 13","3",337
+"F","CABA","COMUNA 14","1",50650
+"F","CABA","COMUNA 14","2",44271
+"F","CABA","COMUNA 14","3",272
+"F","CABA","COMUNA 15","1",38211
+"F","CABA","COMUNA 15","2",32954
+"F","CABA","COMUNA 15","3",159
+"F","CABA","COMUNA 2","1",34465
+"F","CABA","COMUNA 2","2",30307
+"F","CABA","COMUNA 2","3",271
+"F","CABA","COMUNA 3","1",39072
+"F","CABA","COMUNA 3","2",33468
+"F","CABA","COMUNA 3","3",254
+"F","CABA","COMUNA 4","1",44000
+"F","CABA","COMUNA 4","2",36235
+"F","CABA","COMUNA 4","3",204
+"F","CABA","COMUNA 5","1",39920
+"F","CABA","COMUNA 5","2",34898
+"F","CABA","COMUNA 5","3",291
+"F","CABA","COMUNA 6","1",44362
+"F","CABA","COMUNA 6","2",39092
+"F","CABA","COMUNA 6","3",407
+"F","CABA","COMUNA 7","1",43757
+"F","CABA","COMUNA 7","2",37264
+"F","CABA","COMUNA 7","3",298
+"F","CABA","COMUNA 8","1",32817
+"F","CABA","COMUNA 8","2",25732
+"F","CABA","COMUNA 8","3",123
+"F","CABA","COMUNA 9","1",29033
+"F","CABA","COMUNA 9","2",24566
+"F","CABA","COMUNA 9","3",143
+"F","CABA","General San Martín","1",1
+"F","CABA","General San Martín","2",1
+"F","CABA","La Matanza","1",1
+"F","CABA","La Matanza","2",1
+"F","CABA","Lanús","1",1
+"F","CABA","Lanús","2",1
+"F","CABA","S.I.","1",32135
+"F","CABA","S.I.","2",27014
+"F","CABA","S.I.","3",108
+"F","CABA","San Isidro","1",1
+"F","CABA","San Isidro","2",1
+"F","Catamarca","Ambato","1",2419
+"F","Catamarca","Ambato","2",1956
+"F","Catamarca","Ambato","3",4
+"F","Catamarca","Ancasti","1",1338
+"F","Catamarca","Ancasti","2",1084
+"F","Catamarca","Andalgalá","1",7866
+"F","Catamarca","Andalgalá","2",6658
+"F","Catamarca","Andalgalá","3",2
+"F","Catamarca","Antofagasta de la Sierra","1",672
+"F","Catamarca","Antofagasta de la Sierra","2",533
+"F","Catamarca","Belén","1",11099
+"F","Catamarca","Belén","2",8795
+"F","Catamarca","Capayán","1",6917
+"F","Catamarca","Capayán","2",4894
+"F","Catamarca","Capayán","3",6
+"F","Catamarca","Capital","1",77720
+"F","Catamarca","Capital","2",59417
+"F","Catamarca","Capital","3",433
+"F","Catamarca","El Alto","1",1635
+"F","Catamarca","El Alto","2",1256
+"F","Catamarca","El Alto","3",1
+"F","Catamarca","Fray Mamerto Esquiú","1",6062
+"F","Catamarca","Fray Mamerto Esquiú","2",4811
+"F","Catamarca","Fray Mamerto Esquiú","3",2
+"F","Catamarca","La Paz","1",9649
+"F","Catamarca","La Paz","2",7263
+"F","Catamarca","La Paz","3",2
+"F","Catamarca","Paclín","1",1954
+"F","Catamarca","Paclín","2",1726
+"F","Catamarca","Paclín","3",3
+"F","Catamarca","Pomán","1",4597
+"F","Catamarca","Pomán","2",3142
+"F","Catamarca","Pomán","3",2
+"F","Catamarca","S.I.","1",220
+"F","Catamarca","S.I.","2",169
+"F","Catamarca","San Isidro","1",1
+"F","Catamarca","San Isidro","2",1
+"F","Catamarca","Santa María","1",10946
+"F","Catamarca","Santa María","2",8763
+"F","Catamarca","Santa María","3",4
+"F","Catamarca","Santa Rosa","1",4898
+"F","Catamarca","Santa Rosa","2",3842
+"F","Catamarca","Santa Rosa","3",2
+"F","Catamarca","Tinogasta","1",9765
+"F","Catamarca","Tinogasta","2",8216
+"F","Catamarca","Tinogasta","3",1
+"F","Catamarca","Valle Viejo","1",14165
+"F","Catamarca","Valle Viejo","2",10985
+"F","Catamarca","Valle Viejo","3",9
+"F","Chaco","12 de Octubre","1",8341
+"F","Chaco","12 de Octubre","2",4935
+"F","Chaco","12 de Octubre","3",2
+"F","Chaco","1º de Mayo","1",5569
+"F","Chaco","1º de Mayo","2",4127
+"F","Chaco","1º de Mayo","3",106
+"F","Chaco","2 de Abril","1",2629
+"F","Chaco","2 de Abril","2",1455
+"F","Chaco","25 de Mayo","1",9620
+"F","Chaco","25 de Mayo","2",6639
+"F","Chaco","25 de Mayo","3",3
+"F","Chaco","9 de Julio","1",10170
+"F","Chaco","9 de Julio","2",7589
+"F","Chaco","9 de Julio","3",5
+"F","Chaco","Almirante Brown","1",11530
+"F","Chaco","Almirante Brown","2",8044
+"F","Chaco","Almirante Brown","3",2
+"F","Chaco","Bermejo","1",10976
+"F","Chaco","Bermejo","2",8027
+"F","Chaco","Bermejo","3",10
+"F","Chaco","Chacabuco","1",11795
+"F","Chaco","Chacabuco","2",8970
+"F","Chaco","Chacabuco","3",2
+"F","Chaco","Comandante Fernández","1",35284
+"F","Chaco","Comandante Fernández","2",25952
+"F","Chaco","Comandante Fernández","3",199
+"F","Chaco","Fray Justo Santa María de Oro","1",4287
+"F","Chaco","Fray Justo Santa María de Oro","2",3618
+"F","Chaco","Fray Justo Santa María de Oro","3",4
+"F","Chaco","General Belgrano","1",4101
+"F","Chaco","General Belgrano","2",2569
+"F","Chaco","General Donovan","1",6646
+"F","Chaco","General Donovan","2",4879
+"F","Chaco","General Donovan","3",26
+"F","Chaco","General Güemes","1",22884
+"F","Chaco","General Güemes","2",16534
+"F","Chaco","General Güemes","3",4
+"F","Chaco","Independencia","1",7562
+"F","Chaco","Independencia","2",5206
+"F","Chaco","Independencia","3",1
+"F","Chaco","La Capital","1",1
+"F","Chaco","La Capital","2",1
+"F","Chaco","Libertad","1",5731
+"F","Chaco","Libertad","2",4244
+"F","Chaco","Libertad","3",14
+"F","Chaco","Libertador General San Martín","1",20332
+"F","Chaco","Libertador General San Martín","2",11562
+"F","Chaco","Libertador General San Martín","3",8
+"F","Chaco","Maipú","1",7268
+"F","Chaco","Maipú","2",4610
+"F","Chaco","Maipú","3",1
+"F","Chaco","Mayor Luis J. Fontana","1",22860
+"F","Chaco","Mayor Luis J. Fontana","2",17077
+"F","Chaco","Mayor Luis J. Fontana","3",142
+"F","Chaco","O'Higgins","1",7585
+"F","Chaco","O'Higgins","2",5353
+"F","Chaco","O'Higgins","3",5
+"F","Chaco","Presidencia de la Plaza","1",5783
+"F","Chaco","Presidencia de la Plaza","2",4371
+"F","Chaco","Presidencia de la Plaza","3",1
+"F","Chaco","Quitilipi","1",11316
+"F","Chaco","Quitilipi","2",7042
+"F","Chaco","Quitilipi","3",2
+"F","Chaco","S.I.","1",408
+"F","Chaco","S.I.","2",284
+"F","Chaco","S.I.","3",3
+"F","Chaco","San Fernando","1",168837
+"F","Chaco","San Fernando","2",113059
+"F","Chaco","San Fernando","3",2288
+"F","Chaco","San Lorenzo","1",6415
+"F","Chaco","San Lorenzo","2",4733
+"F","Chaco","San Lorenzo","3",2
+"F","Chaco","Sargento Cabral","1",7276
+"F","Chaco","Sargento Cabral","2",5122
+"F","Chaco","Sargento Cabral","3",34
+"F","Chaco","Tapenagá","1",1538
+"F","Chaco","Tapenagá","2",1188
+"F","Chaco","Tapenagá","3",14
+"F","Chubut","Biedma","1",35228
+"F","Chubut","Biedma","2",25728
+"F","Chubut","Biedma","3",20
+"F","Chubut","Cushamen","1",9490
+"F","Chubut","Cushamen","2",7235
+"F","Chubut","Cushamen","3",7
+"F","Chubut","Escalante","1",84766
+"F","Chubut","Escalante","2",65533
+"F","Chubut","Escalante","3",22
+"F","Chubut","Florentino Ameghino","1",597
+"F","Chubut","Florentino Ameghino","2",471
+"F","Chubut","Florentino Ameghino","3",1
+"F","Chubut","Futaleufú","1",19659
+"F","Chubut","Futaleufú","2",15190
+"F","Chubut","Futaleufú","3",51
+"F","Chubut","Gaiman","1",4358
+"F","Chubut","Gaiman","2",3530
+"F","Chubut","Gaiman","3",1
+"F","Chubut","Gastre","1",390
+"F","Chubut","Gastre","2",315
+"F","Chubut","La Capital","1",1
+"F","Chubut","La Capital","2",1
+"F","Chubut","Languiñeo","1",1011
+"F","Chubut","Languiñeo","2",837
+"F","Chubut","Mártires","1",201
+"F","Chubut","Mártires","2",153
+"F","Chubut","Paso de Indios","1",686
+"F","Chubut","Paso de Indios","2",518
+"F","Chubut","Rawson","1",52721
+"F","Chubut","Rawson","2",39496
+"F","Chubut","Rawson","3",88
+"F","Chubut","Río Cuarto","1",1
+"F","Chubut","Río Cuarto","2",1
+"F","Chubut","Río Senguer","1",2424
+"F","Chubut","Río Senguer","2",1848
+"F","Chubut","Río Senguer","3",1
+"F","Chubut","S.I.","1",295
+"F","Chubut","S.I.","2",227
+"F","Chubut","S.I.","3",1
+"F","Chubut","Sarmiento","1",5462
+"F","Chubut","Sarmiento","2",3825
+"F","Chubut","Sarmiento","3",1
+"F","Chubut","Tehuelches","1",2349
+"F","Chubut","Tehuelches","2",1820
+"F","Chubut","Telsen","1",683
+"F","Chubut","Telsen","2",529
+"F","Chubut","Telsen","3",2
+"F","Córdoba","12 de Octubre","1",9
+"F","Córdoba","12 de Octubre","2",2
+"F","Córdoba","2 de Abril","1",1
+"F","Córdoba","2 de Abril","2",1
+"F","Córdoba","Ayacucho","1",1
+"F","Córdoba","Calamuchita","1",26596
+"F","Córdoba","Calamuchita","2",20984
+"F","Córdoba","Calamuchita","3",506
+"F","Córdoba","Capital","1",618313
+"F","Córdoba","Capital","2",476510
+"F","Córdoba","Capital","3",13629
+"F","Córdoba","Colón","1",115981
+"F","Córdoba","Colón","2",87314
+"F","Córdoba","Colón","3",883
+"F","Córdoba","COMUNA 1","1",8
+"F","Córdoba","COMUNA 1","2",1
+"F","Córdoba","Cruz del Eje","1",22988
+"F","Córdoba","Cruz del Eje","2",16999
+"F","Córdoba","Cruz del Eje","3",31
+"F","Córdoba","General Pedernera","1",1
+"F","Córdoba","General Roca","1",15827
+"F","Córdoba","General Roca","2",12418
+"F","Córdoba","General Roca","3",191
+"F","Córdoba","General San Martín","1",62938
+"F","Córdoba","General San Martín","2",48734
+"F","Córdoba","General San Martín","3",419
+"F","Córdoba","Ischilín","1",15233
+"F","Córdoba","Ischilín","2",11528
+"F","Córdoba","Ischilín","3",103
+"F","Córdoba","Juárez Celman","1",29464
+"F","Córdoba","Juárez Celman","2",23205
+"F","Córdoba","Juárez Celman","3",415
+"F","Córdoba","Junín","1",2
+"F","Córdoba","La Capital","1",3
+"F","Córdoba","Libertador General San Martín","1",1
+"F","Córdoba","Libertador General San Martín","2",1
+"F","Córdoba","Marcos Juárez","1",46271
+"F","Córdoba","Marcos Juárez","2",37416
+"F","Córdoba","Marcos Juárez","3",412
+"F","Córdoba","Minas","1",2253
+"F","Córdoba","Minas","2",1832
+"F","Córdoba","Minas","3",24
+"F","Córdoba","Pocho","1",2001
+"F","Córdoba","Pocho","2",1629
+"F","Córdoba","Pocho","3",9
+"F","Córdoba","Presidente Roque Sáenz Peña","1",16773
+"F","Córdoba","Presidente Roque Sáenz Peña","2",13278
+"F","Córdoba","Presidente Roque Sáenz Peña","3",136
+"F","Córdoba","Punilla","1",81358
+"F","Córdoba","Punilla","2",63898
+"F","Córdoba","Punilla","3",1002
+"F","Córdoba","Río Cuarto","1",121200
+"F","Córdoba","Río Cuarto","2",94516
+"F","Córdoba","Río Cuarto","3",1459
+"F","Córdoba","Río Primero","1",21917
+"F","Córdoba","Río Primero","2",17322
+"F","Córdoba","Río Primero","3",314
+"F","Córdoba","Río Seco","1",6228
+"F","Córdoba","Río Seco","2",4597
+"F","Córdoba","Río Seco","3",24
+"F","Córdoba","Río Segundo","1",48180
+"F","Córdoba","Río Segundo","2",37669
+"F","Córdoba","Río Segundo","3",626
+"F","Córdoba","S.I.","1",2865
+"F","Córdoba","S.I.","2",1936
+"F","Córdoba","S.I.","3",32
+"F","Córdoba","San Alberto","1",17424
+"F","Córdoba","San Alberto","2",13251
+"F","Córdoba","San Alberto","3",116
+"F","Córdoba","San Javier","1",24059
+"F","Córdoba","San Javier","2",18533
+"F","Córdoba","San Javier","3",355
+"F","Córdoba","San Justo","1",102254
+"F","Córdoba","San Justo","2",79458
+"F","Córdoba","San Justo","3",1560
+"F","Córdoba","Santa María","1",50082
+"F","Córdoba","Santa María","2",38915
+"F","Córdoba","Santa María","3",396
+"F","Córdoba","Sobremonte","1",2191
+"F","Córdoba","Sobremonte","2",1731
+"F","Córdoba","Sobremonte","3",2
+"F","Córdoba","Tercero Arriba","1",51805
+"F","Córdoba","Tercero Arriba","2",41605
+"F","Córdoba","Tercero Arriba","3",154
+"F","Córdoba","Totoral","1",9048
+"F","Córdoba","Totoral","2",6879
+"F","Córdoba","Totoral","3",34
+"F","Córdoba","Tulumba","1",5622
+"F","Córdoba","Tulumba","2",4328
+"F","Córdoba","Tulumba","3",25
+"F","Córdoba","Unión","1",49635
+"F","Córdoba","Unión","2",39647
+"F","Córdoba","Unión","3",208
+"F","Corrientes","Bella Vista","1",14684
+"F","Corrientes","Bella Vista","2",9691
+"F","Corrientes","Berón de Astrada","1",1164
+"F","Corrientes","Berón de Astrada","2",932
+"F","Corrientes","Capital","1",167683
+"F","Corrientes","Capital","2",109724
+"F","Corrientes","Capital","3",26
+"F","Corrientes","Concepción","1",8970
+"F","Corrientes","Concepción","2",5674
+"F","Corrientes","Curuzú Cuatiá","1",20384
+"F","Corrientes","Curuzú Cuatiá","2",13621
+"F","Corrientes","Empedrado","1",4464
+"F","Corrientes","Empedrado","2",1363
+"F","Corrientes","Empedrado","3",1
+"F","Corrientes","Escobar","1",1
+"F","Corrientes","Escobar","2",1
+"F","Corrientes","Esquina","1",13881
+"F","Corrientes","Esquina","2",10855
+"F","Corrientes","Esquina","3",1
+"F","Corrientes","General Alvear","1",3047
+"F","Corrientes","General Alvear","2",2151
+"F","Corrientes","General Alvear","3",1
+"F","Corrientes","General Paz","1",6811
+"F","Corrientes","General Paz","2",5111
+"F","Corrientes","Goya","1",33596
+"F","Corrientes","Goya","2",20727
+"F","Corrientes","Goya","3",5
+"F","Corrientes","Itatí","1",4641
+"F","Corrientes","Itatí","2",3709
+"F","Corrientes","Itatí","3",2
+"F","Corrientes","Ituzaingó","1",15008
+"F","Corrientes","Ituzaingó","2",10643
+"F","Corrientes","Ituzaingó","3",16
+"F","Corrientes","La Capital","1",1
+"F","Corrientes","Lavalle","1",14288
+"F","Corrientes","Lavalle","2",9709
+"F","Corrientes","Mburucuyá","1",4777
+"F","Corrientes","Mburucuyá","2",3596
+"F","Corrientes","Mercedes","1",16481
+"F","Corrientes","Mercedes","2",11608
+"F","Corrientes","Monte Caseros","1",16968
+"F","Corrientes","Monte Caseros","2",12834
+"F","Corrientes","Monte Caseros","3",2
+"F","Corrientes","Paso de los Libres","1",22371
+"F","Corrientes","Paso de los Libres","2",14464
+"F","Corrientes","Paso de los Libres","3",2
+"F","Corrientes","S.I.","1",774
+"F","Corrientes","S.I.","2",422
+"F","Corrientes","Saladas","1",10402
+"F","Corrientes","Saladas","2",6732
+"F","Corrientes","Saladas","3",2
+"F","Corrientes","San Cosme","1",8630
+"F","Corrientes","San Cosme","2",5934
+"F","Corrientes","San Cosme","3",20
+"F","Corrientes","San Luis del Palmar","1",8045
+"F","Corrientes","San Luis del Palmar","2",5220
+"F","Corrientes","San Martín","1",4423
+"F","Corrientes","San Martín","2",3004
+"F","Corrientes","San Martín","3",1
+"F","Corrientes","San Miguel","1",4592
+"F","Corrientes","San Miguel","2",2986
+"F","Corrientes","San Roque","1",7582
+"F","Corrientes","San Roque","2",4512
+"F","Corrientes","Santa Lucía","1",1
+"F","Corrientes","Santa Lucía","2",1
+"F","Corrientes","Santo Tomé","1",21219
+"F","Corrientes","Santo Tomé","2",12436
+"F","Corrientes","Santo Tomé","3",1
+"F","Corrientes","Sauce","1",3605
+"F","Corrientes","Sauce","2",2397
+"F","Entre Ríos","Colón","1",27906
+"F","Entre Ríos","Colón","2",22473
+"F","Entre Ríos","Colón","3",2
+"F","Entre Ríos","Concordia","1",69535
+"F","Entre Ríos","Concordia","2",41499
+"F","Entre Ríos","Concordia","3",15
+"F","Entre Ríos","Diamante","1",19989
+"F","Entre Ríos","Diamante","2",16223
+"F","Entre Ríos","Diamante","3",176
+"F","Entre Ríos","Federación","1",25585
+"F","Entre Ríos","Federación","2",17288
+"F","Entre Ríos","Federación","3",1
+"F","Entre Ríos","Federal","1",10885
+"F","Entre Ríos","Federal","2",8137
+"F","Entre Ríos","Feliciano","1",5379
+"F","Entre Ríos","Feliciano","2",3221
+"F","Entre Ríos","Gualeguay","1",23189
+"F","Entre Ríos","Gualeguay","2",18118
+"F","Entre Ríos","Gualeguay","3",36
+"F","Entre Ríos","Gualeguaychú","1",49845
+"F","Entre Ríos","Gualeguaychú","2",38679
+"F","Entre Ríos","Gualeguaychú","3",105
+"F","Entre Ríos","Islas del Ibicuy","1",5660
+"F","Entre Ríos","Islas del Ibicuy","2",4336
+"F","Entre Ríos","La Paz","1",28845
+"F","Entre Ríos","La Paz","2",21081
+"F","Entre Ríos","La Paz","3",1
+"F","Entre Ríos","Nogoyá","1",16179
+"F","Entre Ríos","Nogoyá","2",13001
+"F","Entre Ríos","Nogoyá","3",16
+"F","Entre Ríos","Paraná","1",147552
+"F","Entre Ríos","Paraná","2",115537
+"F","Entre Ríos","Paraná","3",288
+"F","Entre Ríos","S.I.","1",626
+"F","Entre Ríos","S.I.","2",490
+"F","Entre Ríos","S.I.","3",3
+"F","Entre Ríos","San Salvador","1",8124
+"F","Entre Ríos","San Salvador","2",6181
+"F","Entre Ríos","Tala","1",11066
+"F","Entre Ríos","Tala","2",8326
+"F","Entre Ríos","Uruguay","1",44879
+"F","Entre Ríos","Uruguay","2",34415
+"F","Entre Ríos","Uruguay","3",8
+"F","Entre Ríos","Victoria","1",15675
+"F","Entre Ríos","Victoria","2",12450
+"F","Entre Ríos","Victoria","3",61
+"F","Entre Ríos","Villaguay","1",20049
+"F","Entre Ríos","Villaguay","2",15212
+"F","Formosa","Bermejo","1",4386
+"F","Formosa","Bermejo","2",1938
+"F","Formosa","Bermejo","3",1
+"F","Formosa","Formosa","1",117697
+"F","Formosa","Formosa","2",91047
+"F","Formosa","Formosa","3",10
+"F","Formosa","Laishi","1",9238
+"F","Formosa","Laishi","2",7412
+"F","Formosa","Laishi","3",1
+"F","Formosa","Matacos","1",5198
+"F","Formosa","Matacos","2",2975
+"F","Formosa","Patiño","1",29327
+"F","Formosa","Patiño","2",19045
+"F","Formosa","Patiño","3",12
+"F","Formosa","Pilagás","1",8836
+"F","Formosa","Pilagás","2",6856
+"F","Formosa","Pilcomayo","1",41445
+"F","Formosa","Pilcomayo","2",32026
+"F","Formosa","Pilcomayo","3",5
+"F","Formosa","Pirané","1",31233
+"F","Formosa","Pirané","2",24958
+"F","Formosa","Pirané","3",4
+"F","Formosa","Ramón Lista","1",3936
+"F","Formosa","Ramón Lista","2",2404
+"F","Formosa","S.I.","1",203
+"F","Formosa","S.I.","2",148
+"F","Jujuy","Almirante Brown","1",18
+"F","Jujuy","Almirante Brown","2",8
+"F","Jujuy","Baradero","1",1
+"F","Jujuy","Baradero","2",1
+"F","Jujuy","Campana","1",21
+"F","Jujuy","Campana","2",9
+"F","Jujuy","Cochinoca","1",5695
+"F","Jujuy","Cochinoca","2",3666
+"F","Jujuy","Cochinoca","3",2
+"F","Jujuy","Coronel de Marina L. Rosales","1",74
+"F","Jujuy","Coronel de Marina L. Rosales","2",51
+"F","Jujuy","Dr. Manuel Belgrano","1",118898
+"F","Jujuy","Dr. Manuel Belgrano","2",85433
+"F","Jujuy","Dr. Manuel Belgrano","3",381
+"F","Jujuy","El Carmen","1",37836
+"F","Jujuy","El Carmen","2",24381
+"F","Jujuy","El Carmen","3",168
+"F","Jujuy","Ezeiza","1",1
+"F","Jujuy","Ezeiza","2",1
+"F","Jujuy","General Guido","1",1
+"F","Jujuy","General Guido","2",1
+"F","Jujuy","Humahuaca","1",7831
+"F","Jujuy","Humahuaca","2",5720
+"F","Jujuy","Humahuaca","3",12
+"F","Jujuy","Hurlingham","1",49
+"F","Jujuy","Hurlingham","2",28
+"F","Jujuy","Lanús","1",10
+"F","Jujuy","Lanús","2",7
+"F","Jujuy","Ledesma","1",35592
+"F","Jujuy","Ledesma","2",26416
+"F","Jujuy","Ledesma","3",299
+"F","Jujuy","Palpalá","1",23821
+"F","Jujuy","Palpalá","2",16389
+"F","Jujuy","Palpalá","3",15
+"F","Jujuy","Rinconada","1",688
+"F","Jujuy","Rinconada","2",407
+"F","Jujuy","Rinconada","3",1
+"F","Jujuy","S.I.","1",497
+"F","Jujuy","S.I.","2",304
+"F","Jujuy","S.I.","3",5
+"F","Jujuy","San Antonio","1",2216
+"F","Jujuy","San Antonio","2",1586
+"F","Jujuy","San Antonio","3",12
+"F","Jujuy","San Pedro","1",32253
+"F","Jujuy","San Pedro","2",22951
+"F","Jujuy","San Pedro","3",58
+"F","Jujuy","Santa Bárbara","1",7310
+"F","Jujuy","Santa Bárbara","2",5044
+"F","Jujuy","Santa Catalina","1",1135
+"F","Jujuy","Santa Catalina","2",723
+"F","Jujuy","Santa Catalina","3",1
+"F","Jujuy","Susques","1",1785
+"F","Jujuy","Susques","2",1133
+"F","Jujuy","Tilcara","1",5885
+"F","Jujuy","Tilcara","2",4219
+"F","Jujuy","Tilcara","3",4
+"F","Jujuy","Tumbaya","1",2378
+"F","Jujuy","Tumbaya","2",1833
+"F","Jujuy","Tumbaya","3",3
+"F","Jujuy","Valle Grande","1",1063
+"F","Jujuy","Valle Grande","2",661
+"F","Jujuy","Yavi","1",9016
+"F","Jujuy","Yavi","2",6514
+"F","Jujuy","Yavi","3",85
+"F","La Pampa","Atreucó","1",5176
+"F","La Pampa","Atreucó","2",4193
+"F","La Pampa","Atreucó","3",132
+"F","La Pampa","Caleu Caleu","1",1129
+"F","La Pampa","Caleu Caleu","2",868
+"F","La Pampa","Caleu Caleu","3",86
+"F","La Pampa","Capital","1",55456
+"F","La Pampa","Capital","2",46596
+"F","La Pampa","Capital","3",3344
+"F","La Pampa","Catriló","1",3537
+"F","La Pampa","Catriló","2",2780
+"F","La Pampa","Catriló","3",232
+"F","La Pampa","Chalileo","1",1387
+"F","La Pampa","Chalileo","2",1067
+"F","La Pampa","Chalileo","3",51
+"F","La Pampa","Chapaleufú","1",5536
+"F","La Pampa","Chapaleufú","2",4348
+"F","La Pampa","Chapaleufú","3",11
+"F","La Pampa","Chical Co","1",646
+"F","La Pampa","Chical Co","2",497
+"F","La Pampa","Chical Co","3",48
+"F","La Pampa","Conhelo","1",6864
+"F","La Pampa","Conhelo","2",5792
+"F","La Pampa","Conhelo","3",458
+"F","La Pampa","Curacó","1",367
+"F","La Pampa","Curacó","2",299
+"F","La Pampa","Curacó","3",5
+"F","La Pampa","General Pedernera","1",1
+"F","La Pampa","Gobernador Dupuy","1",3
+"F","La Pampa","Guatraché","1",3778
+"F","La Pampa","Guatraché","2",3117
+"F","La Pampa","Guatraché","3",36
+"F","La Pampa","Hucal","1",3475
+"F","La Pampa","Hucal","2",3075
+"F","La Pampa","Hucal","3",274
+"F","La Pampa","Junín","1",1
+"F","La Pampa","Junín","2",1
+"F","La Pampa","La Capital","1",1
+"F","La Pampa","La Capital","2",1
+"F","La Pampa","Lihuel Calel","1",128
+"F","La Pampa","Lihuel Calel","2",96
+"F","La Pampa","Lihuel Calel","3",8
+"F","La Pampa","Limay Mahuida","1",159
+"F","La Pampa","Limay Mahuida","2",139
+"F","La Pampa","Limay Mahuida","3",7
+"F","La Pampa","Loventué","1",4323
+"F","La Pampa","Loventué","2",3537
+"F","La Pampa","Loventué","3",341
+"F","La Pampa","Maracó","1",29526
+"F","La Pampa","Maracó","2",23621
+"F","La Pampa","Maracó","3",1136
+"F","La Pampa","Puelén","1",4806
+"F","La Pampa","Puelén","2",3611
+"F","La Pampa","Puelén","3",24
+"F","La Pampa","Quemú Quemú","1",3858
+"F","La Pampa","Quemú Quemú","2",3222
+"F","La Pampa","Quemú Quemú","3",69
+"F","La Pampa","Rancul","1",4907
+"F","La Pampa","Rancul","2",3781
+"F","La Pampa","Rancul","3",281
+"F","La Pampa","Realicó","1",8262
+"F","La Pampa","Realicó","2",6691
+"F","La Pampa","Realicó","3",404
+"F","La Pampa","S.I.","1",32
+"F","La Pampa","S.I.","2",29
+"F","La Pampa","S.I.","3",1
+"F","La Pampa","Toay","1",7061
+"F","La Pampa","Toay","2",5717
+"F","La Pampa","Toay","3",219
+"F","La Pampa","Trenel","1",2587
+"F","La Pampa","Trenel","2",2027
+"F","La Pampa","Trenel","3",33
+"F","La Pampa","Utracán","1",7839
+"F","La Pampa","Utracán","2",6512
+"F","La Pampa","Utracán","3",400
+"F","La Rioja","Arauco","1",7328
+"F","La Rioja","Arauco","2",5359
+"F","La Rioja","Arauco","3",20
+"F","La Rioja","Capital","1",89313
+"F","La Rioja","Capital","2",67621
+"F","La Rioja","Capital","3",2654
+"F","La Rioja","Castro Barros","1",2372
+"F","La Rioja","Castro Barros","2",1850
+"F","La Rioja","Castro Barros","3",12
+"F","La Rioja","Chamical","1",7024
+"F","La Rioja","Chamical","2",5322
+"F","La Rioja","Chamical","3",91
+"F","La Rioja","Chilecito","1",23937
+"F","La Rioja","Chilecito","2",17120
+"F","La Rioja","Chilecito","3",786
+"F","La Rioja","Coronel Felipe Varela","1",4973
+"F","La Rioja","Coronel Felipe Varela","2",3972
+"F","La Rioja","Coronel Felipe Varela","3",36
+"F","La Rioja","Famatina","1",2880
+"F","La Rioja","Famatina","2",2071
+"F","La Rioja","Famatina","3",8
+"F","La Rioja","General Angel V. Peñaloza","1",1423
+"F","La Rioja","General Angel V. Peñaloza","2",1034
+"F","La Rioja","General Angel V. Peñaloza","3",4
+"F","La Rioja","General Belgrano","1",3500
+"F","La Rioja","General Belgrano","2",2629
+"F","La Rioja","General Belgrano","3",63
+"F","La Rioja","General Juan F. Quiroga","1",1643
+"F","La Rioja","General Juan F. Quiroga","2",1076
+"F","La Rioja","General Juan F. Quiroga","3",2
+"F","La Rioja","General Lamadrid","1",987
+"F","La Rioja","General Lamadrid","2",760
+"F","La Rioja","General Lamadrid","3",4
+"F","La Rioja","General Ocampo","1",2989
+"F","La Rioja","General Ocampo","2",1785
+"F","La Rioja","General Ocampo","3",11
+"F","La Rioja","General San Martín","1",1819
+"F","La Rioja","General San Martín","2",1551
+"F","La Rioja","Independencia","1",1159
+"F","La Rioja","Independencia","2",816
+"F","La Rioja","Independencia","3",8
+"F","La Rioja","Rosario Vera Peñaloza","1",6953
+"F","La Rioja","Rosario Vera Peñaloza","2",5039
+"F","La Rioja","Rosario Vera Peñaloza","3",3
+"F","La Rioja","S.I.","1",166
+"F","La Rioja","S.I.","2",113
+"F","La Rioja","S.I.","3",6
+"F","La Rioja","San Blas de los Sauces","1",2046
+"F","La Rioja","San Blas de los Sauces","2",1633
+"F","La Rioja","San Blas de los Sauces","3",5
+"F","La Rioja","Sanagasta","1",1449
+"F","La Rioja","Sanagasta","2",1104
+"F","La Rioja","Sanagasta","3",15
+"F","La Rioja","Vinchina","1",1210
+"F","La Rioja","Vinchina","2",979
+"F","La Rioja","Vinchina","3",2
+"F","Mendoza","Capital","1",50050
+"F","Mendoza","Capital","2",40858
+"F","Mendoza","Capital","3",284
+"F","Mendoza","Florencio Varela","1",1
+"F","Mendoza","Florencio Varela","2",1
+"F","Mendoza","General Alvear","1",18954
+"F","Mendoza","General Alvear","2",14668
+"F","Mendoza","General Alvear","3",230
+"F","Mendoza","General Pedernera","1",1
+"F","Mendoza","General Pedernera","2",1
+"F","Mendoza","Godoy Cruz","1",81174
+"F","Mendoza","Godoy Cruz","2",65678
+"F","Mendoza","Godoy Cruz","3",624
+"F","Mendoza","Guaymallén","1",115852
+"F","Mendoza","Guaymallén","2",91619
+"F","Mendoza","Guaymallén","3",1286
+"F","Mendoza","Junín","1",19396
+"F","Mendoza","Junín","2",15371
+"F","Mendoza","Junín","3",83
+"F","Mendoza","La Capital","1",2
+"F","Mendoza","La Capital","2",2
+"F","Mendoza","La Paz","1",4775
+"F","Mendoza","La Paz","2",3626
+"F","Mendoza","La Paz","3",17
+"F","Mendoza","Las Heras","1",83861
+"F","Mendoza","Las Heras","2",64453
+"F","Mendoza","Las Heras","3",624
+"F","Mendoza","Lavalle","1",16479
+"F","Mendoza","Lavalle","2",10250
+"F","Mendoza","Lavalle","3",123
+"F","Mendoza","Luján de Cuyo","1",56386
+"F","Mendoza","Luján de Cuyo","2",45126
+"F","Mendoza","Luján de Cuyo","3",176
+"F","Mendoza","Maipú","1",76377
+"F","Mendoza","Maipú","2",60506
+"F","Mendoza","Maipú","3",240
+"F","Mendoza","Malargüe","1",11934
+"F","Mendoza","Malargüe","2",8915
+"F","Mendoza","Malargüe","3",154
+"F","Mendoza","Rivadavia","1",24840
+"F","Mendoza","Rivadavia","2",19530
+"F","Mendoza","Rivadavia","3",218
+"F","Mendoza","S.I.","1",2560
+"F","Mendoza","S.I.","2",1877
+"F","Mendoza","S.I.","3",8
+"F","Mendoza","San Carlos","1",13328
+"F","Mendoza","San Carlos","2",9633
+"F","Mendoza","San Carlos","3",128
+"F","Mendoza","San Martín","1",49265
+"F","Mendoza","San Martín","2",35613
+"F","Mendoza","San Martín","3",182
+"F","Mendoza","San Rafael","1",67810
+"F","Mendoza","San Rafael","2",44982
+"F","Mendoza","San Rafael","3",1172
+"F","Mendoza","Santa Rosa","1",7500
+"F","Mendoza","Santa Rosa","2",5940
+"F","Mendoza","Santa Rosa","3",21
+"F","Mendoza","Tunuyán","1",21024
+"F","Mendoza","Tunuyán","2",15685
+"F","Mendoza","Tunuyán","3",288
+"F","Mendoza","Tupungato","1",13633
+"F","Mendoza","Tupungato","2",10096
+"F","Mendoza","Tupungato","3",220
+"F","Misiones","25 de Mayo","1",9510
+"F","Misiones","25 de Mayo","2",6954
+"F","Misiones","25 de Mayo","3",42
+"F","Misiones","Apóstoles","1",14170
+"F","Misiones","Apóstoles","2",9775
+"F","Misiones","Apóstoles","3",26
+"F","Misiones","Cainguás","1",16958
+"F","Misiones","Cainguás","2",11881
+"F","Misiones","Cainguás","3",93
+"F","Misiones","Candelaria","1",11382
+"F","Misiones","Candelaria","2",7989
+"F","Misiones","Candelaria","3",65
+"F","Misiones","Capital","1",133202
+"F","Misiones","Capital","2",96690
+"F","Misiones","Capital","3",1070
+"F","Misiones","COMUNA 1","1",3
+"F","Misiones","COMUNA 1","2",2
+"F","Misiones","Concepción","1",3254
+"F","Misiones","Concepción","2",2089
+"F","Misiones","Concepción","3",2
+"F","Misiones","Eldorado","1",29651
+"F","Misiones","Eldorado","2",21527
+"F","Misiones","Eldorado","3",61
+"F","Misiones","General Manuel Belgrano","1",12126
+"F","Misiones","General Manuel Belgrano","2",7656
+"F","Misiones","General Manuel Belgrano","3",2
+"F","Misiones","Guaraní","1",19184
+"F","Misiones","Guaraní","2",12435
+"F","Misiones","Guaraní","3",138
+"F","Misiones","Iguazú","1",30030
+"F","Misiones","Iguazú","2",22350
+"F","Misiones","Iguazú","3",47
+"F","Misiones","Leandro N. Alem","1",17013
+"F","Misiones","Leandro N. Alem","2",12540
+"F","Misiones","Leandro N. Alem","3",59
+"F","Misiones","Libertador Grl. San Martín","1",16291
+"F","Misiones","Libertador Grl. San Martín","2",11992
+"F","Misiones","Libertador Grl. San Martín","3",53
+"F","Misiones","Montecarlo","1",12978
+"F","Misiones","Montecarlo","2",9729
+"F","Misiones","Montecarlo","3",3
+"F","Misiones","Oberá","1",35207
+"F","Misiones","Oberá","2",24455
+"F","Misiones","Oberá","3",149
+"F","Misiones","S.I.","1",603
+"F","Misiones","S.I.","2",450
+"F","Misiones","S.I.","3",1
+"F","Misiones","San Ignacio","1",19121
+"F","Misiones","San Ignacio","2",13090
+"F","Misiones","San Ignacio","3",55
+"F","Misiones","San Javier","1",7350
+"F","Misiones","San Javier","2",5198
+"F","Misiones","San Javier","3",2
+"F","Misiones","San Pedro","1",8058
+"F","Misiones","San Pedro","2",5380
+"F","Misiones","San Pedro","3",25
+"F","Neuquén","Aluminé","1",3740
+"F","Neuquén","Aluminé","2",2477
+"F","Neuquén","Aluminé","3",31
+"F","Neuquén","Añelo","1",6115
+"F","Neuquén","Añelo","2",4149
+"F","Neuquén","Añelo","3",1
+"F","Neuquén","Catán Lil","1",719
+"F","Neuquén","Catán Lil","2",497
+"F","Neuquén","Catán Lil","3",1
+"F","Neuquén","Chos Malal","1",6508
+"F","Neuquén","Chos Malal","2",4204
+"F","Neuquén","Chos Malal","3",35
+"F","Neuquén","Collón Curá","1",1908
+"F","Neuquén","Collón Curá","2",1149
+"F","Neuquén","Collón Curá","3",1
+"F","Neuquén","Confluencia","1",183316
+"F","Neuquén","Confluencia","2",136149
+"F","Neuquén","Confluencia","3",1377
+"F","Neuquén","Huiliches","1",7483
+"F","Neuquén","Huiliches","2",5364
+"F","Neuquén","Huiliches","3",12
+"F","Neuquén","Lácar","1",14396
+"F","Neuquén","Lácar","2",10291
+"F","Neuquén","Lácar","3",140
+"F","Neuquén","Loncopué","1",3241
+"F","Neuquén","Loncopué","2",2338
+"F","Neuquén","Loncopué","3",32
+"F","Neuquén","Los Lagos","1",5473
+"F","Neuquén","Los Lagos","2",3589
+"F","Neuquén","Minas","1",2956
+"F","Neuquén","Minas","2",2123
+"F","Neuquén","Minas","3",10
+"F","Neuquén","Ñorquín","1",2107
+"F","Neuquén","Ñorquín","2",1532
+"F","Neuquén","Ñorquín","3",13
+"F","Neuquén","Pehuenches","1",10829
+"F","Neuquén","Pehuenches","2",7309
+"F","Neuquén","Pehuenches","3",63
+"F","Neuquén","Picún Leufú","1",1824
+"F","Neuquén","Picún Leufú","2",1205
+"F","Neuquén","Picún Leufú","3",1
+"F","Neuquén","Picunches","1",3306
+"F","Neuquén","Picunches","2",2291
+"F","Neuquén","Picunches","3",20
+"F","Neuquén","S.I.","1",255
+"F","Neuquén","S.I.","2",135
+"F","Neuquén","S.I.","3",5
+"F","Neuquén","Zapala","1",17940
+"F","Neuquén","Zapala","2",13271
+"F","Neuquén","Zapala","3",120
+"F","Río Negro","25 de Mayo","1",6479
+"F","Río Negro","25 de Mayo","2",4999
+"F","Río Negro","25 de Mayo","3",24
+"F","Río Negro","9 de Julio","1",1547
+"F","Río Negro","9 de Julio","2",1263
+"F","Río Negro","9 de Julio","3",14
+"F","Río Negro","Adolfo Alsina","1",29451
+"F","Río Negro","Adolfo Alsina","2",23344
+"F","Río Negro","Adolfo Alsina","3",673
+"F","Río Negro","Avellaneda","1",17162
+"F","Río Negro","Avellaneda","2",13156
+"F","Río Negro","Avellaneda","3",252
+"F","Río Negro","Bariloche","1",66466
+"F","Río Negro","Bariloche","2",50263
+"F","Río Negro","Bariloche","3",1088
+"F","Río Negro","Conesa","1",3064
+"F","Río Negro","Conesa","2",2511
+"F","Río Negro","Conesa","3",131
+"F","Río Negro","El Cuy","1",1411
+"F","Río Negro","El Cuy","2",1048
+"F","Río Negro","El Cuy","3",2
+"F","Río Negro","General Roca","1",159341
+"F","Río Negro","General Roca","2",118510
+"F","Río Negro","General Roca","3",2771
+"F","Río Negro","Ñorquincó","1",506
+"F","Río Negro","Ñorquincó","2",397
+"F","Río Negro","Ñorquincó","3",1
+"F","Río Negro","Pichi Mahuida","1",7121
+"F","Río Negro","Pichi Mahuida","2",5476
+"F","Río Negro","Pichi Mahuida","3",234
+"F","Río Negro","Pilcaniyeu","1",3614
+"F","Río Negro","Pilcaniyeu","2",2787
+"F","Río Negro","Pilcaniyeu","3",16
+"F","Río Negro","S.I.","1",188
+"F","Río Negro","S.I.","2",100
+"F","Río Negro","San Antonio","1",14811
+"F","Río Negro","San Antonio","2",11241
+"F","Río Negro","San Antonio","3",260
+"F","Río Negro","Valcheta","1",2161
+"F","Río Negro","Valcheta","2",1722
+"F","Río Negro","Valcheta","3",1
+"F","S.I.","Berisso","1",2
+"F","S.I.","Berisso","2",2
+"F","S.I.","Capital","1",3
+"F","S.I.","Capital","2",2
+"F","S.I.","COMUNA 10","1",1
+"F","S.I.","COMUNA 10","2",1
+"F","S.I.","COMUNA 2","1",1
+"F","S.I.","COMUNA 2","2",1
+"F","S.I.","Cruz del Eje","1",1
+"F","S.I.","Cruz del Eje","2",1
+"F","S.I.","José C. Paz","1",1
+"F","S.I.","José C. Paz","2",1
+"F","S.I.","La Matanza","1",1
+"F","S.I.","La Matanza","2",1
+"F","S.I.","La Plata","1",4
+"F","S.I.","La Plata","2",4
+"F","S.I.","Lomas de Zamora","1",2
+"F","S.I.","Lomas de Zamora","2",1
+"F","S.I.","Luján","1",1
+"F","S.I.","Moreno","1",1
+"F","S.I.","Moreno","2",1
+"F","S.I.","Rosario","1",1
+"F","S.I.","Rosario","2",1
+"F","S.I.","S.I.","1",34593
+"F","S.I.","S.I.","2",25746
+"F","S.I.","S.I.","3",38
+"F","S.I.","Santa Lucía","1",1
+"F","Salta","Anta","1",23976
+"F","Salta","Anta","2",14518
+"F","Salta","Anta","3",65
+"F","Salta","Cachi","1",3554
+"F","Salta","Cachi","2",2297
+"F","Salta","Cachi","3",1
+"F","Salta","Cafayate","1",6999
+"F","Salta","Cafayate","2",4846
+"F","Salta","Cafayate","3",12
+"F","Salta","Capital","1",224816
+"F","Salta","Capital","2",163269
+"F","Salta","Capital","3",1518
+"F","Salta","Cerrillos","1",20012
+"F","Salta","Cerrillos","2",13835
+"F","Salta","Cerrillos","3",123
+"F","Salta","Chicoana","1",9823
+"F","Salta","Chicoana","2",6762
+"F","Salta","Chicoana","3",51
+"F","Salta","General Güemes","1",20253
+"F","Salta","General Güemes","2",14311
+"F","Salta","General Güemes","3",62
+"F","Salta","Grl. José de San Martín","1",55456
+"F","Salta","Grl. José de San Martín","2",34407
+"F","Salta","Grl. José de San Martín","3",58
+"F","Salta","Guachipas","1",1504
+"F","Salta","Guachipas","2",933
+"F","Salta","Guachipas","3",2
+"F","Salta","Iruya","1",2124
+"F","Salta","Iruya","2",1482
+"F","Salta","La Caldera","1",5406
+"F","Salta","La Caldera","2",4108
+"F","Salta","La Caldera","3",71
+"F","Salta","La Candelaria","1",2940
+"F","Salta","La Candelaria","2",2076
+"F","Salta","La Candelaria","3",57
+"F","Salta","La Poma","1",811
+"F","Salta","La Poma","2",596
+"F","Salta","La Viña","1",3621
+"F","Salta","La Viña","2",2764
+"F","Salta","La Viña","3",7
+"F","Salta","Los Andes","1",3272
+"F","Salta","Los Andes","2",2093
+"F","Salta","Metán","1",18384
+"F","Salta","Metán","2",13033
+"F","Salta","Metán","3",130
+"F","Salta","Molinos","1",2760
+"F","Salta","Molinos","2",1844
+"F","Salta","Molinos","3",2
+"F","Salta","Orán","1",49679
+"F","Salta","Orán","2",28850
+"F","Salta","Orán","3",75
+"F","Salta","Rivadavia","1",8573
+"F","Salta","Rivadavia","2",4917
+"F","Salta","Rivadavia","3",4
+"F","Salta","Rosario de la Frontera","1",12237
+"F","Salta","Rosario de la Frontera","2",7734
+"F","Salta","Rosario de la Frontera","3",81
+"F","Salta","Rosario de Lerma","1",18419
+"F","Salta","Rosario de Lerma","2",12758
+"F","Salta","Rosario de Lerma","3",85
+"F","Salta","S.I.","1",1130
+"F","Salta","S.I.","2",699
+"F","Salta","S.I.","3",1
+"F","Salta","San Carlos","1",3243
+"F","Salta","San Carlos","2",2310
+"F","Salta","San Carlos","3",17
+"F","Salta","Santa Victoria","1",4175
+"F","Salta","Santa Victoria","2",2735
+"F","San Juan","25 de Mayo","1",7273
+"F","San Juan","25 de Mayo","2",4958
+"F","San Juan","25 de Mayo","3",10
+"F","San Juan","9 de Julio","1",5095
+"F","San Juan","9 de Julio","2",3664
+"F","San Juan","9 de Julio","3",12
+"F","San Juan","Albardón","1",10692
+"F","San Juan","Albardón","2",7705
+"F","San Juan","Albardón","3",81
+"F","San Juan","Angaco","1",4395
+"F","San Juan","Angaco","2",3282
+"F","San Juan","Angaco","3",19
+"F","San Juan","Calingasta","1",3866
+"F","San Juan","Calingasta","2",3219
+"F","San Juan","Calingasta","3",8
+"F","San Juan","Campana","1",4
+"F","San Juan","Campana","2",4
+"F","San Juan","Capital","1",48805
+"F","San Juan","Capital","2",40426
+"F","San Juan","Capital","3",194
+"F","San Juan","Caucete","1",15519
+"F","San Juan","Caucete","2",11735
+"F","San Juan","Caucete","3",85
+"F","San Juan","Chimbas","1",37526
+"F","San Juan","Chimbas","2",28092
+"F","San Juan","Chimbas","3",175
+"F","San Juan","COMUNA 1","1",1
+"F","San Juan","Iglesia","1",3479
+"F","San Juan","Iglesia","2",2757
+"F","San Juan","Iglesia","3",1
+"F","San Juan","Jáchal","1",10808
+"F","San Juan","Jáchal","2",8000
+"F","San Juan","Jáchal","3",1
+"F","San Juan","Pocito","1",22020
+"F","San Juan","Pocito","2",16396
+"F","San Juan","Pocito","3",71
+"F","San Juan","Rawson","1",51872
+"F","San Juan","Rawson","2",40316
+"F","San Juan","Rawson","3",183
+"F","San Juan","Rivadavia","1",37383
+"F","San Juan","Rivadavia","2",29794
+"F","San Juan","Rivadavia","3",173
+"F","San Juan","S.I.","1",377
+"F","San Juan","S.I.","2",163
+"F","San Juan","San Martín","1",5191
+"F","San Juan","San Martín","2",3831
+"F","San Juan","San Martín","3",7
+"F","San Juan","Santa Lucía","1",22778
+"F","San Juan","Santa Lucía","2",18121
+"F","San Juan","Santa Lucía","3",142
+"F","San Juan","Sarmiento","1",8851
+"F","San Juan","Sarmiento","2",6492
+"F","San Juan","Sarmiento","3",4
+"F","San Juan","Ullúm","1",2562
+"F","San Juan","Ullúm","2",1836
+"F","San Juan","Ullúm","3",17
+"F","San Juan","Valle Fértil","1",3603
+"F","San Juan","Valle Fértil","2",2705
+"F","San Juan","Zonda","1",1982
+"F","San Juan","Zonda","2",1438
+"F","San Juan","Zonda","3",1
+"F","San Luis","Ayacucho","1",8927
+"F","San Luis","Ayacucho","2",6768
+"F","San Luis","Ayacucho","3",16
+"F","San Luis","Belgrano","1",1732
+"F","San Luis","Belgrano","2",1370
+"F","San Luis","Belgrano","3",9
+"F","San Luis","Capital","1",1
+"F","San Luis","Capital","2",1
+"F","San Luis","Chacabuco","1",9852
+"F","San Luis","Chacabuco","2",7745
+"F","San Luis","Chacabuco","3",35
+"F","San Luis","Coronel Pringles","1",6014
+"F","San Luis","Coronel Pringles","2",4804
+"F","San Luis","Coronel Pringles","3",13
+"F","San Luis","General Pedernera","1",58233
+"F","San Luis","General Pedernera","2",47243
+"F","San Luis","General Pedernera","3",2435
+"F","San Luis","Gobernador Dupuy","1",5012
+"F","San Luis","Gobernador Dupuy","2",3499
+"F","San Luis","Gobernador Dupuy","3",9
+"F","San Luis","Junín","1",13837
+"F","San Luis","Junín","2",11438
+"F","San Luis","Junín","3",244
+"F","San Luis","La Capital","1",109843
+"F","San Luis","La Capital","2",87068
+"F","San Luis","La Capital","3",3098
+"F","San Luis","Libertador General San Martín","1",1727
+"F","San Luis","Libertador General San Martín","2",1267
+"F","San Luis","Libertador General San Martín","3",5
+"F","San Luis","S.I.","1",53
+"F","San Luis","S.I.","2",41
+"F","San Luis","S.I.","3",2
+"F","Santa Cruz","Belgrano","1",1
+"F","Santa Cruz","Belgrano","2",1
+"F","Santa Cruz","Corpen Aike","1",6089
+"F","Santa Cruz","Corpen Aike","2",4479
+"F","Santa Cruz","Corpen Aike","3",5
+"F","Santa Cruz","Deseado","1",48066
+"F","Santa Cruz","Deseado","2",35225
+"F","Santa Cruz","Deseado","3",21
+"F","Santa Cruz","Güer Aike","1",56054
+"F","Santa Cruz","Güer Aike","2",42829
+"F","Santa Cruz","Güer Aike","3",438
+"F","Santa Cruz","Lago Argentino","1",9935
+"F","Santa Cruz","Lago Argentino","2",7368
+"F","Santa Cruz","Lago Argentino","3",5
+"F","Santa Cruz","Lago Buenos Aires","1",4755
+"F","Santa Cruz","Lago Buenos Aires","2",3856
+"F","Santa Cruz","Lago Buenos Aires","3",3
+"F","Santa Cruz","Magallanes","1",4462
+"F","Santa Cruz","Magallanes","2",3235
+"F","Santa Cruz","Magallanes","3",1
+"F","Santa Cruz","Río Chico","1",2422
+"F","Santa Cruz","Río Chico","2",1813
+"F","Santa Cruz","Río Chico","3",2
+"F","Santa Cruz","S.I.","1",116
+"F","Santa Cruz","S.I.","2",98
+"F","Santa Cruz","S.I.","3",2
+"F","Santa Cruz","San Lorenzo","1",1
+"F","Santa Cruz","Vera","1",1
+"F","Santa Cruz","Vera","2",1
+"F","Santa Fe","9 de Julio","1",13331
+"F","Santa Fe","9 de Julio","2",9579
+"F","Santa Fe","9 de Julio","3",34
+"F","Santa Fe","Alberdi","1",1
+"F","Santa Fe","Alberdi","2",1
+"F","Santa Fe","Belgrano","1",20116
+"F","Santa Fe","Belgrano","2",16323
+"F","Santa Fe","Belgrano","3",125
+"F","Santa Fe","Caseros","1",37020
+"F","Santa Fe","Caseros","2",31028
+"F","Santa Fe","Caseros","3",206
+"F","Santa Fe","Castellanos","1",79527
+"F","Santa Fe","Castellanos","2",63058
+"F","Santa Fe","Castellanos","3",429
+"F","Santa Fe","Constitución","1",40659
+"F","Santa Fe","Constitución","2",32664
+"F","Santa Fe","Constitución","3",431
+"F","Santa Fe","Garay","1",9028
+"F","Santa Fe","Garay","2",6892
+"F","Santa Fe","Garay","3",40
+"F","Santa Fe","General López","1",85554
+"F","Santa Fe","General López","2",67640
+"F","Santa Fe","General López","3",1623
+"F","Santa Fe","General Obligado","1",74585
+"F","Santa Fe","General Obligado","2",57062
+"F","Santa Fe","General Obligado","3",42
+"F","Santa Fe","Iriondo","1",31266
+"F","Santa Fe","Iriondo","2",25362
+"F","Santa Fe","Iriondo","3",283
+"F","Santa Fe","La Capital","1",234513
+"F","Santa Fe","La Capital","2",187105
+"F","Santa Fe","La Capital","3",673
+"F","Santa Fe","Las Colonias","1",47061
+"F","Santa Fe","Las Colonias","2",39242
+"F","Santa Fe","Las Colonias","3",232
+"F","Santa Fe","Rosario","1",564108
+"F","Santa Fe","Rosario","2",447592
+"F","Santa Fe","Rosario","3",935
+"F","Santa Fe","S.I.","1",465
+"F","Santa Fe","S.I.","2",212
+"F","Santa Fe","S.I.","3",1
+"F","Santa Fe","San Cristóbal","1",38948
+"F","Santa Fe","San Cristóbal","2",29492
+"F","Santa Fe","San Cristóbal","3",124
+"F","Santa Fe","San Javier","1",14159
+"F","Santa Fe","San Javier","2",10284
+"F","Santa Fe","San Javier","3",71
+"F","Santa Fe","San Jerónimo","1",35153
+"F","Santa Fe","San Jerónimo","2",28924
+"F","Santa Fe","San Jerónimo","3",81
+"F","Santa Fe","San Justo","1",18517
+"F","Santa Fe","San Justo","2",14576
+"F","Santa Fe","San Justo","3",2
+"F","Santa Fe","San Lorenzo","1",77966
+"F","Santa Fe","San Lorenzo","2",60467
+"F","Santa Fe","San Lorenzo","3",615
+"F","Santa Fe","San Martín","1",29453
+"F","Santa Fe","San Martín","2",23618
+"F","Santa Fe","San Martín","3",205
+"F","Santa Fe","Vera","1",21863
+"F","Santa Fe","Vera","2",16070
+"F","Santa Fe","Vera","3",2
+"F","Santiago del Estero","Aguirre","1",4086
+"F","Santiago del Estero","Aguirre","2",3127
+"F","Santiago del Estero","Aguirre","3",238
+"F","Santiago del Estero","Alberdi","1",6460
+"F","Santiago del Estero","Alberdi","2",4410
+"F","Santiago del Estero","Alberdi","3",21
+"F","Santiago del Estero","Atamisqui","1",6413
+"F","Santiago del Estero","Atamisqui","2",4279
+"F","Santiago del Estero","Atamisqui","3",11
+"F","Santiago del Estero","Avellaneda","1",8888
+"F","Santiago del Estero","Avellaneda","2",6868
+"F","Santiago del Estero","Avellaneda","3",8
+"F","Santiago del Estero","Banda","1",72328
+"F","Santiago del Estero","Banda","2",51577
+"F","Santiago del Estero","Banda","3",1073
+"F","Santiago del Estero","Belgrano","1",4206
+"F","Santiago del Estero","Belgrano","2",3095
+"F","Santiago del Estero","Belgrano","3",31
+"F","Santiago del Estero","Capital","1",144245
+"F","Santiago del Estero","Capital","2",108709
+"F","Santiago del Estero","Capital","3",2989
+"F","Santiago del Estero","Choya","1",16903
+"F","Santiago del Estero","Choya","2",12746
+"F","Santiago del Estero","Choya","3",164
+"F","Santiago del Estero","COMUNA 1","1",1
+"F","Santiago del Estero","COMUNA 1","2",1
+"F","Santiago del Estero","Copo","1",11019
+"F","Santiago del Estero","Copo","2",7654
+"F","Santiago del Estero","Copo","3",183
+"F","Santiago del Estero","Figueroa","1",6658
+"F","Santiago del Estero","Figueroa","2",5048
+"F","Santiago del Estero","Figueroa","3",238
+"F","Santiago del Estero","General Taboada","1",16691
+"F","Santiago del Estero","General Taboada","2",13437
+"F","Santiago del Estero","General Taboada","3",3
+"F","Santiago del Estero","Gobernador Dupuy","1",2
+"F","Santiago del Estero","Gobernador Dupuy","2",1
+"F","Santiago del Estero","Guasayán","1",3444
+"F","Santiago del Estero","Guasayán","2",2651
+"F","Santiago del Estero","Guasayán","3",71
+"F","Santiago del Estero","Jiménez","1",6168
+"F","Santiago del Estero","Jiménez","2",4464
+"F","Santiago del Estero","Jiménez","3",124
+"F","Santiago del Estero","Juan F. Ibarra","1",6691
+"F","Santiago del Estero","Juan F. Ibarra","2",5307
+"F","Santiago del Estero","Juan F. Ibarra","3",2
+"F","Santiago del Estero","Loreto","1",9739
+"F","Santiago del Estero","Loreto","2",6691
+"F","Santiago del Estero","Loreto","3",172
+"F","Santiago del Estero","Mitre","1",383
+"F","Santiago del Estero","Mitre","2",347
+"F","Santiago del Estero","Moreno","1",13228
+"F","Santiago del Estero","Moreno","2",9869
+"F","Santiago del Estero","Moreno","3",12
+"F","Santiago del Estero","Ojo de Agua","1",6635
+"F","Santiago del Estero","Ojo de Agua","2",4944
+"F","Santiago del Estero","Ojo de Agua","3",167
+"F","Santiago del Estero","Pellegrini","1",8617
+"F","Santiago del Estero","Pellegrini","2",5917
+"F","Santiago del Estero","Pellegrini","3",28
+"F","Santiago del Estero","Quebrachos","1",4468
+"F","Santiago del Estero","Quebrachos","2",3368
+"F","Santiago del Estero","Quebrachos","3",66
+"F","Santiago del Estero","Río Hondo","1",27504
+"F","Santiago del Estero","Río Hondo","2",20148
+"F","Santiago del Estero","Río Hondo","3",18
+"F","Santiago del Estero","Rivadavia","1",1989
+"F","Santiago del Estero","Rivadavia","2",1560
+"F","Santiago del Estero","Rivadavia","3",197
+"F","Santiago del Estero","Robles","1",22827
+"F","Santiago del Estero","Robles","2",15807
+"F","Santiago del Estero","Robles","3",77
+"F","Santiago del Estero","S.I.","1",421
+"F","Santiago del Estero","S.I.","2",273
+"F","Santiago del Estero","S.I.","3",8
+"F","Santiago del Estero","Salavina","1",4983
+"F","Santiago del Estero","Salavina","2",3396
+"F","Santiago del Estero","Salavina","3",279
+"F","Santiago del Estero","San Martín","1",4314
+"F","Santiago del Estero","San Martín","2",2907
+"F","Santiago del Estero","San Martín","3",1
+"F","Santiago del Estero","Sarmiento","1",1765
+"F","Santiago del Estero","Sarmiento","2",1205
+"F","Santiago del Estero","Silípica","1",3265
+"F","Santiago del Estero","Silípica","2",2574
+"F","Santiago del Estero","Silípica","3",10
+"F","Tierra del Fuego","Antártida Argentina","1",29
+"F","Tierra del Fuego","Antártida Argentina","2",21
+"F","Tierra del Fuego","Río Grande","1",41136
+"F","Tierra del Fuego","Río Grande","2",30105
+"F","Tierra del Fuego","Río Grande","3",283
+"F","Tierra del Fuego","S.I.","1",1717
+"F","Tierra del Fuego","S.I.","2",930
+"F","Tierra del Fuego","S.I.","3",17
+"F","Tierra del Fuego","Ushuaia","1",31949
+"F","Tierra del Fuego","Ushuaia","2",24427
+"F","Tierra del Fuego","Ushuaia","3",389
+"F","Tucumán","Burruyacú","1",15324
+"F","Tucumán","Burruyacú","2",10661
+"F","Tucumán","Burruyacú","3",45
+"F","Tucumán","Capital","1",228025
+"F","Tucumán","Capital","2",168776
+"F","Tucumán","Capital","3",1600
+"F","Tucumán","Chicligasta","1",36323
+"F","Tucumán","Chicligasta","2",26009
+"F","Tucumán","Chicligasta","3",440
+"F","Tucumán","Cruz Alta","1",80899
+"F","Tucumán","Cruz Alta","2",55316
+"F","Tucumán","Cruz Alta","3",227
+"F","Tucumán","Famaillá","1",15248
+"F","Tucumán","Famaillá","2",10845
+"F","Tucumán","Famaillá","3",103
+"F","Tucumán","Graneros","1",5952
+"F","Tucumán","Graneros","2",4186
+"F","Tucumán","Graneros","3",8
+"F","Tucumán","Juan Bautista Alberdi","1",13300
+"F","Tucumán","Juan Bautista Alberdi","2",9973
+"F","Tucumán","Juan Bautista Alberdi","3",178
+"F","Tucumán","La Cocha","1",8797
+"F","Tucumán","La Cocha","2",6456
+"F","Tucumán","La Cocha","3",71
+"F","Tucumán","Leales","1",22534
+"F","Tucumán","Leales","2",16965
+"F","Tucumán","Leales","3",207
+"F","Tucumán","Lules","1",27598
+"F","Tucumán","Lules","2",19466
+"F","Tucumán","Lules","3",82
+"F","Tucumán","Monteros","1",29807
+"F","Tucumán","Monteros","2",22101
+"F","Tucumán","Monteros","3",501
+"F","Tucumán","Río Chico","1",26441
+"F","Tucumán","Río Chico","2",19100
+"F","Tucumán","Río Chico","3",264
+"F","Tucumán","S.I.","1",2508
+"F","Tucumán","S.I.","2",470
+"F","Tucumán","S.I.","3",4
+"F","Tucumán","Simoca","1",12976
+"F","Tucumán","Simoca","2",9407
+"F","Tucumán","Simoca","3",93
+"F","Tucumán","Tafí del Valle","1",7444
+"F","Tucumán","Tafí del Valle","2",5827
+"F","Tucumán","Tafí del Valle","3",50
+"F","Tucumán","Tafí Viejo","1",55698
+"F","Tucumán","Tafí Viejo","2",39706
+"F","Tucumán","Tafí Viejo","3",100
+"F","Tucumán","Trancas","1",7198
+"F","Tucumán","Trancas","2",5255
+"F","Tucumán","Trancas","3",20
+"F","Tucumán","Yerba Buena","1",36981
+"F","Tucumán","Yerba Buena","2",27486
+"F","Tucumán","Yerba Buena","3",270
+"M","Buenos Aires","25 de Mayo","1",15418
+"M","Buenos Aires","25 de Mayo","2",12748
+"M","Buenos Aires","25 de Mayo","3",4
+"M","Buenos Aires","9 de Julio","1",20294
+"M","Buenos Aires","9 de Julio","2",16641
+"M","Buenos Aires","9 de Julio","3",1
+"M","Buenos Aires","Adolfo Alsina","1",7046
+"M","Buenos Aires","Adolfo Alsina","2",5865
+"M","Buenos Aires","Adolfo Alsina","3",2
+"M","Buenos Aires","Adolfo Gonzales Chaves","1",5063
+"M","Buenos Aires","Adolfo Gonzales Chaves","2",4264
+"M","Buenos Aires","Alberti","1",4757
+"M","Buenos Aires","Alberti","2",4077
+"M","Buenos Aires","Almirante Brown","1",232536
+"M","Buenos Aires","Almirante Brown","2",169218
+"M","Buenos Aires","Almirante Brown","3",15
+"M","Buenos Aires","Arrecifes","1",12024
+"M","Buenos Aires","Arrecifes","2",9921
+"M","Buenos Aires","Avellaneda","1",135260
+"M","Buenos Aires","Avellaneda","2",108520
+"M","Buenos Aires","Avellaneda","3",11
+"M","Buenos Aires","Ayacucho","1",8299
+"M","Buenos Aires","Ayacucho","2",6504
+"M","Buenos Aires","Ayacucho","3",1
+"M","Buenos Aires","Azul","1",27087
+"M","Buenos Aires","Azul","2",21384
+"M","Buenos Aires","Azul","3",2
+"M","Buenos Aires","Bahía Blanca","1",112158
+"M","Buenos Aires","Bahía Blanca","2",89953
+"M","Buenos Aires","Bahía Blanca","3",8
+"M","Buenos Aires","Balcarce","1",17098
+"M","Buenos Aires","Balcarce","2",12727
+"M","Buenos Aires","Baradero","1",15181
+"M","Buenos Aires","Baradero","2",12157
+"M","Buenos Aires","Baradero","3",2
+"M","Buenos Aires","Belgrano","1",1
+"M","Buenos Aires","Benito Juárez","1",8041
+"M","Buenos Aires","Benito Juárez","2",6562
+"M","Buenos Aires","Benito Juárez","3",1
+"M","Buenos Aires","Berazategui","1",131728
+"M","Buenos Aires","Berazategui","2",101484
+"M","Buenos Aires","Berazategui","3",2
+"M","Buenos Aires","Berisso","1",41798
+"M","Buenos Aires","Berisso","2",33635
+"M","Buenos Aires","Bolívar","1",15280
+"M","Buenos Aires","Bolívar","2",12887
+"M","Buenos Aires","Bragado","1",18472
+"M","Buenos Aires","Bragado","2",15569
+"M","Buenos Aires","Brandsen","1",12261
+"M","Buenos Aires","Brandsen","2",9665
+"M","Buenos Aires","Campana","1",44320
+"M","Buenos Aires","Campana","2",35239
+"M","Buenos Aires","Cañuelas","1",23686
+"M","Buenos Aires","Cañuelas","2",18815
+"M","Buenos Aires","Capitán Sarmiento","1",6642
+"M","Buenos Aires","Capitán Sarmiento","2",5562
+"M","Buenos Aires","Carlos Casares","1",9769
+"M","Buenos Aires","Carlos Casares","2",8180
+"M","Buenos Aires","Carlos Casares","3",1
+"M","Buenos Aires","Carlos Tejedor","1",5252
+"M","Buenos Aires","Carlos Tejedor","2",4420
+"M","Buenos Aires","Carmen de Areco","1",6958
+"M","Buenos Aires","Carmen de Areco","2",5760
+"M","Buenos Aires","Castelli","1",3494
+"M","Buenos Aires","Castelli","2",2740
+"M","Buenos Aires","Chacabuco","1",21741
+"M","Buenos Aires","Chacabuco","2",17814
+"M","Buenos Aires","Chacabuco","3",1
+"M","Buenos Aires","Chascomús","1",16085
+"M","Buenos Aires","Chascomús","2",13424
+"M","Buenos Aires","Chascomús","3",2
+"M","Buenos Aires","Chivilcoy","1",28733
+"M","Buenos Aires","Chivilcoy","2",24179
+"M","Buenos Aires","Colón","1",10867
+"M","Buenos Aires","Colón","2",9138
+"M","Buenos Aires","COMUNA 1","1",13
+"M","Buenos Aires","COMUNA 1","2",9
+"M","Buenos Aires","COMUNA 12","1",1
+"M","Buenos Aires","COMUNA 12","2",1
+"M","Buenos Aires","COMUNA 5","1",1
+"M","Buenos Aires","COMUNA 5","2",1
+"M","Buenos Aires","Coronel de Marina L. Rosales","1",22553
+"M","Buenos Aires","Coronel de Marina L. Rosales","2",18487
+"M","Buenos Aires","Coronel de Marina L. Rosales","3",2
+"M","Buenos Aires","Coronel Dorrego","1",6486
+"M","Buenos Aires","Coronel Dorrego","2",5500
+"M","Buenos Aires","Coronel Pringles","1",9292
+"M","Buenos Aires","Coronel Pringles","2",7805
+"M","Buenos Aires","Coronel Suárez","1",15422
+"M","Buenos Aires","Coronel Suárez","2",12841
+"M","Buenos Aires","Daireaux","1",7190
+"M","Buenos Aires","Daireaux","2",5866
+"M","Buenos Aires","Dolores","1",11440
+"M","Buenos Aires","Dolores","2",8805
+"M","Buenos Aires","Ensenada","1",28582
+"M","Buenos Aires","Ensenada","2",22893
+"M","Buenos Aires","Ensenada","3",1
+"M","Buenos Aires","Escobar","1",90809
+"M","Buenos Aires","Escobar","2",67586
+"M","Buenos Aires","Escobar","3",4
+"M","Buenos Aires","Esteban Echeverría","1",125843
+"M","Buenos Aires","Esteban Echeverría","2",91074
+"M","Buenos Aires","Esteban Echeverría","3",5
+"M","Buenos Aires","Exaltación de la Cruz","1",15154
+"M","Buenos Aires","Exaltación de la Cruz","2",12229
+"M","Buenos Aires","Exaltación de la Cruz","3",1
+"M","Buenos Aires","Ezeiza","1",66667
+"M","Buenos Aires","Ezeiza","2",49742
+"M","Buenos Aires","Ezeiza","3",1
+"M","Buenos Aires","Florencio Varela","1",164785
+"M","Buenos Aires","Florencio Varela","2",117142
+"M","Buenos Aires","Florencio Varela","3",9
+"M","Buenos Aires","Florentino Ameghino","1",3977
+"M","Buenos Aires","Florentino Ameghino","2",3223
+"M","Buenos Aires","General Alvarado","1",15837
+"M","Buenos Aires","General Alvarado","2",11445
+"M","Buenos Aires","General Alvarado","3",1
+"M","Buenos Aires","General Alvear","1",4352
+"M","Buenos Aires","General Alvear","2",3549
+"M","Buenos Aires","General Arenales","1",6843
+"M","Buenos Aires","General Arenales","2",5590
+"M","Buenos Aires","General Belgrano","1",7825
+"M","Buenos Aires","General Belgrano","2",6526
+"M","Buenos Aires","General Guido","1",1321
+"M","Buenos Aires","General Guido","2",1141
+"M","Buenos Aires","General Juan Madariaga","1",8949
+"M","Buenos Aires","General Juan Madariaga","2",6983
+"M","Buenos Aires","General Juan Madariaga","3",1
+"M","Buenos Aires","General La Madrid","1",4802
+"M","Buenos Aires","General La Madrid","2",3988
+"M","Buenos Aires","General Las Heras","1",6781
+"M","Buenos Aires","General Las Heras","2",5470
+"M","Buenos Aires","General Las Heras","3",1
+"M","Buenos Aires","General Lavalle","1",2263
+"M","Buenos Aires","General Lavalle","2",1794
+"M","Buenos Aires","General Paz","1",5600
+"M","Buenos Aires","General Paz","2",4565
+"M","Buenos Aires","General Pedernera","1",7
+"M","Buenos Aires","General Pedernera","2",4
+"M","Buenos Aires","General Pinto","1",4843
+"M","Buenos Aires","General Pinto","2",3990
+"M","Buenos Aires","General Pinto","3",1
+"M","Buenos Aires","General Pueyrredón","1",227022
+"M","Buenos Aires","General Pueyrredón","2",159898
+"M","Buenos Aires","General Pueyrredón","3",23
+"M","Buenos Aires","General Rodríguez","1",42103
+"M","Buenos Aires","General Rodríguez","2",31435
+"M","Buenos Aires","General Rodríguez","3",2
+"M","Buenos Aires","General San Martín","1",160819
+"M","Buenos Aires","General San Martín","2",116508
+"M","Buenos Aires","General San Martín","3",19
+"M","Buenos Aires","General Viamonte","1",7433
+"M","Buenos Aires","General Viamonte","2",6259
+"M","Buenos Aires","General Viamonte","3",1
+"M","Buenos Aires","General Villegas","1",12717
+"M","Buenos Aires","General Villegas","2",10162
+"M","Buenos Aires","General Villegas","3",1
+"M","Buenos Aires","Guaminí","1",4680
+"M","Buenos Aires","Guaminí","2",3790
+"M","Buenos Aires","Hipólito Yrigoyen","1",4005
+"M","Buenos Aires","Hipólito Yrigoyen","2",3266
+"M","Buenos Aires","Hurlingham","1",73626
+"M","Buenos Aires","Hurlingham","2",55772
+"M","Buenos Aires","Hurlingham","3",2
+"M","Buenos Aires","Ituzaingó","1",69150
+"M","Buenos Aires","Ituzaingó","2",56639
+"M","Buenos Aires","Ituzaingó","3",5
+"M","Buenos Aires","José C. Paz","1",108624
+"M","Buenos Aires","José C. Paz","2",70581
+"M","Buenos Aires","José C. Paz","3",4
+"M","Buenos Aires","Junín","1",39245
+"M","Buenos Aires","Junín","2",32564
+"M","Buenos Aires","Junín","3",4
+"M","Buenos Aires","La Capital","1",8
+"M","Buenos Aires","La Capital","2",2
+"M","Buenos Aires","La Costa","1",35662
+"M","Buenos Aires","La Costa","2",27661
+"M","Buenos Aires","La Costa","3",4
+"M","Buenos Aires","La Matanza","1",515997
+"M","Buenos Aires","La Matanza","2",363185
+"M","Buenos Aires","La Matanza","3",34
+"M","Buenos Aires","La Plata","1",419960
+"M","Buenos Aires","La Plata","2",304998
+"M","Buenos Aires","La Plata","3",16
+"M","Buenos Aires","Lanús","1",185608
+"M","Buenos Aires","Lanús","2",150880
+"M","Buenos Aires","Lanús","3",14
+"M","Buenos Aires","Laprida","1",4722
+"M","Buenos Aires","Laprida","2",3999
+"M","Buenos Aires","Las Flores","1",10271
+"M","Buenos Aires","Las Flores","2",8413
+"M","Buenos Aires","Leandro N. Alem","1",7464
+"M","Buenos Aires","Leandro N. Alem","2",6201
+"M","Buenos Aires","Lezama","1",993
+"M","Buenos Aires","Lezama","2",851
+"M","Buenos Aires","Lincoln","1",17966
+"M","Buenos Aires","Lincoln","2",15125
+"M","Buenos Aires","Lincoln","3",3
+"M","Buenos Aires","Lobería","1",6944
+"M","Buenos Aires","Lobería","2",6007
+"M","Buenos Aires","Lobos","1",15031
+"M","Buenos Aires","Lobos","2",12516
+"M","Buenos Aires","Lobos","3",1
+"M","Buenos Aires","Lomas de Zamora","1",248762
+"M","Buenos Aires","Lomas de Zamora","2",177271
+"M","Buenos Aires","Lomas de Zamora","3",13
+"M","Buenos Aires","Luján","1",43061
+"M","Buenos Aires","Luján","2",35974
+"M","Buenos Aires","Magdalena","1",8006
+"M","Buenos Aires","Magdalena","2",6447
+"M","Buenos Aires","Magdalena","3",1
+"M","Buenos Aires","Maipú","1",4524
+"M","Buenos Aires","Maipú","2",3657
+"M","Buenos Aires","Malvinas Argentinas","1",129815
+"M","Buenos Aires","Malvinas Argentinas","2",90862
+"M","Buenos Aires","Malvinas Argentinas","3",6
+"M","Buenos Aires","Mar Chiquita","1",12148
+"M","Buenos Aires","Mar Chiquita","2",9711
+"M","Buenos Aires","Mar Chiquita","3",1
+"M","Buenos Aires","Marcos Paz","1",23359
+"M","Buenos Aires","Marcos Paz","2",18400
+"M","Buenos Aires","Mercedes","1",26876
+"M","Buenos Aires","Mercedes","2",22316
+"M","Buenos Aires","Mercedes","3",5
+"M","Buenos Aires","Merlo","1",193931
+"M","Buenos Aires","Merlo","2",134565
+"M","Buenos Aires","Merlo","3",10
+"M","Buenos Aires","Monte","1",9611
+"M","Buenos Aires","Monte","2",7669
+"M","Buenos Aires","Monte Hermoso","1",4115
+"M","Buenos Aires","Monte Hermoso","2",3410
+"M","Buenos Aires","Monte Hermoso","3",1
+"M","Buenos Aires","Montecarlo","1",1
+"M","Buenos Aires","Moreno","1",173068
+"M","Buenos Aires","Moreno","2",117897
+"M","Buenos Aires","Moreno","3",5
+"M","Buenos Aires","Morón","1",129344
+"M","Buenos Aires","Morón","2",108102
+"M","Buenos Aires","Morón","3",12
+"M","Buenos Aires","Navarro","1",6905
+"M","Buenos Aires","Navarro","2",5619
+"M","Buenos Aires","Navarro","3",1
+"M","Buenos Aires","Necochea","1",37154
+"M","Buenos Aires","Necochea","2",30570
+"M","Buenos Aires","Necochea","3",1
+"M","Buenos Aires","Olavarría","1",46877
+"M","Buenos Aires","Olavarría","2",37603
+"M","Buenos Aires","Olavarría","3",3
+"M","Buenos Aires","Patagones","1",13154
+"M","Buenos Aires","Patagones","2",10506
+"M","Buenos Aires","Patagones","3",16
+"M","Buenos Aires","Pehuajó","1",17338
+"M","Buenos Aires","Pehuajó","2",14616
+"M","Buenos Aires","Pehuajó","3",1
+"M","Buenos Aires","Pellegrini","1",2395
+"M","Buenos Aires","Pellegrini","2",1993
+"M","Buenos Aires","Pellegrini","3",2
+"M","Buenos Aires","Pergamino","1",43788
+"M","Buenos Aires","Pergamino","2",35266
+"M","Buenos Aires","Pergamino","3",6
+"M","Buenos Aires","Pila","1",1653
+"M","Buenos Aires","Pila","2",1423
+"M","Buenos Aires","Pila","3",1
+"M","Buenos Aires","Pilar","1",133114
+"M","Buenos Aires","Pilar","2",98659
+"M","Buenos Aires","Pilar","3",7
+"M","Buenos Aires","Pinamar","1",13372
+"M","Buenos Aires","Pinamar","2",10735
+"M","Buenos Aires","Pinamar","3",1
+"M","Buenos Aires","Presidente Perón","1",36575
+"M","Buenos Aires","Presidente Perón","2",26224
+"M","Buenos Aires","Presidente Perón","3",1
+"M","Buenos Aires","Puán","1",6614
+"M","Buenos Aires","Puán","2",5740
+"M","Buenos Aires","Puán","3",2
+"M","Buenos Aires","Punta Indio","1",4806
+"M","Buenos Aires","Punta Indio","2",3859
+"M","Buenos Aires","Punta Indio","3",1
+"M","Buenos Aires","Quilmes","1",232618
+"M","Buenos Aires","Quilmes","2",176014
+"M","Buenos Aires","Quilmes","3",11
+"M","Buenos Aires","Ramallo","1",15882
+"M","Buenos Aires","Ramallo","2",12816
+"M","Buenos Aires","Rauch","1",7027
+"M","Buenos Aires","Rauch","2",5888
+"M","Buenos Aires","Rivadavia","1",7657
+"M","Buenos Aires","Rivadavia","2",6020
+"M","Buenos Aires","Rivadavia","3",1
+"M","Buenos Aires","Rojas","1",9909
+"M","Buenos Aires","Rojas","2",8122
+"M","Buenos Aires","Roque Pérez","1",5668
+"M","Buenos Aires","Roque Pérez","2",4670
+"M","Buenos Aires","S.I.","1",12432
+"M","Buenos Aires","S.I.","2",8987
+"M","Buenos Aires","S.I.","3",9
+"M","Buenos Aires","Saavedra","1",8662
+"M","Buenos Aires","Saavedra","2",7408
+"M","Buenos Aires","Saladillo","1",13361
+"M","Buenos Aires","Saladillo","2",10914
+"M","Buenos Aires","Saladillo","3",1
+"M","Buenos Aires","Salliqueló","1",3626
+"M","Buenos Aires","Salliqueló","2",3066
+"M","Buenos Aires","Salliqueló","3",1
+"M","Buenos Aires","Salto","1",14851
+"M","Buenos Aires","Salto","2",12110
+"M","Buenos Aires","Salto","3",1
+"M","Buenos Aires","San Andrés de Giles","1",10603
+"M","Buenos Aires","San Andrés de Giles","2",8683
+"M","Buenos Aires","San Andrés de Giles","3",1
+"M","Buenos Aires","San Antonio de Areco","1",9984
+"M","Buenos Aires","San Antonio de Areco","2",8372
+"M","Buenos Aires","San Cayetano","1",3380
+"M","Buenos Aires","San Cayetano","2",2899
+"M","Buenos Aires","San Cayetano","3",1
+"M","Buenos Aires","San Fernando","1",65729
+"M","Buenos Aires","San Fernando","2",52524
+"M","Buenos Aires","San Fernando","3",8
+"M","Buenos Aires","San Isidro","1",116359
+"M","Buenos Aires","San Isidro","2",93184
+"M","Buenos Aires","San Isidro","3",14
+"M","Buenos Aires","San Miguel","1",119999
+"M","Buenos Aires","San Miguel","2",85267
+"M","Buenos Aires","San Miguel","3",4
+"M","Buenos Aires","San Nicolás","1",62836
+"M","Buenos Aires","San Nicolás","2",49213
+"M","Buenos Aires","San Nicolás","3",3
+"M","Buenos Aires","San Pedro","1",24559
+"M","Buenos Aires","San Pedro","2",18159
+"M","Buenos Aires","San Pedro","3",1
+"M","Buenos Aires","San Vicente","1",30689
+"M","Buenos Aires","San Vicente","2",22724
+"M","Buenos Aires","Suipacha","1",4884
+"M","Buenos Aires","Suipacha","2",4136
+"M","Buenos Aires","Tandil","1",48017
+"M","Buenos Aires","Tandil","2",40582
+"M","Buenos Aires","Tandil","3",4
+"M","Buenos Aires","Tapalqué","1",4035
+"M","Buenos Aires","Tapalqué","2",3279
+"M","Buenos Aires","Tigre","1",150114
+"M","Buenos Aires","Tigre","2",104112
+"M","Buenos Aires","Tigre","3",10
+"M","Buenos Aires","Tordillo","1",1095
+"M","Buenos Aires","Tordillo","2",860
+"M","Buenos Aires","Tornquist","1",5955
+"M","Buenos Aires","Tornquist","2",5056
+"M","Buenos Aires","Trenque Lauquen","1",19278
+"M","Buenos Aires","Trenque Lauquen","2",15635
+"M","Buenos Aires","Trenque Lauquen","3",2
+"M","Buenos Aires","Tres Arroyos","1",24809
+"M","Buenos Aires","Tres Arroyos","2",20941
+"M","Buenos Aires","Tres Arroyos","3",1
+"M","Buenos Aires","Tres de Febrero","1",136367
+"M","Buenos Aires","Tres de Febrero","2",110313
+"M","Buenos Aires","Tres de Febrero","3",16
+"M","Buenos Aires","Tres Lomas","1",3328
+"M","Buenos Aires","Tres Lomas","2",2870
+"M","Buenos Aires","Vicente López","1",99665
+"M","Buenos Aires","Vicente López","2",85185
+"M","Buenos Aires","Vicente López","3",29
+"M","Buenos Aires","Villa Gesell","1",13466
+"M","Buenos Aires","Villa Gesell","2",9834
+"M","Buenos Aires","Villa Gesell","3",2
+"M","Buenos Aires","Villarino","1",11080
+"M","Buenos Aires","Villarino","2",8787
+"M","Buenos Aires","Zárate","1",55130
+"M","Buenos Aires","Zárate","2",40054
+"M","CABA","COMUNA 1","1",752325
+"M","CABA","COMUNA 1","2",598044
+"M","CABA","COMUNA 1","3",4461
+"M","CABA","COMUNA 10","1",30667
+"M","CABA","COMUNA 10","2",25817
+"M","CABA","COMUNA 10","3",159
+"M","CABA","COMUNA 11","1",29997
+"M","CABA","COMUNA 11","2",25279
+"M","CABA","COMUNA 11","3",153
+"M","CABA","COMUNA 12","1",38412
+"M","CABA","COMUNA 12","2",32108
+"M","CABA","COMUNA 12","3",164
+"M","CABA","COMUNA 13","1",48472
+"M","CABA","COMUNA 13","2",40909
+"M","CABA","COMUNA 13","3",209
+"M","CABA","COMUNA 14","1",40939
+"M","CABA","COMUNA 14","2",34795
+"M","CABA","COMUNA 14","3",179
+"M","CABA","COMUNA 15","1",33786
+"M","CABA","COMUNA 15","2",28276
+"M","CABA","COMUNA 15","3",128
+"M","CABA","COMUNA 2","1",26428
+"M","CABA","COMUNA 2","2",22482
+"M","CABA","COMUNA 2","3",231
+"M","CABA","COMUNA 3","1",34025
+"M","CABA","COMUNA 3","2",28341
+"M","CABA","COMUNA 3","3",161
+"M","CABA","COMUNA 4","1",41811
+"M","CABA","COMUNA 4","2",33327
+"M","CABA","COMUNA 4","3",156
+"M","CABA","COMUNA 5","1",33366
+"M","CABA","COMUNA 5","2",28220
+"M","CABA","COMUNA 5","3",212
+"M","CABA","COMUNA 6","1",35983
+"M","CABA","COMUNA 6","2",30687
+"M","CABA","COMUNA 6","3",273
+"M","CABA","COMUNA 7","1",39207
+"M","CABA","COMUNA 7","2",32320
+"M","CABA","COMUNA 7","3",233
+"M","CABA","COMUNA 8","1",32580
+"M","CABA","COMUNA 8","2",24664
+"M","CABA","COMUNA 8","3",101
+"M","CABA","COMUNA 9","1",28476
+"M","CABA","COMUNA 9","2",23437
+"M","CABA","COMUNA 9","3",122
+"M","CABA","S.I.","1",29725
+"M","CABA","S.I.","2",24062
+"M","CABA","S.I.","3",138
+"M","CABA","San Rafael","1",1
+"M","Catamarca","Ambato","1",2837
+"M","Catamarca","Ambato","2",2314
+"M","Catamarca","Ambato","3",5
+"M","Catamarca","Ancasti","1",1534
+"M","Catamarca","Ancasti","2",1200
+"M","Catamarca","Ancasti","3",3
+"M","Catamarca","Andalgalá","1",7974
+"M","Catamarca","Andalgalá","2",6563
+"M","Catamarca","Andalgalá","3",2
+"M","Catamarca","Antofagasta de la Sierra","1",754
+"M","Catamarca","Antofagasta de la Sierra","2",591
+"M","Catamarca","Antofagasta de la Sierra","3",1
+"M","Catamarca","Belén","1",10823
+"M","Catamarca","Belén","2",8259
+"M","Catamarca","Belén","3",1
+"M","Catamarca","Capayán","1",7383
+"M","Catamarca","Capayán","2",4997
+"M","Catamarca","Capayán","3",3
+"M","Catamarca","Capital","1",70247
+"M","Catamarca","Capital","2",50476
+"M","Catamarca","Capital","3",318
+"M","Catamarca","Choya","1",1
+"M","Catamarca","Choya","2",1
+"M","Catamarca","El Alto","1",1860
+"M","Catamarca","El Alto","2",1374
+"M","Catamarca","El Alto","3",5
+"M","Catamarca","Fray Mamerto Esquiú","1",6325
+"M","Catamarca","Fray Mamerto Esquiú","2",4769
+"M","Catamarca","Fray Mamerto Esquiú","3",8
+"M","Catamarca","La Paz","1",9944
+"M","Catamarca","La Paz","2",7081
+"M","Catamarca","La Paz","3",6
+"M","Catamarca","Paclín","1",2169
+"M","Catamarca","Paclín","2",1945
+"M","Catamarca","Paclín","3",2
+"M","Catamarca","Pomán","1",4916
+"M","Catamarca","Pomán","2",3292
+"M","Catamarca","Pomán","3",4
+"M","Catamarca","S.I.","1",228
+"M","Catamarca","S.I.","2",159
+"M","Catamarca","Santa María","1",10619
+"M","Catamarca","Santa María","2",8164
+"M","Catamarca","Santa María","3",1
+"M","Catamarca","Santa Rosa","1",5249
+"M","Catamarca","Santa Rosa","2",3947
+"M","Catamarca","Santa Rosa","3",1
+"M","Catamarca","Tinogasta","1",9554
+"M","Catamarca","Tinogasta","2",7702
+"M","Catamarca","Valle Viejo","1",14164
+"M","Catamarca","Valle Viejo","2",10399
+"M","Catamarca","Valle Viejo","3",9
+"M","Chaco","12 de Octubre","1",8212
+"M","Chaco","12 de Octubre","2",4602
+"M","Chaco","1º de Mayo","1",5761
+"M","Chaco","1º de Mayo","2",3949
+"M","Chaco","1º de Mayo","3",85
+"M","Chaco","2 de Abril","1",2392
+"M","Chaco","2 de Abril","2",1225
+"M","Chaco","25 de Mayo","1",9053
+"M","Chaco","25 de Mayo","2",5826
+"M","Chaco","25 de Mayo","3",1
+"M","Chaco","9 de Julio","1",8929
+"M","Chaco","9 de Julio","2",6172
+"M","Chaco","9 de Julio","3",4
+"M","Chaco","Almirante Brown","1",10650
+"M","Chaco","Almirante Brown","2",6787
+"M","Chaco","Almirante Brown","3",6
+"M","Chaco","Ayacucho","1",2
+"M","Chaco","Bermejo","1",10815
+"M","Chaco","Bermejo","2",7579
+"M","Chaco","Bermejo","3",16
+"M","Chaco","Chacabuco","1",10639
+"M","Chaco","Chacabuco","2",7468
+"M","Chaco","Chacabuco","3",3
+"M","Chaco","Comandante Fernández","1",30297
+"M","Chaco","Comandante Fernández","2",20774
+"M","Chaco","Comandante Fernández","3",119
+"M","Chaco","Fray Justo Santa María de Oro","1",4414
+"M","Chaco","Fray Justo Santa María de Oro","2",3370
+"M","Chaco","Fray Justo Santa María de Oro","3",5
+"M","Chaco","General Belgrano","1",3853
+"M","Chaco","General Belgrano","2",2247
+"M","Chaco","General Belgrano","3",2
+"M","Chaco","General Donovan","1",6997
+"M","Chaco","General Donovan","2",4774
+"M","Chaco","General Donovan","3",27
+"M","Chaco","General Güemes","1",21824
+"M","Chaco","General Güemes","2",14656
+"M","Chaco","General Güemes","3",5
+"M","Chaco","General San Martín","1",1
+"M","Chaco","General San Martín","2",1
+"M","Chaco","Independencia","1",6589
+"M","Chaco","Independencia","2",4180
+"M","Chaco","Independencia","3",1
+"M","Chaco","Libertad","1",5880
+"M","Chaco","Libertad","2",4084
+"M","Chaco","Libertad","3",22
+"M","Chaco","Libertador General San Martín","1",19411
+"M","Chaco","Libertador General San Martín","2",10232
+"M","Chaco","Libertador General San Martín","3",9
+"M","Chaco","Maipú","1",6792
+"M","Chaco","Maipú","2",3871
+"M","Chaco","Maipú","3",1
+"M","Chaco","Mayor Luis J. Fontana","1",20324
+"M","Chaco","Mayor Luis J. Fontana","2",13658
+"M","Chaco","Mayor Luis J. Fontana","3",98
+"M","Chaco","O'Higgins","1",6878
+"M","Chaco","O'Higgins","2",4290
+"M","Chaco","O'Higgins","3",2
+"M","Chaco","Presidencia de la Plaza","1",5381
+"M","Chaco","Presidencia de la Plaza","2",3706
+"M","Chaco","Presidencia de la Plaza","3",2
+"M","Chaco","Quitilipi","1",10287
+"M","Chaco","Quitilipi","2",6050
+"M","Chaco","Quitilipi","3",3
+"M","Chaco","S.I.","1",383
+"M","Chaco","S.I.","2",266
+"M","Chaco","S.I.","3",3
+"M","Chaco","San Fernando","1",149292
+"M","Chaco","San Fernando","2",92443
+"M","Chaco","San Fernando","3",1736
+"M","Chaco","San Lorenzo","1",6046
+"M","Chaco","San Lorenzo","2",4122
+"M","Chaco","Sargento Cabral","1",7122
+"M","Chaco","Sargento Cabral","2",4885
+"M","Chaco","Sargento Cabral","3",23
+"M","Chaco","Tapenagá","1",1591
+"M","Chaco","Tapenagá","2",1141
+"M","Chaco","Tapenagá","3",6
+"M","Chubut","Biedma","1",34842
+"M","Chubut","Biedma","2",23823
+"M","Chubut","Biedma","3",28
+"M","Chubut","Cushamen","1",9423
+"M","Chubut","Cushamen","2",6997
+"M","Chubut","Cushamen","3",11
+"M","Chubut","Escalante","1",81056
+"M","Chubut","Escalante","2",60505
+"M","Chubut","Escalante","3",26
+"M","Chubut","Florentino Ameghino","1",712
+"M","Chubut","Florentino Ameghino","2",552
+"M","Chubut","Futaleufú","1",17759
+"M","Chubut","Futaleufú","2",12984
+"M","Chubut","Futaleufú","3",37
+"M","Chubut","Gaiman","1",4315
+"M","Chubut","Gaiman","2",3295
+"M","Chubut","Gaiman","3",1
+"M","Chubut","Gastre","1",474
+"M","Chubut","Gastre","2",356
+"M","Chubut","Junín","1",1
+"M","Chubut","Junín","2",1
+"M","Chubut","Languiñeo","1",1246
+"M","Chubut","Languiñeo","2",993
+"M","Chubut","Mártires","1",259
+"M","Chubut","Mártires","2",189
+"M","Chubut","Paso de Indios","1",730
+"M","Chubut","Paso de Indios","2",553
+"M","Chubut","Paso de Indios","3",1
+"M","Chubut","Rawson","1",47024
+"M","Chubut","Rawson","2",32992
+"M","Chubut","Rawson","3",68
+"M","Chubut","Río Senguer","1",2660
+"M","Chubut","Río Senguer","2",1965
+"M","Chubut","Río Senguer","3",1
+"M","Chubut","S.I.","1",400
+"M","Chubut","S.I.","2",298
+"M","Chubut","S.I.","3",1
+"M","Chubut","Sarmiento","1",5602
+"M","Chubut","Sarmiento","2",3818
+"M","Chubut","Tehuelches","1",2507
+"M","Chubut","Tehuelches","2",1835
+"M","Chubut","Telsen","1",769
+"M","Chubut","Telsen","2",504
+"M","Córdoba","12 de Octubre","1",12
+"M","Córdoba","1º de Mayo","1",1
+"M","Córdoba","25 de Mayo","1",1
+"M","Córdoba","25 de Mayo","2",1
+"M","Córdoba","Ayacucho","1",1
+"M","Córdoba","Calamuchita","1",25669
+"M","Córdoba","Calamuchita","2",19626
+"M","Córdoba","Calamuchita","3",445
+"M","Córdoba","Capital","1",542475
+"M","Córdoba","Capital","2",394953
+"M","Córdoba","Capital","3",10243
+"M","Córdoba","Chacabuco","1",1
+"M","Córdoba","Colón","1",112670
+"M","Córdoba","Colón","2",81490
+"M","Córdoba","Colón","3",826
+"M","Córdoba","Comandante Fernández","1",1
+"M","Córdoba","COMUNA 1","1",11
+"M","Córdoba","COMUNA 1","2",11
+"M","Córdoba","Cruz del Eje","1",21022
+"M","Córdoba","Cruz del Eje","2",14829
+"M","Córdoba","Cruz del Eje","3",26
+"M","Córdoba","General Güemes","1",1
+"M","Córdoba","General Pedernera","1",2
+"M","Córdoba","General Roca","1",15715
+"M","Córdoba","General Roca","2",11914
+"M","Córdoba","General Roca","3",207
+"M","Córdoba","General San Martín","1",57606
+"M","Córdoba","General San Martín","2",42191
+"M","Córdoba","General San Martín","3",360
+"M","Córdoba","Gobernador Dupuy","1",1
+"M","Córdoba","Ischilín","1",14314
+"M","Córdoba","Ischilín","2",10256
+"M","Córdoba","Ischilín","3",83
+"M","Córdoba","Juárez Celman","1",28681
+"M","Córdoba","Juárez Celman","2",21757
+"M","Córdoba","Juárez Celman","3",338
+"M","Córdoba","Junín","1",2
+"M","Córdoba","Libertador General San Martín","1",2
+"M","Córdoba","Libertador General San Martín","2",2
+"M","Córdoba","Marcos Juárez","1",43226
+"M","Córdoba","Marcos Juárez","2",33632
+"M","Córdoba","Marcos Juárez","3",311
+"M","Córdoba","Minas","1",2305
+"M","Córdoba","Minas","2",1820
+"M","Córdoba","Minas","3",24
+"M","Córdoba","Pocho","1",2107
+"M","Córdoba","Pocho","2",1672
+"M","Córdoba","Pocho","3",9
+"M","Córdoba","Presidente Roque Sáenz Peña","1",16309
+"M","Córdoba","Presidente Roque Sáenz Peña","2",12399
+"M","Córdoba","Presidente Roque Sáenz Peña","3",113
+"M","Córdoba","Punilla","1",73584
+"M","Córdoba","Punilla","2",55187
+"M","Córdoba","Punilla","3",871
+"M","Córdoba","Río Cuarto","1",110281
+"M","Córdoba","Río Cuarto","2",82372
+"M","Córdoba","Río Cuarto","3",1075
+"M","Córdoba","Río Primero","1",21143
+"M","Córdoba","Río Primero","2",16241
+"M","Córdoba","Río Primero","3",280
+"M","Córdoba","Río Seco","1",6400
+"M","Córdoba","Río Seco","2",4550
+"M","Córdoba","Río Seco","3",31
+"M","Córdoba","Río Segundo","1",44924
+"M","Córdoba","Río Segundo","2",33738
+"M","Córdoba","Río Segundo","3",509
+"M","Córdoba","S.I.","1",2983
+"M","Córdoba","S.I.","2",1547
+"M","Córdoba","S.I.","3",23
+"M","Córdoba","San Alberto","1",16358
+"M","Córdoba","San Alberto","2",11672
+"M","Córdoba","San Alberto","3",93
+"M","Córdoba","San Fernando","1",1
+"M","Córdoba","San Fernando","2",1
+"M","Córdoba","San Javier","1",21847
+"M","Córdoba","San Javier","2",16048
+"M","Córdoba","San Javier","3",305
+"M","Córdoba","San Justo","1",95626
+"M","Córdoba","San Justo","2",71362
+"M","Córdoba","San Justo","3",1169
+"M","Córdoba","Santa María","1",47957
+"M","Córdoba","Santa María","2",35893
+"M","Córdoba","Santa María","3",431
+"M","Córdoba","Sobremonte","1",2278
+"M","Córdoba","Sobremonte","2",1796
+"M","Córdoba","Sobremonte","3",1
+"M","Córdoba","Tercero Arriba","1",47554
+"M","Córdoba","Tercero Arriba","2",36753
+"M","Córdoba","Tercero Arriba","3",101
+"M","Córdoba","Totoral","1",9113
+"M","Córdoba","Totoral","2",6818
+"M","Córdoba","Totoral","3",27
+"M","Córdoba","Tulumba","1",5756
+"M","Córdoba","Tulumba","2",4217
+"M","Córdoba","Tulumba","3",25
+"M","Córdoba","Unión","1",48163
+"M","Córdoba","Unión","2",37078
+"M","Córdoba","Unión","3",134
+"M","Corrientes","Bella Vista","1",14074
+"M","Corrientes","Bella Vista","2",8633
+"M","Corrientes","Bella Vista","3",2
+"M","Corrientes","Berón de Astrada","1",1168
+"M","Corrientes","Berón de Astrada","2",898
+"M","Corrientes","Berón de Astrada","3",1
+"M","Corrientes","Biedma","1",1
+"M","Corrientes","Capital","1",147886
+"M","Corrientes","Capital","2",88332
+"M","Corrientes","Capital","3",61
+"M","Corrientes","Concepción","1",8964
+"M","Corrientes","Concepción","2",5335
+"M","Corrientes","Concepción","3",2
+"M","Corrientes","Curuzú Cuatiá","1",18878
+"M","Corrientes","Curuzú Cuatiá","2",11707
+"M","Corrientes","Curuzú Cuatiá","3",2
+"M","Corrientes","Empedrado","1",4433
+"M","Corrientes","Empedrado","2",1577
+"M","Corrientes","Empedrado","3",3
+"M","Corrientes","Escalante","1",1
+"M","Corrientes","Esquina","1",13892
+"M","Corrientes","Esquina","2",10182
+"M","Corrientes","Esquina","3",5
+"M","Corrientes","General Alvear","1",2831
+"M","Corrientes","General Alvear","2",2007
+"M","Corrientes","General Paz","1",6863
+"M","Corrientes","General Paz","2",4899
+"M","Corrientes","General Paz","3",3
+"M","Corrientes","Goya","1",30835
+"M","Corrientes","Goya","2",18541
+"M","Corrientes","Goya","3",2
+"M","Corrientes","Itatí","1",4838
+"M","Corrientes","Itatí","2",3652
+"M","Corrientes","Itatí","3",4
+"M","Corrientes","Ituzaingó","1",15687
+"M","Corrientes","Ituzaingó","2",10611
+"M","Corrientes","Ituzaingó","3",25
+"M","Corrientes","Lavalle","1",14784
+"M","Corrientes","Lavalle","2",9623
+"M","Corrientes","Mburucuyá","1",4494
+"M","Corrientes","Mburucuyá","2",3146
+"M","Corrientes","Mburucuyá","3",1
+"M","Corrientes","Mercedes","1",15574
+"M","Corrientes","Mercedes","2",10096
+"M","Corrientes","Monte Caseros","1",16523
+"M","Corrientes","Monte Caseros","2",11656
+"M","Corrientes","Monte Caseros","3",2
+"M","Corrientes","Paso de los Libres","1",21839
+"M","Corrientes","Paso de los Libres","2",13263
+"M","Corrientes","Paso de los Libres","3",2
+"M","Corrientes","Rawson","1",1
+"M","Corrientes","Rawson","2",1
+"M","Corrientes","S.I.","1",762
+"M","Corrientes","S.I.","2",388
+"M","Corrientes","S.I.","3",1
+"M","Corrientes","Saladas","1",9777
+"M","Corrientes","Saladas","2",5794
+"M","Corrientes","Saladas","3",1
+"M","Corrientes","San Cosme","1",10755
+"M","Corrientes","San Cosme","2",7284
+"M","Corrientes","San Cosme","3",19
+"M","Corrientes","San Luis del Palmar","1",7898
+"M","Corrientes","San Luis del Palmar","2",4880
+"M","Corrientes","San Luis del Palmar","3",2
+"M","Corrientes","San Martín","1",4315
+"M","Corrientes","San Martín","2",2931
+"M","Corrientes","San Miguel","1",4546
+"M","Corrientes","San Miguel","2",2795
+"M","Corrientes","San Roque","1",7364
+"M","Corrientes","San Roque","2",4130
+"M","Corrientes","Santo Tomé","1",19793
+"M","Corrientes","Santo Tomé","2",10625
+"M","Corrientes","Santo Tomé","3",7
+"M","Corrientes","Sauce","1",3556
+"M","Corrientes","Sauce","2",2205
+"M","Entre Ríos","Colón","1",26239
+"M","Entre Ríos","Colón","2",20325
+"M","Entre Ríos","Colón","3",5
+"M","Entre Ríos","Concordia","1",60826
+"M","Entre Ríos","Concordia","2",33710
+"M","Entre Ríos","Concordia","3",20
+"M","Entre Ríos","Diamante","1",18314
+"M","Entre Ríos","Diamante","2",14250
+"M","Entre Ríos","Diamante","3",148
+"M","Entre Ríos","Federación","1",23099
+"M","Entre Ríos","Federación","2",14702
+"M","Entre Ríos","Federación","3",3
+"M","Entre Ríos","Federal","1",10370
+"M","Entre Ríos","Federal","2",7353
+"M","Entre Ríos","Feliciano","1",4915
+"M","Entre Ríos","Feliciano","2",2766
+"M","Entre Ríos","Feliciano","3",1
+"M","Entre Ríos","Gualeguay","1",21358
+"M","Entre Ríos","Gualeguay","2",15821
+"M","Entre Ríos","Gualeguay","3",28
+"M","Entre Ríos","Gualeguaychú","1",45530
+"M","Entre Ríos","Gualeguaychú","2",33445
+"M","Entre Ríos","Gualeguaychú","3",108
+"M","Entre Ríos","Islas del Ibicuy","1",6040
+"M","Entre Ríos","Islas del Ibicuy","2",4521
+"M","Entre Ríos","Islas del Ibicuy","3",1
+"M","Entre Ríos","La Capital","1",1
+"M","Entre Ríos","La Capital","2",1
+"M","Entre Ríos","La Paz","1",26660
+"M","Entre Ríos","La Paz","2",18059
+"M","Entre Ríos","Nogoyá","1",15096
+"M","Entre Ríos","Nogoyá","2",11477
+"M","Entre Ríos","Nogoyá","3",14
+"M","Entre Ríos","Paraná","1",130282
+"M","Entre Ríos","Paraná","2",97407
+"M","Entre Ríos","Paraná","3",269
+"M","Entre Ríos","S.I.","1",436
+"M","Entre Ríos","S.I.","2",308
+"M","Entre Ríos","San Salvador","1",7791
+"M","Entre Ríos","San Salvador","2",5564
+"M","Entre Ríos","San Salvador","3",2
+"M","Entre Ríos","Tala","1",10149
+"M","Entre Ríos","Tala","2",7386
+"M","Entre Ríos","Tala","3",2
+"M","Entre Ríos","Uruguay","1",40852
+"M","Entre Ríos","Uruguay","2",29789
+"M","Entre Ríos","Uruguay","3",8
+"M","Entre Ríos","Victoria","1",14499
+"M","Entre Ríos","Victoria","2",10931
+"M","Entre Ríos","Victoria","3",29
+"M","Entre Ríos","Villaguay","1",18435
+"M","Entre Ríos","Villaguay","2",13179
+"M","Entre Ríos","Villaguay","3",2
+"M","Formosa","Belgrano","1",1
+"M","Formosa","Bermejo","1",4981
+"M","Formosa","Bermejo","2",2186
+"M","Formosa","Formosa","1",108376
+"M","Formosa","Formosa","2",79084
+"M","Formosa","Formosa","3",8
+"M","Formosa","Laishi","1",9310
+"M","Formosa","Laishi","2",7428
+"M","Formosa","Laishi","3",1
+"M","Formosa","Matacos","1",4980
+"M","Formosa","Matacos","2",2821
+"M","Formosa","Matacos","3",1
+"M","Formosa","Patiño","1",30094
+"M","Formosa","Patiño","2",18726
+"M","Formosa","Patiño","3",1
+"M","Formosa","Pilagás","1",9198
+"M","Formosa","Pilagás","2",6806
+"M","Formosa","Pilcomayo","1",39510
+"M","Formosa","Pilcomayo","2",29222
+"M","Formosa","Pilcomayo","3",1
+"M","Formosa","Pirané","1",31077
+"M","Formosa","Pirané","2",23783
+"M","Formosa","Pirané","3",3
+"M","Formosa","Ramón Lista","1",3873
+"M","Formosa","Ramón Lista","2",2293
+"M","Formosa","S.I.","1",214
+"M","Formosa","S.I.","2",151
+"M","Jujuy","Almirante Brown","1",2
+"M","Jujuy","Baradero","1",1
+"M","Jujuy","Campana","1",11
+"M","Jujuy","Campana","2",8
+"M","Jujuy","Cochinoca","1",5030
+"M","Jujuy","Cochinoca","2",3032
+"M","Jujuy","Cochinoca","3",2
+"M","Jujuy","Coronel de Marina L. Rosales","1",33
+"M","Jujuy","Coronel de Marina L. Rosales","2",18
+"M","Jujuy","Dr. Manuel Belgrano","1",105608
+"M","Jujuy","Dr. Manuel Belgrano","2",70576
+"M","Jujuy","Dr. Manuel Belgrano","3",423
+"M","Jujuy","El Carmen","1",36296
+"M","Jujuy","El Carmen","2",21772
+"M","Jujuy","El Carmen","3",175
+"M","Jujuy","Humahuaca","1",6793
+"M","Jujuy","Humahuaca","2",4637
+"M","Jujuy","Humahuaca","3",12
+"M","Jujuy","Hurlingham","1",15
+"M","Jujuy","Hurlingham","2",5
+"M","Jujuy","Lanús","1",2
+"M","Jujuy","Ledesma","1",34422
+"M","Jujuy","Ledesma","2",24226
+"M","Jujuy","Ledesma","3",256
+"M","Jujuy","Palpalá","1",22664
+"M","Jujuy","Palpalá","2",14498
+"M","Jujuy","Palpalá","3",26
+"M","Jujuy","Pehuajó","1",1
+"M","Jujuy","Rinconada","1",687
+"M","Jujuy","Rinconada","2",421
+"M","Jujuy","S.I.","1",451
+"M","Jujuy","S.I.","2",259
+"M","Jujuy","S.I.","3",3
+"M","Jujuy","San Antonio","1",2461
+"M","Jujuy","San Antonio","2",1630
+"M","Jujuy","San Antonio","3",17
+"M","Jujuy","San Pedro","1",30448
+"M","Jujuy","San Pedro","2",20189
+"M","Jujuy","San Pedro","3",71
+"M","Jujuy","Santa Bárbara","1",7385
+"M","Jujuy","Santa Bárbara","2",4751
+"M","Jujuy","Santa Bárbara","3",2
+"M","Jujuy","Santa Catalina","1",1140
+"M","Jujuy","Santa Catalina","2",647
+"M","Jujuy","Santa Catalina","3",3
+"M","Jujuy","Susques","1",1924
+"M","Jujuy","Susques","2",1225
+"M","Jujuy","Susques","3",1
+"M","Jujuy","Tilcara","1",5323
+"M","Jujuy","Tilcara","2",3531
+"M","Jujuy","Tilcara","3",4
+"M","Jujuy","Tumbaya","1",2356
+"M","Jujuy","Tumbaya","2",1632
+"M","Jujuy","Tumbaya","3",10
+"M","Jujuy","Valle Grande","1",1002
+"M","Jujuy","Valle Grande","2",596
+"M","Jujuy","Yavi","1",7553
+"M","Jujuy","Yavi","2",5070
+"M","Jujuy","Yavi","3",77
+"M","La Pampa","Atreucó","1",4972
+"M","La Pampa","Atreucó","2",3971
+"M","La Pampa","Atreucó","3",118
+"M","La Pampa","Caleu Caleu","1",1131
+"M","La Pampa","Caleu Caleu","2",841
+"M","La Pampa","Caleu Caleu","3",70
+"M","La Pampa","Capital","1",49017
+"M","La Pampa","Capital","2",39398
+"M","La Pampa","Capital","3",2472
+"M","La Pampa","Catriló","1",3603
+"M","La Pampa","Catriló","2",2790
+"M","La Pampa","Catriló","3",205
+"M","La Pampa","Chalileo","1",1354
+"M","La Pampa","Chalileo","2",1006
+"M","La Pampa","Chalileo","3",59
+"M","La Pampa","Chapaleufú","1",5541
+"M","La Pampa","Chapaleufú","2",4317
+"M","La Pampa","Chapaleufú","3",16
+"M","La Pampa","Chical Co","1",718
+"M","La Pampa","Chical Co","2",508
+"M","La Pampa","Chical Co","3",57
+"M","La Pampa","Conhelo","1",6707
+"M","La Pampa","Conhelo","2",5571
+"M","La Pampa","Conhelo","3",368
+"M","La Pampa","Curacó","1",439
+"M","La Pampa","Curacó","2",310
+"M","La Pampa","Curacó","3",4
+"M","La Pampa","Gobernador Dupuy","1",2
+"M","La Pampa","Guatraché","1",3637
+"M","La Pampa","Guatraché","2",2885
+"M","La Pampa","Guatraché","3",32
+"M","La Pampa","Hucal","1",3472
+"M","La Pampa","Hucal","2",3020
+"M","La Pampa","Hucal","3",251
+"M","La Pampa","La Capital","1",2
+"M","La Pampa","Lihuel Calel","1",133
+"M","La Pampa","Lihuel Calel","2",91
+"M","La Pampa","Lihuel Calel","3",8
+"M","La Pampa","Limay Mahuida","1",208
+"M","La Pampa","Limay Mahuida","2",174
+"M","La Pampa","Limay Mahuida","3",7
+"M","La Pampa","Loventué","1",4377
+"M","La Pampa","Loventué","2",3565
+"M","La Pampa","Loventué","3",271
+"M","La Pampa","Maracó","1",26830
+"M","La Pampa","Maracó","2",20655
+"M","La Pampa","Maracó","3",790
+"M","La Pampa","Puelén","1",4926
+"M","La Pampa","Puelén","2",3596
+"M","La Pampa","Puelén","3",12
+"M","La Pampa","Quemú Quemú","1",3828
+"M","La Pampa","Quemú Quemú","2",3067
+"M","La Pampa","Quemú Quemú","3",41
+"M","La Pampa","Rancul","1",4730
+"M","La Pampa","Rancul","2",3497
+"M","La Pampa","Rancul","3",218
+"M","La Pampa","Realicó","1",7947
+"M","La Pampa","Realicó","2",6253
+"M","La Pampa","Realicó","3",337
+"M","La Pampa","S.I.","1",48
+"M","La Pampa","S.I.","2",37
+"M","La Pampa","San Rafael","1",1
+"M","La Pampa","Toay","1",7523
+"M","La Pampa","Toay","2",6003
+"M","La Pampa","Toay","3",204
+"M","La Pampa","Trenel","1",2568
+"M","La Pampa","Trenel","2",2009
+"M","La Pampa","Trenel","3",19
+"M","La Pampa","Utracán","1",7707
+"M","La Pampa","Utracán","2",6191
+"M","La Pampa","Utracán","3",291
+"M","La Rioja","Arauco","1",7066
+"M","La Rioja","Arauco","2",4895
+"M","La Rioja","Arauco","3",15
+"M","La Rioja","Capital","1",83533
+"M","La Rioja","Capital","2",59846
+"M","La Rioja","Capital","3",2059
+"M","La Rioja","Castro Barros","1",2582
+"M","La Rioja","Castro Barros","2",1978
+"M","La Rioja","Castro Barros","3",29
+"M","La Rioja","Chamical","1",7010
+"M","La Rioja","Chamical","2",5051
+"M","La Rioja","Chamical","3",87
+"M","La Rioja","Chilecito","1",22843
+"M","La Rioja","Chilecito","2",15093
+"M","La Rioja","Chilecito","3",653
+"M","La Rioja","Coronel Felipe Varela","1",5277
+"M","La Rioja","Coronel Felipe Varela","2",4099
+"M","La Rioja","Coronel Felipe Varela","3",44
+"M","La Rioja","Famatina","1",2966
+"M","La Rioja","Famatina","2",2078
+"M","La Rioja","Famatina","3",8
+"M","La Rioja","General Angel V. Peñaloza","1",1516
+"M","La Rioja","General Angel V. Peñaloza","2",1085
+"M","La Rioja","General Angel V. Peñaloza","3",6
+"M","La Rioja","General Belgrano","1",3776
+"M","La Rioja","General Belgrano","2",2794
+"M","La Rioja","General Belgrano","3",51
+"M","La Rioja","General Juan F. Quiroga","1",1718
+"M","La Rioja","General Juan F. Quiroga","2",1132
+"M","La Rioja","General Juan F. Quiroga","3",4
+"M","La Rioja","General Lamadrid","1",974
+"M","La Rioja","General Lamadrid","2",769
+"M","La Rioja","General Lamadrid","3",3
+"M","La Rioja","General Ocampo","1",3213
+"M","La Rioja","General Ocampo","2",1752
+"M","La Rioja","General Ocampo","3",6
+"M","La Rioja","General San Martín","1",1930
+"M","La Rioja","General San Martín","2",1623
+"M","La Rioja","General San Martín","3",1
+"M","La Rioja","Independencia","1",1191
+"M","La Rioja","Independencia","2",765
+"M","La Rioja","Independencia","3",8
+"M","La Rioja","Rosario Vera Peñaloza","1",7137
+"M","La Rioja","Rosario Vera Peñaloza","2",4838
+"M","La Rioja","Rosario Vera Peñaloza","3",6
+"M","La Rioja","S.I.","1",161
+"M","La Rioja","S.I.","2",100
+"M","La Rioja","S.I.","3",5
+"M","La Rioja","San Blas de los Sauces","1",2011
+"M","La Rioja","San Blas de los Sauces","2",1559
+"M","La Rioja","San Blas de los Sauces","3",2
+"M","La Rioja","Sanagasta","1",1591
+"M","La Rioja","Sanagasta","2",1208
+"M","La Rioja","Sanagasta","3",16
+"M","La Rioja","Vinchina","1",1318
+"M","La Rioja","Vinchina","2",1043
+"M","La Rioja","Vinchina","3",3
+"M","Mendoza","Capital","1",43085
+"M","Mendoza","Capital","2",33955
+"M","Mendoza","Capital","3",223
+"M","Mendoza","General Alvear","1",16514
+"M","Mendoza","General Alvear","2",11778
+"M","Mendoza","General Alvear","3",168
+"M","Mendoza","General Pedernera","1",1
+"M","Mendoza","Gobernador Dupuy","1",1
+"M","Mendoza","Godoy Cruz","1",72221
+"M","Mendoza","Godoy Cruz","2",55500
+"M","Mendoza","Godoy Cruz","3",418
+"M","Mendoza","Guaymallén","1",106240
+"M","Mendoza","Guaymallén","2",79950
+"M","Mendoza","Guaymallén","3",1081
+"M","Mendoza","Junín","1",18197
+"M","Mendoza","Junín","2",13518
+"M","Mendoza","Junín","3",26
+"M","Mendoza","La Capital","1",7
+"M","Mendoza","La Capital","2",2
+"M","Mendoza","La Paz","1",4439
+"M","Mendoza","La Paz","2",3164
+"M","Mendoza","La Paz","3",16
+"M","Mendoza","Las Heras","1",77118
+"M","Mendoza","Las Heras","2",56072
+"M","Mendoza","Las Heras","3",554
+"M","Mendoza","Lavalle","1",15815
+"M","Mendoza","Lavalle","2",9383
+"M","Mendoza","Lavalle","3",111
+"M","Mendoza","Luján de Cuyo","1",52382
+"M","Mendoza","Luján de Cuyo","2",40176
+"M","Mendoza","Luján de Cuyo","3",105
+"M","Mendoza","Maipú","1",71156
+"M","Mendoza","Maipú","2",53542
+"M","Mendoza","Maipú","3",192
+"M","Mendoza","Malargüe","1",11537
+"M","Mendoza","Malargüe","2",7999
+"M","Mendoza","Malargüe","3",137
+"M","Mendoza","Rivadavia","1",23187
+"M","Mendoza","Rivadavia","2",17287
+"M","Mendoza","Rivadavia","3",137
+"M","Mendoza","S.I.","1",2219
+"M","Mendoza","S.I.","2",1543
+"M","Mendoza","S.I.","3",6
+"M","Mendoza","San Carlos","1",12354
+"M","Mendoza","San Carlos","2",8473
+"M","Mendoza","San Carlos","3",87
+"M","Mendoza","San Martín","1",45261
+"M","Mendoza","San Martín","2",30798
+"M","Mendoza","San Martín","3",132
+"M","Mendoza","San Rafael","1",59410
+"M","Mendoza","San Rafael","2",37712
+"M","Mendoza","San Rafael","3",897
+"M","Mendoza","Santa Rosa","1",7596
+"M","Mendoza","Santa Rosa","2",5699
+"M","Mendoza","Santa Rosa","3",17
+"M","Mendoza","Tunuyán","1",19549
+"M","Mendoza","Tunuyán","2",13648
+"M","Mendoza","Tunuyán","3",249
+"M","Mendoza","Tupungato","1",13216
+"M","Mendoza","Tupungato","2",9251
+"M","Mendoza","Tupungato","3",160
+"M","Misiones","25 de Mayo","1",9138
+"M","Misiones","25 de Mayo","2",6151
+"M","Misiones","25 de Mayo","3",25
+"M","Misiones","Apóstoles","1",12896
+"M","Misiones","Apóstoles","2",8260
+"M","Misiones","Apóstoles","3",7
+"M","Misiones","Cainguás","1",15728
+"M","Misiones","Cainguás","2",9813
+"M","Misiones","Cainguás","3",87
+"M","Misiones","Campana","1",2
+"M","Misiones","Campana","2",1
+"M","Misiones","Candelaria","1",10641
+"M","Misiones","Candelaria","2",6926
+"M","Misiones","Candelaria","3",76
+"M","Misiones","Capital","1",115923
+"M","Misiones","Capital","2",76934
+"M","Misiones","Capital","3",941
+"M","Misiones","COMUNA 1","1",5
+"M","Misiones","COMUNA 1","2",6
+"M","Misiones","Concepción","1",2934
+"M","Misiones","Concepción","2",1642
+"M","Misiones","Concepción","3",3
+"M","Misiones","Eldorado","1",27672
+"M","Misiones","Eldorado","2",18349
+"M","Misiones","Eldorado","3",56
+"M","Misiones","General Manuel Belgrano","1",11676
+"M","Misiones","General Manuel Belgrano","2",6784
+"M","Misiones","General Manuel Belgrano","3",3
+"M","Misiones","Guaraní","1",17539
+"M","Misiones","Guaraní","2",10553
+"M","Misiones","Guaraní","3",104
+"M","Misiones","Iguazú","1",28715
+"M","Misiones","Iguazú","2",20144
+"M","Misiones","Iguazú","3",48
+"M","Misiones","Leandro N. Alem","1",15601
+"M","Misiones","Leandro N. Alem","2",10521
+"M","Misiones","Leandro N. Alem","3",37
+"M","Misiones","Libertador Grl. San Martín","1",15061
+"M","Misiones","Libertador Grl. San Martín","2",10096
+"M","Misiones","Libertador Grl. San Martín","3",51
+"M","Misiones","Montecarlo","1",11973
+"M","Misiones","Montecarlo","2",8216
+"M","Misiones","Montecarlo","3",2
+"M","Misiones","Oberá","1",31535
+"M","Misiones","Oberá","2",20479
+"M","Misiones","Oberá","3",107
+"M","Misiones","S.I.","1",389
+"M","Misiones","S.I.","2",280
+"M","Misiones","S.I.","3",2
+"M","Misiones","San Ignacio","1",17052
+"M","Misiones","San Ignacio","2",10535
+"M","Misiones","San Ignacio","3",37
+"M","Misiones","San Javier","1",6704
+"M","Misiones","San Javier","2",4496
+"M","Misiones","San Javier","3",3
+"M","Misiones","San Pedro","1",7694
+"M","Misiones","San Pedro","2",4744
+"M","Misiones","San Pedro","3",25
+"M","Neuquén","Aluminé","1",3698
+"M","Neuquén","Aluminé","2",2494
+"M","Neuquén","Aluminé","3",22
+"M","Neuquén","Añelo","1",7947
+"M","Neuquén","Añelo","2",5338
+"M","Neuquén","Añelo","3",2
+"M","Neuquén","Catán Lil","1",759
+"M","Neuquén","Catán Lil","2",540
+"M","Neuquén","Catán Lil","3",1
+"M","Neuquén","Chos Malal","1",6063
+"M","Neuquén","Chos Malal","2",3693
+"M","Neuquén","Chos Malal","3",42
+"M","Neuquén","Collón Curá","1",1934
+"M","Neuquén","Collón Curá","2",1161
+"M","Neuquén","Confluencia","1",172316
+"M","Neuquén","Confluencia","2",121719
+"M","Neuquén","Confluencia","3",1148
+"M","Neuquén","Huiliches","1",7298
+"M","Neuquén","Huiliches","2",5037
+"M","Neuquén","Huiliches","3",11
+"M","Neuquén","Junín","1",1
+"M","Neuquén","La Capital","1",2
+"M","Neuquén","Lácar","1",13114
+"M","Neuquén","Lácar","2",8883
+"M","Neuquén","Lácar","3",147
+"M","Neuquén","Loncopué","1",3090
+"M","Neuquén","Loncopué","2",2111
+"M","Neuquén","Loncopué","3",17
+"M","Neuquén","Los Lagos","1",5423
+"M","Neuquén","Los Lagos","2",3467
+"M","Neuquén","Los Lagos","3",2
+"M","Neuquén","Minas","1",3013
+"M","Neuquén","Minas","2",2025
+"M","Neuquén","Minas","3",8
+"M","Neuquén","Ñorquín","1",2292
+"M","Neuquén","Ñorquín","2",1644
+"M","Neuquén","Ñorquín","3",19
+"M","Neuquén","Pehuenches","1",12070
+"M","Neuquén","Pehuenches","2",8170
+"M","Neuquén","Pehuenches","3",77
+"M","Neuquén","Picún Leufú","1",2079
+"M","Neuquén","Picún Leufú","2",1275
+"M","Neuquén","Picún Leufú","3",2
+"M","Neuquén","Picunches","1",3266
+"M","Neuquén","Picunches","2",2180
+"M","Neuquén","Picunches","3",16
+"M","Neuquén","S.I.","1",271
+"M","Neuquén","S.I.","2",151
+"M","Neuquén","San Martín","1",1
+"M","Neuquén","San Martín","2",1
+"M","Neuquén","Zapala","1",16574
+"M","Neuquén","Zapala","2",11603
+"M","Neuquén","Zapala","3",89
+"M","Río Negro","25 de Mayo","1",6649
+"M","Río Negro","25 de Mayo","2",4658
+"M","Río Negro","25 de Mayo","3",29
+"M","Río Negro","9 de Julio","1",1725
+"M","Río Negro","9 de Julio","2",1372
+"M","Río Negro","9 de Julio","3",9
+"M","Río Negro","Adolfo Alsina","1",27459
+"M","Río Negro","Adolfo Alsina","2",20487
+"M","Río Negro","Adolfo Alsina","3",485
+"M","Río Negro","Avellaneda","1",16512
+"M","Río Negro","Avellaneda","2",11986
+"M","Río Negro","Avellaneda","3",200
+"M","Río Negro","Bariloche","1",61727
+"M","Río Negro","Bariloche","2",43471
+"M","Río Negro","Bariloche","3",840
+"M","Río Negro","Conesa","1",3024
+"M","Río Negro","Conesa","2",2426
+"M","Río Negro","Conesa","3",119
+"M","Río Negro","El Cuy","1",1833
+"M","Río Negro","El Cuy","2",1329
+"M","Río Negro","El Cuy","3",13
+"M","Río Negro","General Pedernera","1",1
+"M","Río Negro","General Roca","1",149032
+"M","Río Negro","General Roca","2",103046
+"M","Río Negro","General Roca","3",2063
+"M","Río Negro","Ñorquincó","1",638
+"M","Río Negro","Ñorquincó","2",471
+"M","Río Negro","Ñorquincó","3",1
+"M","Río Negro","Pichi Mahuida","1",6792
+"M","Río Negro","Pichi Mahuida","2",5010
+"M","Río Negro","Pichi Mahuida","3",141
+"M","Río Negro","Pilcaniyeu","1",3980
+"M","Río Negro","Pilcaniyeu","2",2955
+"M","Río Negro","Pilcaniyeu","3",8
+"M","Río Negro","S.I.","1",174
+"M","Río Negro","S.I.","2",93
+"M","Río Negro","S.I.","3",1
+"M","Río Negro","San Antonio","1",14152
+"M","Río Negro","San Antonio","2",10019
+"M","Río Negro","San Antonio","3",208
+"M","Río Negro","Tornquist","1",1
+"M","Río Negro","Tornquist","2",1
+"M","Río Negro","Valcheta","1",2186
+"M","Río Negro","Valcheta","2",1682
+"M","Río Negro","Valcheta","3",3
+"M","S.I.","Bahía Blanca","1",1
+"M","S.I.","Bahía Blanca","2",1
+"M","S.I.","Capital","1",6
+"M","S.I.","Capital","2",3
+"M","S.I.","COMUNA 12","1",1
+"M","S.I.","COMUNA 12","2",1
+"M","S.I.","COMUNA 8","1",1
+"M","S.I.","COMUNA 8","2",1
+"M","S.I.","Ituzaingó","1",1
+"M","S.I.","Ituzaingó","2",1
+"M","S.I.","José C. Paz","1",1
+"M","S.I.","José C. Paz","2",1
+"M","S.I.","La Matanza","1",1
+"M","S.I.","Lincoln","1",1
+"M","S.I.","Lincoln","2",1
+"M","S.I.","Lomas de Zamora","1",1
+"M","S.I.","Lomas de Zamora","2",1
+"M","S.I.","Luján de Cuyo","1",1
+"M","S.I.","Luján de Cuyo","2",1
+"M","S.I.","Moreno","1",1
+"M","S.I.","Moreno","2",1
+"M","S.I.","Rawson","1",1
+"M","S.I.","Rawson","2",1
+"M","S.I.","S.I.","1",22618
+"M","S.I.","S.I.","2",15895
+"M","S.I.","S.I.","3",42
+"M","S.I.","Tres de Febrero","1",1
+"M","S.I.","Tres de Febrero","2",1
+"M","S.I.","Unión","1",1
+"M","S.I.","Unión","2",1
+"M","Salta","Anta","1",23546
+"M","Salta","Anta","2",13326
+"M","Salta","Anta","3",95
+"M","Salta","Cachi","1",3725
+"M","Salta","Cachi","2",2338
+"M","Salta","Cachi","3",5
+"M","Salta","Cafayate","1",6593
+"M","Salta","Cafayate","2",4237
+"M","Salta","Cafayate","3",8
+"M","Salta","Capital","1",195588
+"M","Salta","Capital","2",131848
+"M","Salta","Capital","3",1156
+"M","Salta","Cerrillos","1",20207
+"M","Salta","Cerrillos","2",13213
+"M","Salta","Cerrillos","3",101
+"M","Salta","Chicoana","1",9557
+"M","Salta","Chicoana","2",6105
+"M","Salta","Chicoana","3",56
+"M","Salta","General Güemes","1",19514
+"M","Salta","General Güemes","2",12813
+"M","Salta","General Güemes","3",61
+"M","Salta","Grl. José de San Martín","1",51382
+"M","Salta","Grl. José de San Martín","2",29268
+"M","Salta","Grl. José de San Martín","3",47
+"M","Salta","Guachipas","1",1627
+"M","Salta","Guachipas","2",971
+"M","Salta","Iruya","1",2039
+"M","Salta","Iruya","2",1350
+"M","Salta","La Caldera","1",6743
+"M","Salta","La Caldera","2",4902
+"M","Salta","La Caldera","3",86
+"M","Salta","La Candelaria","1",3088
+"M","Salta","La Candelaria","2",2098
+"M","Salta","La Candelaria","3",51
+"M","Salta","La Poma","1",788
+"M","Salta","La Poma","2",559
+"M","Salta","La Viña","1",3665
+"M","Salta","La Viña","2",2642
+"M","Salta","La Viña","3",5
+"M","Salta","Los Andes","1",3480
+"M","Salta","Los Andes","2",2069
+"M","Salta","Los Andes","3",1
+"M","Salta","Metán","1",17728
+"M","Salta","Metán","2",11581
+"M","Salta","Metán","3",114
+"M","Salta","Molinos","1",2809
+"M","Salta","Molinos","2",1791
+"M","Salta","Molinos","3",4
+"M","Salta","Orán","1",46955
+"M","Salta","Orán","2",25224
+"M","Salta","Orán","3",54
+"M","Salta","Rivadavia","1",8556
+"M","Salta","Rivadavia","2",4505
+"M","Salta","Rivadavia","3",6
+"M","Salta","Rosario de la Frontera","1",11758
+"M","Salta","Rosario de la Frontera","2",6693
+"M","Salta","Rosario de la Frontera","3",56
+"M","Salta","Rosario de Lerma","1",18099
+"M","Salta","Rosario de Lerma","2",11661
+"M","Salta","Rosario de Lerma","3",106
+"M","Salta","S.I.","1",997
+"M","Salta","S.I.","2",628
+"M","Salta","S.I.","3",6
+"M","Salta","San Carlos","1",3281
+"M","Salta","San Carlos","2",2227
+"M","Salta","San Carlos","3",14
+"M","Salta","Santa Victoria","1",4108
+"M","Salta","Santa Victoria","2",2537
+"M","Salta","Santa Victoria","3",2
+"M","San Juan","25 de Mayo","1",6827
+"M","San Juan","25 de Mayo","2",4306
+"M","San Juan","25 de Mayo","3",6
+"M","San Juan","9 de Julio","1",4904
+"M","San Juan","9 de Julio","2",3404
+"M","San Juan","9 de Julio","3",5
+"M","San Juan","Albardón","1",10197
+"M","San Juan","Albardón","2",6746
+"M","San Juan","Albardón","3",54
+"M","San Juan","Angaco","1",4366
+"M","San Juan","Angaco","2",3137
+"M","San Juan","Angaco","3",14
+"M","San Juan","Calingasta","1",4196
+"M","San Juan","Calingasta","2",3387
+"M","San Juan","Calingasta","3",4
+"M","San Juan","Capital","1",42906
+"M","San Juan","Capital","2",34048
+"M","San Juan","Capital","3",98
+"M","San Juan","Caucete","1",14639
+"M","San Juan","Caucete","2",10381
+"M","San Juan","Caucete","3",26
+"M","San Juan","Chacabuco","1",1
+"M","San Juan","Chimbas","1",34597
+"M","San Juan","Chimbas","2",24902
+"M","San Juan","Chimbas","3",141
+"M","San Juan","COMUNA 1","1",1
+"M","San Juan","COMUNA 1","2",1
+"M","San Juan","Iglesia","1",4032
+"M","San Juan","Iglesia","2",3075
+"M","San Juan","Iglesia","3",1
+"M","San Juan","Jáchal","1",10545
+"M","San Juan","Jáchal","2",7366
+"M","San Juan","Jáchal","3",5
+"M","San Juan","La Capital","1",1
+"M","San Juan","Pocito","1",20683
+"M","San Juan","Pocito","2",14772
+"M","San Juan","Pocito","3",51
+"M","San Juan","Pomán","1",1
+"M","San Juan","Pomán","2",1
+"M","San Juan","Rawson","1",46894
+"M","San Juan","Rawson","2",34543
+"M","San Juan","Rawson","3",102
+"M","San Juan","Rivadavia","1",33393
+"M","San Juan","Rivadavia","2",25771
+"M","San Juan","Rivadavia","3",95
+"M","San Juan","S.I.","1",600
+"M","San Juan","S.I.","2",263
+"M","San Juan","San Martín","1",5154
+"M","San Juan","San Martín","2",3617
+"M","San Juan","San Martín","3",7
+"M","San Juan","Santa Lucía","1",20603
+"M","San Juan","Santa Lucía","2",15754
+"M","San Juan","Santa Lucía","3",103
+"M","San Juan","Sarmiento","1",8668
+"M","San Juan","Sarmiento","2",6146
+"M","San Juan","Sarmiento","3",1
+"M","San Juan","Ullúm","1",2546
+"M","San Juan","Ullúm","2",1832
+"M","San Juan","Ullúm","3",20
+"M","San Juan","Valle Fértil","1",3565
+"M","San Juan","Valle Fértil","2",2471
+"M","San Juan","Valle Fértil","3",1
+"M","San Juan","Zonda","1",2009
+"M","San Juan","Zonda","2",1363
+"M","San Luis","Ayacucho","1",9307
+"M","San Luis","Ayacucho","2",6836
+"M","San Luis","Ayacucho","3",10
+"M","San Luis","Belgrano","1",2167
+"M","San Luis","Belgrano","2",1717
+"M","San Luis","Belgrano","3",12
+"M","San Luis","Chacabuco","1",9980
+"M","San Luis","Chacabuco","2",7577
+"M","San Luis","Chacabuco","3",26
+"M","San Luis","Coronel Pringles","1",6577
+"M","San Luis","Coronel Pringles","2",5060
+"M","San Luis","Coronel Pringles","3",20
+"M","San Luis","General Pedernera","1",55295
+"M","San Luis","General Pedernera","2",43922
+"M","San Luis","General Pedernera","3",1932
+"M","San Luis","Gobernador Dupuy","1",5737
+"M","San Luis","Gobernador Dupuy","2",3850
+"M","San Luis","Gobernador Dupuy","3",6
+"M","San Luis","Junín","1",13317
+"M","San Luis","Junín","2",10689
+"M","San Luis","Junín","3",213
+"M","San Luis","La Capital","1",101924
+"M","San Luis","La Capital","2",78299
+"M","San Luis","La Capital","3",2014
+"M","San Luis","Libertador General San Martín","1",2037
+"M","San Luis","Libertador General San Martín","2",1434
+"M","San Luis","Libertador General San Martín","3",1
+"M","San Luis","Merlo","1",1
+"M","San Luis","Merlo","2",1
+"M","San Luis","S.I.","1",70
+"M","San Luis","S.I.","2",51
+"M","San Luis","S.I.","3",3
+"M","Santa Cruz","9 de Julio","1",2
+"M","Santa Cruz","9 de Julio","2",2
+"M","Santa Cruz","Belgrano","1",1
+"M","Santa Cruz","Coronel Pringles","1",1
+"M","Santa Cruz","Corpen Aike","1",6566
+"M","Santa Cruz","Corpen Aike","2",4704
+"M","Santa Cruz","Corpen Aike","3",3
+"M","Santa Cruz","Deseado","1",52000
+"M","Santa Cruz","Deseado","2",36343
+"M","Santa Cruz","Deseado","3",22
+"M","Santa Cruz","Güer Aike","1",56036
+"M","Santa Cruz","Güer Aike","2",41149
+"M","Santa Cruz","Güer Aike","3",462
+"M","Santa Cruz","La Capital","1",2
+"M","Santa Cruz","La Capital","2",2
+"M","Santa Cruz","Lago Argentino","1",10362
+"M","Santa Cruz","Lago Argentino","2",7435
+"M","Santa Cruz","Lago Argentino","3",9
+"M","Santa Cruz","Lago Buenos Aires","1",6301
+"M","Santa Cruz","Lago Buenos Aires","2",4881
+"M","Santa Cruz","Lago Buenos Aires","3",1
+"M","Santa Cruz","Magallanes","1",4781
+"M","Santa Cruz","Magallanes","2",3117
+"M","Santa Cruz","Magallanes","3",1
+"M","Santa Cruz","Río Chico","1",2565
+"M","Santa Cruz","Río Chico","2",1718
+"M","Santa Cruz","Río Chico","3",7
+"M","Santa Cruz","S.I.","1",236
+"M","Santa Cruz","S.I.","2",187
+"M","Santa Cruz","S.I.","3",2
+"M","Santa Fe","9 de Julio","1",12598
+"M","Santa Fe","9 de Julio","2",8627
+"M","Santa Fe","9 de Julio","3",31
+"M","Santa Fe","Alberdi","1",1
+"M","Santa Fe","Alberdi","2",1
+"M","Santa Fe","Belgrano","1",19483
+"M","Santa Fe","Belgrano","2",15272
+"M","Santa Fe","Belgrano","3",83
+"M","Santa Fe","Caseros","1",34378
+"M","Santa Fe","Caseros","2",27999
+"M","Santa Fe","Caseros","3",142
+"M","Santa Fe","Castellanos","1",75049
+"M","Santa Fe","Castellanos","2",57592
+"M","Santa Fe","Castellanos","3",394
+"M","Santa Fe","Chacabuco","1",1
+"M","Santa Fe","Constitución","1",38881
+"M","Santa Fe","Constitución","2",30384
+"M","Santa Fe","Constitución","3",249
+"M","Santa Fe","Garay","1",8796
+"M","Santa Fe","Garay","2",6510
+"M","Santa Fe","Garay","3",35
+"M","Santa Fe","General López","1",79701
+"M","Santa Fe","General López","2",60794
+"M","Santa Fe","General López","3",1094
+"M","Santa Fe","General Obligado","1",68327
+"M","Santa Fe","General Obligado","2",49820
+"M","Santa Fe","General Obligado","3",23
+"M","Santa Fe","Iriondo","1",29698
+"M","Santa Fe","Iriondo","2",23299
+"M","Santa Fe","Iriondo","3",178
+"M","Santa Fe","La Capital","1",207520
+"M","Santa Fe","La Capital","2",157443
+"M","Santa Fe","La Capital","3",415
+"M","Santa Fe","Las Colonias","1",43365
+"M","Santa Fe","Las Colonias","2",35621
+"M","Santa Fe","Las Colonias","3",158
+"M","Santa Fe","Pilar","1",1
+"M","Santa Fe","Pilar","2",1
+"M","Santa Fe","Rosario","1",505762
+"M","Santa Fe","Rosario","2",382275
+"M","Santa Fe","Rosario","3",737
+"M","Santa Fe","S.I.","1",596
+"M","Santa Fe","S.I.","2",222
+"M","Santa Fe","S.I.","3",1
+"M","Santa Fe","San Cristóbal","1",34349
+"M","Santa Fe","San Cristóbal","2",24879
+"M","Santa Fe","San Cristóbal","3",104
+"M","Santa Fe","San Javier","1",13558
+"M","Santa Fe","San Javier","2",9285
+"M","Santa Fe","San Javier","3",66
+"M","Santa Fe","San Jerónimo","1",33656
+"M","Santa Fe","San Jerónimo","2",26795
+"M","Santa Fe","San Jerónimo","3",57
+"M","Santa Fe","San Justo","1",17287
+"M","Santa Fe","San Justo","2",13000
+"M","Santa Fe","San Justo","3",1
+"M","Santa Fe","San Lorenzo","1",75152
+"M","Santa Fe","San Lorenzo","2",56313
+"M","Santa Fe","San Lorenzo","3",430
+"M","Santa Fe","San Martín","1",28142
+"M","Santa Fe","San Martín","2",22112
+"M","Santa Fe","San Martín","3",137
+"M","Santa Fe","Vera","1",20089
+"M","Santa Fe","Vera","2",14158
+"M","Santa Fe","Vera","3",2
+"M","Santiago del Estero","Aguirre","1",4290
+"M","Santiago del Estero","Aguirre","2",3174
+"M","Santiago del Estero","Aguirre","3",199
+"M","Santiago del Estero","Alberdi","1",6636
+"M","Santiago del Estero","Alberdi","2",4260
+"M","Santiago del Estero","Alberdi","3",25
+"M","Santiago del Estero","Atamisqui","1",6272
+"M","Santiago del Estero","Atamisqui","2",4104
+"M","Santiago del Estero","Atamisqui","3",8
+"M","Santiago del Estero","Avellaneda","1",9241
+"M","Santiago del Estero","Avellaneda","2",7026
+"M","Santiago del Estero","Avellaneda","3",6
+"M","Santiago del Estero","Banda","1",67723
+"M","Santiago del Estero","Banda","2",45583
+"M","Santiago del Estero","Banda","3",643
+"M","Santiago del Estero","Belgrano","1",4352
+"M","Santiago del Estero","Belgrano","2",3097
+"M","Santiago del Estero","Belgrano","3",8
+"M","Santiago del Estero","Capital","1",131358
+"M","Santiago del Estero","Capital","2",93924
+"M","Santiago del Estero","Capital","3",2104
+"M","Santiago del Estero","Choya","1",16366
+"M","Santiago del Estero","Choya","2",11654
+"M","Santiago del Estero","Choya","3",152
+"M","Santiago del Estero","Copo","1",11158
+"M","Santiago del Estero","Copo","2",7244
+"M","Santiago del Estero","Copo","3",175
+"M","Santiago del Estero","Figueroa","1",7194
+"M","Santiago del Estero","Figueroa","2",5222
+"M","Santiago del Estero","Figueroa","3",313
+"M","Santiago del Estero","General Taboada","1",16358
+"M","Santiago del Estero","General Taboada","2",12861
+"M","Santiago del Estero","General Taboada","3",4
+"M","Santiago del Estero","Guasayán","1",3582
+"M","Santiago del Estero","Guasayán","2",2712
+"M","Santiago del Estero","Guasayán","3",81
+"M","Santiago del Estero","Jiménez","1",6307
+"M","Santiago del Estero","Jiménez","2",4549
+"M","Santiago del Estero","Jiménez","3",128
+"M","Santiago del Estero","Juan F. Ibarra","1",6866
+"M","Santiago del Estero","Juan F. Ibarra","2",5236
+"M","Santiago del Estero","Juan F. Ibarra","3",2
+"M","Santiago del Estero","Loreto","1",9714
+"M","Santiago del Estero","Loreto","2",6573
+"M","Santiago del Estero","Loreto","3",75
+"M","Santiago del Estero","Mitre","1",487
+"M","Santiago del Estero","Mitre","2",433
+"M","Santiago del Estero","Mitre","3",2
+"M","Santiago del Estero","Moreno","1",13545
+"M","Santiago del Estero","Moreno","2",9426
+"M","Santiago del Estero","Moreno","3",6
+"M","Santiago del Estero","Ojo de Agua","1",6662
+"M","Santiago del Estero","Ojo de Agua","2",4826
+"M","Santiago del Estero","Ojo de Agua","3",115
+"M","Santiago del Estero","Pellegrini","1",9077
+"M","Santiago del Estero","Pellegrini","2",5880
+"M","Santiago del Estero","Pellegrini","3",33
+"M","Santiago del Estero","Quebrachos","1",4416
+"M","Santiago del Estero","Quebrachos","2",3164
+"M","Santiago del Estero","Quebrachos","3",46
+"M","Santiago del Estero","Río Hondo","1",27020
+"M","Santiago del Estero","Río Hondo","2",19113
+"M","Santiago del Estero","Río Hondo","3",17
+"M","Santiago del Estero","Rivadavia","1",2311
+"M","Santiago del Estero","Rivadavia","2",1774
+"M","Santiago del Estero","Rivadavia","3",181
+"M","Santiago del Estero","Robles","1",22441
+"M","Santiago del Estero","Robles","2",14714
+"M","Santiago del Estero","Robles","3",49
+"M","Santiago del Estero","S.I.","1",386
+"M","Santiago del Estero","S.I.","2",221
+"M","Santiago del Estero","S.I.","3",1
+"M","Santiago del Estero","Salavina","1",5588
+"M","Santiago del Estero","Salavina","2",3881
+"M","Santiago del Estero","Salavina","3",314
+"M","Santiago del Estero","San Martín","1",4480
+"M","Santiago del Estero","San Martín","2",2847
+"M","Santiago del Estero","San Martín","3",4
+"M","Santiago del Estero","Sarmiento","1",1861
+"M","Santiago del Estero","Sarmiento","2",1230
+"M","Santiago del Estero","Sarmiento","3",1
+"M","Santiago del Estero","Silípica","1",3472
+"M","Santiago del Estero","Silípica","2",2564
+"M","Santiago del Estero","Silípica","3",3
+"M","Santiago del Estero","Tordillo","2",1
+"M","Tierra del Fuego","Antártida Argentina","1",96
+"M","Tierra del Fuego","Antártida Argentina","2",80
+"M","Tierra del Fuego","Islas del Atlántico Sur","1",2
+"M","Tierra del Fuego","Islas del Atlántico Sur","2",2
+"M","Tierra del Fuego","Islas del Atlántico Sur","3",1
+"M","Tierra del Fuego","Río Grande","1",42154
+"M","Tierra del Fuego","Río Grande","2",29745
+"M","Tierra del Fuego","Río Grande","3",311
+"M","Tierra del Fuego","S.I.","1",1762
+"M","Tierra del Fuego","S.I.","2",962
+"M","Tierra del Fuego","S.I.","3",4
+"M","Tierra del Fuego","Ushuaia","1",31978
+"M","Tierra del Fuego","Ushuaia","2",23703
+"M","Tierra del Fuego","Ushuaia","3",445
+"M","Tucumán","Burruyacú","1",15934
+"M","Tucumán","Burruyacú","2",10923
+"M","Tucumán","Burruyacú","3",36
+"M","Tucumán","Capital","1",196438
+"M","Tucumán","Capital","2",138899
+"M","Tucumán","Capital","3",1184
+"M","Tucumán","Chicligasta","1",32674
+"M","Tucumán","Chicligasta","2",22214
+"M","Tucumán","Chicligasta","3",352
+"M","Tucumán","Cruz Alta","1",75887
+"M","Tucumán","Cruz Alta","2",50110
+"M","Tucumán","Cruz Alta","3",192
+"M","Tucumán","Famaillá","1",15392
+"M","Tucumán","Famaillá","2",10770
+"M","Tucumán","Famaillá","3",87
+"M","Tucumán","Graneros","1",6297
+"M","Tucumán","Graneros","2",4195
+"M","Tucumán","Graneros","3",5
+"M","Tucumán","Juan Bautista Alberdi","1",13189
+"M","Tucumán","Juan Bautista Alberdi","2",9507
+"M","Tucumán","Juan Bautista Alberdi","3",123
+"M","Tucumán","La Cocha","1",8895
+"M","Tucumán","La Cocha","2",6297
+"M","Tucumán","La Cocha","3",66
+"M","Tucumán","Leales","1",22913
+"M","Tucumán","Leales","2",16693
+"M","Tucumán","Leales","3",151
+"M","Tucumán","Lules","1",26530
+"M","Tucumán","Lules","2",18109
+"M","Tucumán","Lules","3",85
+"M","Tucumán","Monteros","1",29143
+"M","Tucumán","Monteros","2",21015
+"M","Tucumán","Monteros","3",369
+"M","Tucumán","Río Chico","1",26179
+"M","Tucumán","Río Chico","2",18276
+"M","Tucumán","Río Chico","3",240
+"M","Tucumán","S.I.","1",2392
+"M","Tucumán","S.I.","2",346
+"M","Tucumán","S.I.","3",6
+"M","Tucumán","San Miguel","1",1
+"M","Tucumán","San Miguel","2",1
+"M","Tucumán","Simoca","1",13648
+"M","Tucumán","Simoca","2",9666
+"M","Tucumán","Simoca","3",80
+"M","Tucumán","Tafí del Valle","1",7865
+"M","Tucumán","Tafí del Valle","2",6051
+"M","Tucumán","Tafí del Valle","3",52
+"M","Tucumán","Tafí Viejo","1",53528
+"M","Tucumán","Tafí Viejo","2",36516
+"M","Tucumán","Tafí Viejo","3",93
+"M","Tucumán","Trancas","1",7360
+"M","Tucumán","Trancas","2",5147
+"M","Tucumán","Trancas","3",29
+"M","Tucumán","Yerba Buena","1",35323
+"M","Tucumán","Yerba Buena","2",25239
+"M","Tucumán","Yerba Buena","3",225
+"S.I.","Buenos Aires","25 de Mayo","1",2
+"S.I.","Buenos Aires","25 de Mayo","2",1
+"S.I.","Buenos Aires","9 de Julio","1",2
+"S.I.","Buenos Aires","Adolfo Alsina","1",3
+"S.I.","Buenos Aires","Adolfo Alsina","2",1
+"S.I.","Buenos Aires","Adolfo Gonzales Chaves","1",4
+"S.I.","Buenos Aires","Adolfo Gonzales Chaves","2",3
+"S.I.","Buenos Aires","Alberti","1",2
+"S.I.","Buenos Aires","Alberti","2",1
+"S.I.","Buenos Aires","Almirante Brown","1",78
+"S.I.","Buenos Aires","Almirante Brown","2",29
+"S.I.","Buenos Aires","Almirante Brown","3",1
+"S.I.","Buenos Aires","Avellaneda","1",57
+"S.I.","Buenos Aires","Avellaneda","2",25
+"S.I.","Buenos Aires","Ayacucho","1",1
+"S.I.","Buenos Aires","Azul","1",2
+"S.I.","Buenos Aires","Bahía Blanca","1",92
+"S.I.","Buenos Aires","Bahía Blanca","2",58
+"S.I.","Buenos Aires","Balcarce","1",2
+"S.I.","Buenos Aires","Balcarce","2",1
+"S.I.","Buenos Aires","Baradero","2",1
+"S.I.","Buenos Aires","Benito Juárez","1",2
+"S.I.","Buenos Aires","Benito Juárez","2",2
+"S.I.","Buenos Aires","Berazategui","1",61
+"S.I.","Buenos Aires","Berazategui","2",22
+"S.I.","Buenos Aires","Berisso","1",5
+"S.I.","Buenos Aires","Berisso","2",3
+"S.I.","Buenos Aires","Bragado","1",1
+"S.I.","Buenos Aires","Bragado","2",1
+"S.I.","Buenos Aires","Brandsen","1",1
+"S.I.","Buenos Aires","Campana","1",20
+"S.I.","Buenos Aires","Campana","2",10
+"S.I.","Buenos Aires","Cañuelas","1",1
+"S.I.","Buenos Aires","Carlos Casares","1",1
+"S.I.","Buenos Aires","Carlos Tejedor","1",3
+"S.I.","Buenos Aires","Carmen de Areco","1",2
+"S.I.","Buenos Aires","Chacabuco","1",1
+"S.I.","Buenos Aires","Chascomús","1",1
+"S.I.","Buenos Aires","Chivilcoy","1",1
+"S.I.","Buenos Aires","Colón","1",5
+"S.I.","Buenos Aires","Colón","2",1
+"S.I.","Buenos Aires","Coronel de Marina L. Rosales","1",59
+"S.I.","Buenos Aires","Coronel de Marina L. Rosales","2",39
+"S.I.","Buenos Aires","Coronel Dorrego","1",2
+"S.I.","Buenos Aires","Coronel Dorrego","2",1
+"S.I.","Buenos Aires","Coronel Pringles","1",1
+"S.I.","Buenos Aires","Coronel Suárez","1",3
+"S.I.","Buenos Aires","Coronel Suárez","2",2
+"S.I.","Buenos Aires","Ensenada","1",4
+"S.I.","Buenos Aires","Ensenada","2",2
+"S.I.","Buenos Aires","Escobar","1",5
+"S.I.","Buenos Aires","Escobar","2",2
+"S.I.","Buenos Aires","Esteban Echeverría","1",35
+"S.I.","Buenos Aires","Esteban Echeverría","2",17
+"S.I.","Buenos Aires","Exaltación de la Cruz","1",2
+"S.I.","Buenos Aires","Ezeiza","1",44
+"S.I.","Buenos Aires","Ezeiza","2",24
+"S.I.","Buenos Aires","Florencio Varela","1",77
+"S.I.","Buenos Aires","Florencio Varela","2",36
+"S.I.","Buenos Aires","General Alvarado","1",2
+"S.I.","Buenos Aires","General Juan Madariaga","1",1
+"S.I.","Buenos Aires","General Pueyrredón","1",29
+"S.I.","Buenos Aires","General Pueyrredón","2",10
+"S.I.","Buenos Aires","General Rodríguez","1",9
+"S.I.","Buenos Aires","General Rodríguez","2",6
+"S.I.","Buenos Aires","General San Martín","1",47
+"S.I.","Buenos Aires","General San Martín","2",19
+"S.I.","Buenos Aires","General San Martín","3",1
+"S.I.","Buenos Aires","General Viamonte","1",1
+"S.I.","Buenos Aires","Hipólito Yrigoyen","1",1
+"S.I.","Buenos Aires","Hurlingham","1",2
+"S.I.","Buenos Aires","Hurlingham","2",2
+"S.I.","Buenos Aires","Ituzaingó","1",16
+"S.I.","Buenos Aires","Ituzaingó","2",4
+"S.I.","Buenos Aires","José C. Paz","1",33
+"S.I.","Buenos Aires","José C. Paz","2",15
+"S.I.","Buenos Aires","Junín","1",4
+"S.I.","Buenos Aires","Junín","2",1
+"S.I.","Buenos Aires","La Costa","1",1
+"S.I.","Buenos Aires","La Costa","2",2
+"S.I.","Buenos Aires","La Matanza","1",172
+"S.I.","Buenos Aires","La Matanza","2",58
+"S.I.","Buenos Aires","La Matanza","3",1
+"S.I.","Buenos Aires","La Plata","1",51
+"S.I.","Buenos Aires","La Plata","2",19
+"S.I.","Buenos Aires","Lanús","1",69
+"S.I.","Buenos Aires","Lanús","2",22
+"S.I.","Buenos Aires","Laprida","1",1
+"S.I.","Buenos Aires","Lincoln","1",1
+"S.I.","Buenos Aires","Lobos","1",5
+"S.I.","Buenos Aires","Lomas de Zamora","1",91
+"S.I.","Buenos Aires","Lomas de Zamora","2",25
+"S.I.","Buenos Aires","Luján","1",3
+"S.I.","Buenos Aires","Magdalena","1",2
+"S.I.","Buenos Aires","Malvinas Argentinas","1",9
+"S.I.","Buenos Aires","Malvinas Argentinas","2",7
+"S.I.","Buenos Aires","Mar Chiquita","1",1
+"S.I.","Buenos Aires","Marcos Paz","1",11
+"S.I.","Buenos Aires","Marcos Paz","2",7
+"S.I.","Buenos Aires","Mercedes","1",5
+"S.I.","Buenos Aires","Mercedes","2",2
+"S.I.","Buenos Aires","Merlo","1",20
+"S.I.","Buenos Aires","Merlo","2",8
+"S.I.","Buenos Aires","Monte","1",1
+"S.I.","Buenos Aires","Monte Hermoso","1",2
+"S.I.","Buenos Aires","Monte Hermoso","2",1
+"S.I.","Buenos Aires","Moreno","1",150
+"S.I.","Buenos Aires","Moreno","2",52
+"S.I.","Buenos Aires","Morón","1",9
+"S.I.","Buenos Aires","Morón","2",7
+"S.I.","Buenos Aires","Morón","3",1
+"S.I.","Buenos Aires","Necochea","1",4
+"S.I.","Buenos Aires","Necochea","2",2
+"S.I.","Buenos Aires","Olavarría","1",4
+"S.I.","Buenos Aires","Olavarría","2",3
+"S.I.","Buenos Aires","Patagones","1",64
+"S.I.","Buenos Aires","Patagones","2",47
+"S.I.","Buenos Aires","Pehuajó","1",2
+"S.I.","Buenos Aires","Pergamino","1",3
+"S.I.","Buenos Aires","Pergamino","2",1
+"S.I.","Buenos Aires","Pilar","1",17
+"S.I.","Buenos Aires","Pilar","2",7
+"S.I.","Buenos Aires","Pinamar","1",3
+"S.I.","Buenos Aires","Pinamar","2",1
+"S.I.","Buenos Aires","Presidente Perón","1",9
+"S.I.","Buenos Aires","Presidente Perón","2",4
+"S.I.","Buenos Aires","Puán","1",4
+"S.I.","Buenos Aires","Puán","2",2
+"S.I.","Buenos Aires","Punta Indio","1",15
+"S.I.","Buenos Aires","Punta Indio","2",5
+"S.I.","Buenos Aires","Quilmes","1",69
+"S.I.","Buenos Aires","Quilmes","2",21
+"S.I.","Buenos Aires","Quilmes","3",1
+"S.I.","Buenos Aires","Ramallo","1",3
+"S.I.","Buenos Aires","Rojas","1",1
+"S.I.","Buenos Aires","Rojas","2",1
+"S.I.","Buenos Aires","S.I.","1",21
+"S.I.","Buenos Aires","S.I.","2",14
+"S.I.","Buenos Aires","Saavedra","1",4
+"S.I.","Buenos Aires","Saavedra","2",2
+"S.I.","Buenos Aires","Saladillo","1",2
+"S.I.","Buenos Aires","Salliqueló","1",1
+"S.I.","Buenos Aires","San Fernando","1",6
+"S.I.","Buenos Aires","San Fernando","2",1
+"S.I.","Buenos Aires","San Isidro","1",10
+"S.I.","Buenos Aires","San Isidro","2",6
+"S.I.","Buenos Aires","San Miguel","1",49
+"S.I.","Buenos Aires","San Miguel","2",21
+"S.I.","Buenos Aires","San Nicolás","1",2
+"S.I.","Buenos Aires","San Pedro","1",4
+"S.I.","Buenos Aires","San Pedro","2",2
+"S.I.","Buenos Aires","San Vicente","1",3
+"S.I.","Buenos Aires","San Vicente","2",1
+"S.I.","Buenos Aires","Tandil","1",4
+"S.I.","Buenos Aires","Tandil","2",2
+"S.I.","Buenos Aires","Tigre","1",7
+"S.I.","Buenos Aires","Tigre","2",3
+"S.I.","Buenos Aires","Tornquist","1",2
+"S.I.","Buenos Aires","Tornquist","2",1
+"S.I.","Buenos Aires","Trenque Lauquen","1",2
+"S.I.","Buenos Aires","Trenque Lauquen","2",2
+"S.I.","Buenos Aires","Tres Arroyos","1",3
+"S.I.","Buenos Aires","Tres Arroyos","2",2
+"S.I.","Buenos Aires","Tres de Febrero","1",11
+"S.I.","Buenos Aires","Tres de Febrero","2",8
+"S.I.","Buenos Aires","Vicente López","1",27
+"S.I.","Buenos Aires","Vicente López","2",4
+"S.I.","Buenos Aires","Vicente López","3",1
+"S.I.","Buenos Aires","Villa Gesell","1",5
+"S.I.","Buenos Aires","Villa Gesell","2",2
+"S.I.","Buenos Aires","Villarino","1",20
+"S.I.","Buenos Aires","Villarino","2",13
+"S.I.","Buenos Aires","Zárate","1",16
+"S.I.","Buenos Aires","Zárate","2",4
+"S.I.","CABA","COMUNA 1","1",331
+"S.I.","CABA","COMUNA 1","2",162
+"S.I.","CABA","COMUNA 1","3",1
+"S.I.","CABA","COMUNA 10","1",10
+"S.I.","CABA","COMUNA 10","2",7
+"S.I.","CABA","COMUNA 11","1",3
+"S.I.","CABA","COMUNA 11","2",3
+"S.I.","CABA","COMUNA 12","1",4
+"S.I.","CABA","COMUNA 12","2",1
+"S.I.","CABA","COMUNA 13","1",7
+"S.I.","CABA","COMUNA 13","2",2
+"S.I.","CABA","COMUNA 14","1",8
+"S.I.","CABA","COMUNA 14","2",6
+"S.I.","CABA","COMUNA 15","1",3
+"S.I.","CABA","COMUNA 15","2",1
+"S.I.","CABA","COMUNA 2","1",5
+"S.I.","CABA","COMUNA 2","2",4
+"S.I.","CABA","COMUNA 3","1",7
+"S.I.","CABA","COMUNA 3","2",2
+"S.I.","CABA","COMUNA 4","1",11
+"S.I.","CABA","COMUNA 4","2",8
+"S.I.","CABA","COMUNA 5","1",3
+"S.I.","CABA","COMUNA 5","2",1
+"S.I.","CABA","COMUNA 6","1",2
+"S.I.","CABA","COMUNA 7","1",7
+"S.I.","CABA","COMUNA 7","2",4
+"S.I.","CABA","COMUNA 7","3",1
+"S.I.","CABA","COMUNA 8","1",3
+"S.I.","CABA","COMUNA 8","2",1
+"S.I.","CABA","COMUNA 9","1",2
+"S.I.","CABA","COMUNA 9","2",1
+"S.I.","CABA","S.I.","1",12
+"S.I.","CABA","S.I.","2",9
+"S.I.","Catamarca","Ambato","1",27
+"S.I.","Catamarca","Ambato","2",18
+"S.I.","Catamarca","Ancasti","1",17
+"S.I.","Catamarca","Ancasti","2",9
+"S.I.","Catamarca","Andalgalá","1",86
+"S.I.","Catamarca","Andalgalá","2",57
+"S.I.","Catamarca","Antofagasta de la Sierra","1",11
+"S.I.","Catamarca","Antofagasta de la Sierra","2",6
+"S.I.","Catamarca","Belén","1",208
+"S.I.","Catamarca","Belén","2",96
+"S.I.","Catamarca","Capayán","1",154
+"S.I.","Catamarca","Capayán","2",62
+"S.I.","Catamarca","Capital","1",1757
+"S.I.","Catamarca","Capital","2",659
+"S.I.","Catamarca","Capital","3",1
+"S.I.","Catamarca","El Alto","1",74
+"S.I.","Catamarca","El Alto","2",58
+"S.I.","Catamarca","Fray Mamerto Esquiú","1",70
+"S.I.","Catamarca","Fray Mamerto Esquiú","2",32
+"S.I.","Catamarca","La Paz","1",153
+"S.I.","Catamarca","La Paz","2",73
+"S.I.","Catamarca","Paclín","1",23
+"S.I.","Catamarca","Paclín","2",19
+"S.I.","Catamarca","Pomán","1",73
+"S.I.","Catamarca","Pomán","2",26
+"S.I.","Catamarca","S.I.","1",23
+"S.I.","Catamarca","S.I.","2",10
+"S.I.","Catamarca","Santa María","1",268
+"S.I.","Catamarca","Santa María","2",130
+"S.I.","Catamarca","Santa Rosa","1",55
+"S.I.","Catamarca","Santa Rosa","2",41
+"S.I.","Catamarca","Tinogasta","1",181
+"S.I.","Catamarca","Tinogasta","2",92
+"S.I.","Catamarca","Valle Viejo","1",194
+"S.I.","Catamarca","Valle Viejo","2",100
+"S.I.","Chaco","12 de Octubre","1",65
+"S.I.","Chaco","12 de Octubre","2",19
+"S.I.","Chaco","1º de Mayo","1",67
+"S.I.","Chaco","1º de Mayo","2",22
+"S.I.","Chaco","2 de Abril","1",119
+"S.I.","Chaco","2 de Abril","2",10
+"S.I.","Chaco","25 de Mayo","1",59
+"S.I.","Chaco","25 de Mayo","2",13
+"S.I.","Chaco","9 de Julio","1",62
+"S.I.","Chaco","9 de Julio","2",35
+"S.I.","Chaco","Almirante Brown","1",89
+"S.I.","Chaco","Almirante Brown","2",45
+"S.I.","Chaco","Bermejo","1",97
+"S.I.","Chaco","Bermejo","2",27
+"S.I.","Chaco","Chacabuco","1",316
+"S.I.","Chaco","Chacabuco","2",149
+"S.I.","Chaco","Comandante Fernández","1",480
+"S.I.","Chaco","Comandante Fernández","2",203
+"S.I.","Chaco","Comandante Fernández","3",1
+"S.I.","Chaco","Fray Justo Santa María de Oro","1",40
+"S.I.","Chaco","Fray Justo Santa María de Oro","2",20
+"S.I.","Chaco","Fray Justo Santa María de Oro","3",1
+"S.I.","Chaco","General Belgrano","1",50
+"S.I.","Chaco","General Belgrano","2",16
+"S.I.","Chaco","General Donovan","1",86
+"S.I.","Chaco","General Donovan","2",22
+"S.I.","Chaco","General Güemes","1",270
+"S.I.","Chaco","General Güemes","2",142
+"S.I.","Chaco","Independencia","1",73
+"S.I.","Chaco","Independencia","2",23
+"S.I.","Chaco","Libertad","1",54
+"S.I.","Chaco","Libertad","2",20
+"S.I.","Chaco","Libertador General San Martín","1",158
+"S.I.","Chaco","Libertador General San Martín","2",59
+"S.I.","Chaco","Maipú","1",68
+"S.I.","Chaco","Maipú","2",27
+"S.I.","Chaco","Mayor Luis J. Fontana","1",411
+"S.I.","Chaco","Mayor Luis J. Fontana","2",119
+"S.I.","Chaco","O'Higgins","1",107
+"S.I.","Chaco","O'Higgins","2",32
+"S.I.","Chaco","Presidencia de la Plaza","1",27
+"S.I.","Chaco","Presidencia de la Plaza","2",6
+"S.I.","Chaco","Quitilipi","1",100
+"S.I.","Chaco","Quitilipi","2",38
+"S.I.","Chaco","S.I.","1",7
+"S.I.","Chaco","S.I.","2",3
+"S.I.","Chaco","San Fernando","1",2737
+"S.I.","Chaco","San Fernando","2",1030
+"S.I.","Chaco","San Fernando","3",12
+"S.I.","Chaco","San Lorenzo","1",48
+"S.I.","Chaco","San Lorenzo","2",23
+"S.I.","Chaco","Sargento Cabral","1",47
+"S.I.","Chaco","Sargento Cabral","2",14
+"S.I.","Chaco","Tapenagá","1",33
+"S.I.","Chaco","Tapenagá","2",7
+"S.I.","Chubut","Biedma","1",621
+"S.I.","Chubut","Biedma","2",351
+"S.I.","Chubut","Biedma","3",1
+"S.I.","Chubut","Cushamen","1",95
+"S.I.","Chubut","Cushamen","2",48
+"S.I.","Chubut","Escalante","1",1238
+"S.I.","Chubut","Escalante","2",634
+"S.I.","Chubut","Florentino Ameghino","1",7
+"S.I.","Chubut","Florentino Ameghino","2",5
+"S.I.","Chubut","Futaleufú","1",446
+"S.I.","Chubut","Futaleufú","2",259
+"S.I.","Chubut","Gaiman","1",19
+"S.I.","Chubut","Gaiman","2",13
+"S.I.","Chubut","Gastre","1",5
+"S.I.","Chubut","Gastre","2",2
+"S.I.","Chubut","Languiñeo","1",12
+"S.I.","Chubut","Languiñeo","2",9
+"S.I.","Chubut","Mártires","1",22
+"S.I.","Chubut","Mártires","2",10
+"S.I.","Chubut","Paso de Indios","1",6
+"S.I.","Chubut","Paso de Indios","2",3
+"S.I.","Chubut","Rawson","1",808
+"S.I.","Chubut","Rawson","2",461
+"S.I.","Chubut","Rawson","3",2
+"S.I.","Chubut","Río Senguer","1",16
+"S.I.","Chubut","Río Senguer","2",12
+"S.I.","Chubut","S.I.","1",1
+"S.I.","Chubut","S.I.","2",1
+"S.I.","Chubut","Sarmiento","1",50
+"S.I.","Chubut","Sarmiento","2",9
+"S.I.","Chubut","Tehuelches","1",31
+"S.I.","Chubut","Tehuelches","2",13
+"S.I.","Chubut","Telsen","1",15
+"S.I.","Chubut","Telsen","2",14
+"S.I.","Córdoba","Capital","1",80
+"S.I.","Córdoba","Capital","2",32
+"S.I.","Córdoba","Colón","1",13
+"S.I.","Córdoba","Colón","2",6
+"S.I.","Córdoba","Cruz del Eje","1",2
+"S.I.","Córdoba","General San Martín","1",5
+"S.I.","Córdoba","General San Martín","2",2
+"S.I.","Córdoba","Juárez Celman","1",3
+"S.I.","Córdoba","Juárez Celman","2",1
+"S.I.","Córdoba","Marcos Juárez","1",2
+"S.I.","Córdoba","Minas","1",1
+"S.I.","Córdoba","Punilla","1",4
+"S.I.","Córdoba","Punilla","2",4
+"S.I.","Córdoba","Río Cuarto","1",8
+"S.I.","Córdoba","Río Cuarto","2",3
+"S.I.","Córdoba","Río Primero","1",1
+"S.I.","Córdoba","Río Segundo","1",4
+"S.I.","Córdoba","San Alberto","1",1
+"S.I.","Córdoba","San Alberto","2",2
+"S.I.","Córdoba","San Javier","1",2
+"S.I.","Córdoba","San Javier","2",1
+"S.I.","Córdoba","San Justo","1",3
+"S.I.","Córdoba","San Justo","2",1
+"S.I.","Córdoba","Sobremonte","1",2
+"S.I.","Córdoba","Tercero Arriba","1",3
+"S.I.","Córdoba","Tulumba","1",3
+"S.I.","Córdoba","Tulumba","2",1
+"S.I.","Córdoba","Unión","1",7
+"S.I.","Córdoba","Unión","2",1
+"S.I.","Corrientes","Bella Vista","1",89
+"S.I.","Corrientes","Bella Vista","2",33
+"S.I.","Corrientes","Berón de Astrada","1",3
+"S.I.","Corrientes","Berón de Astrada","2",2
+"S.I.","Corrientes","Capital","1",1239
+"S.I.","Corrientes","Capital","2",298
+"S.I.","Corrientes","Concepción","1",98
+"S.I.","Corrientes","Concepción","2",43
+"S.I.","Corrientes","Curuzú Cuatiá","1",403
+"S.I.","Corrientes","Curuzú Cuatiá","2",145
+"S.I.","Corrientes","Empedrado","1",90
+"S.I.","Corrientes","Empedrado","2",20
+"S.I.","Corrientes","Esquina","1",204
+"S.I.","Corrientes","Esquina","2",75
+"S.I.","Corrientes","General Alvear","1",22
+"S.I.","Corrientes","General Alvear","2",15
+"S.I.","Corrientes","General Paz","1",8
+"S.I.","Corrientes","General Paz","2",5
+"S.I.","Corrientes","Goya","1",503
+"S.I.","Corrientes","Goya","2",158
+"S.I.","Corrientes","Itatí","1",69
+"S.I.","Corrientes","Itatí","2",25
+"S.I.","Corrientes","Ituzaingó","1",129
+"S.I.","Corrientes","Ituzaingó","2",50
+"S.I.","Corrientes","Lavalle","1",99
+"S.I.","Corrientes","Lavalle","2",28
+"S.I.","Corrientes","Mburucuyá","1",22
+"S.I.","Corrientes","Mburucuyá","2",3
+"S.I.","Corrientes","Mercedes","1",365
+"S.I.","Corrientes","Mercedes","2",117
+"S.I.","Corrientes","Monte Caseros","1",250
+"S.I.","Corrientes","Monte Caseros","2",74
+"S.I.","Corrientes","Paso de los Libres","1",110
+"S.I.","Corrientes","Paso de los Libres","2",40
+"S.I.","Corrientes","S.I.","1",2
+"S.I.","Corrientes","Saladas","1",234
+"S.I.","Corrientes","Saladas","2",60
+"S.I.","Corrientes","San Cosme","1",25
+"S.I.","Corrientes","San Cosme","2",11
+"S.I.","Corrientes","San Luis del Palmar","1",53
+"S.I.","Corrientes","San Luis del Palmar","2",24
+"S.I.","Corrientes","San Martín","1",65
+"S.I.","Corrientes","San Martín","2",47
+"S.I.","Corrientes","San Miguel","1",10
+"S.I.","Corrientes","San Miguel","2",4
+"S.I.","Corrientes","San Roque","1",102
+"S.I.","Corrientes","San Roque","2",48
+"S.I.","Corrientes","Santo Tomé","1",71
+"S.I.","Corrientes","Santo Tomé","2",23
+"S.I.","Corrientes","Sauce","1",87
+"S.I.","Corrientes","Sauce","2",58
+"S.I.","Entre Ríos","Colón","1",186
+"S.I.","Entre Ríos","Colón","2",86
+"S.I.","Entre Ríos","Concordia","1",853
+"S.I.","Entre Ríos","Concordia","2",322
+"S.I.","Entre Ríos","Diamante","1",244
+"S.I.","Entre Ríos","Diamante","2",145
+"S.I.","Entre Ríos","Diamante","3",1
+"S.I.","Entre Ríos","Federación","1",160
+"S.I.","Entre Ríos","Federación","2",90
+"S.I.","Entre Ríos","Federal","1",181
+"S.I.","Entre Ríos","Federal","2",74
+"S.I.","Entre Ríos","Feliciano","1",48
+"S.I.","Entre Ríos","Feliciano","2",20
+"S.I.","Entre Ríos","Gualeguay","1",348
+"S.I.","Entre Ríos","Gualeguay","2",172
+"S.I.","Entre Ríos","Gualeguaychú","1",739
+"S.I.","Entre Ríos","Gualeguaychú","2",398
+"S.I.","Entre Ríos","Islas del Ibicuy","1",67
+"S.I.","Entre Ríos","Islas del Ibicuy","2",34
+"S.I.","Entre Ríos","La Paz","1",395
+"S.I.","Entre Ríos","La Paz","2",171
+"S.I.","Entre Ríos","Nogoyá","1",623
+"S.I.","Entre Ríos","Nogoyá","2",450
+"S.I.","Entre Ríos","Paraná","1",1832
+"S.I.","Entre Ríos","Paraná","2",1003
+"S.I.","Entre Ríos","Paraná","3",3
+"S.I.","Entre Ríos","S.I.","1",5
+"S.I.","Entre Ríos","S.I.","2",2
+"S.I.","Entre Ríos","San Salvador","1",86
+"S.I.","Entre Ríos","San Salvador","2",30
+"S.I.","Entre Ríos","Tala","1",133
+"S.I.","Entre Ríos","Tala","2",84
+"S.I.","Entre Ríos","Uruguay","1",391
+"S.I.","Entre Ríos","Uruguay","2",148
+"S.I.","Entre Ríos","Victoria","1",161
+"S.I.","Entre Ríos","Victoria","2",109
+"S.I.","Entre Ríos","Villaguay","1",595
+"S.I.","Entre Ríos","Villaguay","2",352
+"S.I.","Formosa","Formosa","1",41
+"S.I.","Formosa","Formosa","2",15
+"S.I.","Formosa","Patiño","1",3
+"S.I.","Formosa","Patiño","2",2
+"S.I.","Formosa","Pilagás","1",2
+"S.I.","Formosa","Pilcomayo","1",3
+"S.I.","Formosa","Pirané","1",2
+"S.I.","Jujuy","Almirante Brown","1",38
+"S.I.","Jujuy","Almirante Brown","2",4
+"S.I.","Jujuy","Baradero","1",16
+"S.I.","Jujuy","Baradero","2",1
+"S.I.","Jujuy","Campana","1",143
+"S.I.","Jujuy","Campana","2",50
+"S.I.","Jujuy","Chacabuco","1",3
+"S.I.","Jujuy","Cochinoca","1",170
+"S.I.","Jujuy","Cochinoca","2",34
+"S.I.","Jujuy","Coronel de Marina L. Rosales","1",119
+"S.I.","Jujuy","Coronel de Marina L. Rosales","2",34
+"S.I.","Jujuy","Dr. Manuel Belgrano","1",2679
+"S.I.","Jujuy","Dr. Manuel Belgrano","2",1435
+"S.I.","Jujuy","Dr. Manuel Belgrano","3",6
+"S.I.","Jujuy","El Carmen","1",655
+"S.I.","Jujuy","El Carmen","2",369
+"S.I.","Jujuy","El Carmen","3",20
+"S.I.","Jujuy","Ezeiza","1",22
+"S.I.","Jujuy","Ezeiza","2",4
+"S.I.","Jujuy","General Guido","1",3
+"S.I.","Jujuy","General Guido","2",3
+"S.I.","Jujuy","Humahuaca","1",49
+"S.I.","Jujuy","Humahuaca","2",27
+"S.I.","Jujuy","Hurlingham","1",197
+"S.I.","Jujuy","Hurlingham","2",30
+"S.I.","Jujuy","Lanús","1",15
+"S.I.","Jujuy","Ledesma","1",1662
+"S.I.","Jujuy","Ledesma","2",938
+"S.I.","Jujuy","Ledesma","3",6
+"S.I.","Jujuy","Palpalá","1",728
+"S.I.","Jujuy","Palpalá","2",373
+"S.I.","Jujuy","Pehuajó","1",1
+"S.I.","Jujuy","Rinconada","1",13
+"S.I.","Jujuy","Rinconada","2",6
+"S.I.","Jujuy","S.I.","1",3
+"S.I.","Jujuy","S.I.","2",2
+"S.I.","Jujuy","Salto","2",1
+"S.I.","Jujuy","San Antonio","1",59
+"S.I.","Jujuy","San Antonio","2",40
+"S.I.","Jujuy","San Pedro","1",1513
+"S.I.","Jujuy","San Pedro","2",828
+"S.I.","Jujuy","San Pedro","3",2
+"S.I.","Jujuy","Santa Bárbara","1",219
+"S.I.","Jujuy","Santa Bárbara","2",98
+"S.I.","Jujuy","Santa Catalina","1",23
+"S.I.","Jujuy","Santa Catalina","2",9
+"S.I.","Jujuy","Susques","1",23
+"S.I.","Jujuy","Susques","2",7
+"S.I.","Jujuy","Tilcara","1",134
+"S.I.","Jujuy","Tilcara","2",66
+"S.I.","Jujuy","Tumbaya","1",16
+"S.I.","Jujuy","Tumbaya","2",6
+"S.I.","Jujuy","Valle Grande","1",31
+"S.I.","Jujuy","Valle Grande","2",12
+"S.I.","Jujuy","Yavi","1",187
+"S.I.","Jujuy","Yavi","2",130
+"S.I.","Jujuy","Yavi","3",8
+"S.I.","La Pampa","Atreucó","1",2
+"S.I.","La Pampa","Caleu Caleu","1",14
+"S.I.","La Pampa","Caleu Caleu","2",11
+"S.I.","La Pampa","Capital","1",13
+"S.I.","La Pampa","Capital","2",5
+"S.I.","La Pampa","Chapaleufú","1",2
+"S.I.","La Pampa","Chapaleufú","2",1
+"S.I.","La Pampa","Conhelo","1",1
+"S.I.","La Pampa","Conhelo","2",1
+"S.I.","La Pampa","Hucal","1",2
+"S.I.","La Pampa","Hucal","2",2
+"S.I.","La Pampa","Loventué","1",1
+"S.I.","La Pampa","Maracó","1",5
+"S.I.","La Pampa","Maracó","2",1
+"S.I.","La Pampa","Puelén","1",4
+"S.I.","La Pampa","Puelén","2",1
+"S.I.","La Pampa","Quemú Quemú","1",2
+"S.I.","La Pampa","Rancul","1",3
+"S.I.","La Pampa","Rancul","2",1
+"S.I.","La Pampa","Toay","1",4
+"S.I.","La Pampa","Toay","2",2
+"S.I.","La Pampa","Utracán","1",2
+"S.I.","La Pampa","Utracán","2",1
+"S.I.","La Rioja","Arauco","1",206
+"S.I.","La Rioja","Arauco","2",65
+"S.I.","La Rioja","Capital","1",2321
+"S.I.","La Rioja","Capital","2",624
+"S.I.","La Rioja","Capital","3",10
+"S.I.","La Rioja","Castro Barros","1",51
+"S.I.","La Rioja","Castro Barros","2",12
+"S.I.","La Rioja","Chamical","1",163
+"S.I.","La Rioja","Chamical","2",54
+"S.I.","La Rioja","Chamical","3",1
+"S.I.","La Rioja","Chilecito","1",607
+"S.I.","La Rioja","Chilecito","2",230
+"S.I.","La Rioja","Chilecito","3",11
+"S.I.","La Rioja","Coronel Felipe Varela","1",61
+"S.I.","La Rioja","Coronel Felipe Varela","2",36
+"S.I.","La Rioja","Famatina","1",59
+"S.I.","La Rioja","Famatina","2",34
+"S.I.","La Rioja","General Angel V. Peñaloza","1",27
+"S.I.","La Rioja","General Angel V. Peñaloza","2",13
+"S.I.","La Rioja","General Belgrano","1",55
+"S.I.","La Rioja","General Belgrano","2",21
+"S.I.","La Rioja","General Juan F. Quiroga","1",72
+"S.I.","La Rioja","General Juan F. Quiroga","2",38
+"S.I.","La Rioja","General Lamadrid","1",6
+"S.I.","La Rioja","General Lamadrid","2",5
+"S.I.","La Rioja","General Ocampo","1",83
+"S.I.","La Rioja","General Ocampo","2",17
+"S.I.","La Rioja","General San Martín","1",5
+"S.I.","La Rioja","General San Martín","2",1
+"S.I.","La Rioja","Independencia","1",10
+"S.I.","La Rioja","Independencia","2",3
+"S.I.","La Rioja","Rosario Vera Peñaloza","1",147
+"S.I.","La Rioja","Rosario Vera Peñaloza","2",68
+"S.I.","La Rioja","S.I.","1",32
+"S.I.","La Rioja","San Blas de los Sauces","1",22
+"S.I.","La Rioja","San Blas de los Sauces","2",18
+"S.I.","La Rioja","Sanagasta","1",15
+"S.I.","La Rioja","Sanagasta","2",10
+"S.I.","La Rioja","Vinchina","1",17
+"S.I.","La Rioja","Vinchina","2",8
+"S.I.","Mendoza","Capital","1",497
+"S.I.","Mendoza","Capital","2",207
+"S.I.","Mendoza","Capital","3",1
+"S.I.","Mendoza","General Alvear","1",67
+"S.I.","Mendoza","General Alvear","2",53
+"S.I.","Mendoza","General Alvear","3",2
+"S.I.","Mendoza","Godoy Cruz","1",603
+"S.I.","Mendoza","Godoy Cruz","2",335
+"S.I.","Mendoza","Godoy Cruz","3",3
+"S.I.","Mendoza","Guaymallén","1",842
+"S.I.","Mendoza","Guaymallén","2",350
+"S.I.","Mendoza","Guaymallén","3",7
+"S.I.","Mendoza","Junín","1",93
+"S.I.","Mendoza","Junín","2",56
+"S.I.","Mendoza","Junín","3",1
+"S.I.","Mendoza","La Paz","1",32
+"S.I.","Mendoza","La Paz","2",18
+"S.I.","Mendoza","Las Heras","1",656
+"S.I.","Mendoza","Las Heras","2",243
+"S.I.","Mendoza","Las Heras","3",2
+"S.I.","Mendoza","Lavalle","1",65
+"S.I.","Mendoza","Lavalle","2",24
+"S.I.","Mendoza","Luján de Cuyo","1",603
+"S.I.","Mendoza","Luján de Cuyo","2",330
+"S.I.","Mendoza","Luján de Cuyo","3",1
+"S.I.","Mendoza","Maipú","1",596
+"S.I.","Mendoza","Maipú","2",343
+"S.I.","Mendoza","Maipú","3",2
+"S.I.","Mendoza","Malargüe","1",35
+"S.I.","Mendoza","Malargüe","2",25
+"S.I.","Mendoza","Rivadavia","1",109
+"S.I.","Mendoza","Rivadavia","2",75
+"S.I.","Mendoza","Rivadavia","3",1
+"S.I.","Mendoza","S.I.","1",10
+"S.I.","Mendoza","S.I.","2",6
+"S.I.","Mendoza","S.I.","3",1
+"S.I.","Mendoza","San Carlos","1",325
+"S.I.","Mendoza","San Carlos","2",243
+"S.I.","Mendoza","San Carlos","3",25
+"S.I.","Mendoza","San Martín","1",123
+"S.I.","Mendoza","San Martín","2",58
+"S.I.","Mendoza","San Martín","3",1
+"S.I.","Mendoza","San Rafael","1",288
+"S.I.","Mendoza","San Rafael","2",139
+"S.I.","Mendoza","San Rafael","3",3
+"S.I.","Mendoza","Santa Rosa","1",23
+"S.I.","Mendoza","Santa Rosa","2",16
+"S.I.","Mendoza","Tunuyán","1",141
+"S.I.","Mendoza","Tunuyán","2",91
+"S.I.","Mendoza","Tunuyán","3",4
+"S.I.","Mendoza","Tupungato","1",55
+"S.I.","Mendoza","Tupungato","2",32
+"S.I.","Misiones","25 de Mayo","1",1
+"S.I.","Misiones","25 de Mayo","2",1
+"S.I.","Misiones","Apóstoles","1",8
+"S.I.","Misiones","Apóstoles","2",3
+"S.I.","Misiones","Cainguás","1",5
+"S.I.","Misiones","Cainguás","2",1
+"S.I.","Misiones","Candelaria","1",3
+"S.I.","Misiones","Candelaria","2",2
+"S.I.","Misiones","Capital","1",22
+"S.I.","Misiones","Capital","2",7
+"S.I.","Misiones","Concepción","1",2
+"S.I.","Misiones","Eldorado","1",7
+"S.I.","Misiones","Eldorado","2",2
+"S.I.","Misiones","General Manuel Belgrano","1",5
+"S.I.","Misiones","General Manuel Belgrano","2",4
+"S.I.","Misiones","Guaraní","1",11
+"S.I.","Misiones","Guaraní","2",3
+"S.I.","Misiones","Iguazú","1",11
+"S.I.","Misiones","Iguazú","2",3
+"S.I.","Misiones","Leandro N. Alem","1",2
+"S.I.","Misiones","Leandro N. Alem","2",1
+"S.I.","Misiones","Libertador Grl. San Martín","1",5
+"S.I.","Misiones","Libertador Grl. San Martín","2",1
+"S.I.","Misiones","Montecarlo","1",6
+"S.I.","Misiones","Montecarlo","2",2
+"S.I.","Misiones","Oberá","1",5
+"S.I.","Misiones","San Ignacio","1",7
+"S.I.","Misiones","San Javier","1",4
+"S.I.","Misiones","San Javier","2",2
+"S.I.","Misiones","San Pedro","1",4
+"S.I.","Neuquén","Añelo","1",11
+"S.I.","Neuquén","Añelo","2",4
+"S.I.","Neuquén","Chos Malal","1",4
+"S.I.","Neuquén","Chos Malal","2",2
+"S.I.","Neuquén","Confluencia","1",133
+"S.I.","Neuquén","Confluencia","2",61
+"S.I.","Neuquén","Lácar","1",6
+"S.I.","Neuquén","Lácar","2",2
+"S.I.","Neuquén","Loncopué","1",2
+"S.I.","Neuquén","Los Lagos","1",4
+"S.I.","Neuquén","Los Lagos","2",2
+"S.I.","Neuquén","Ñorquín","1",1
+"S.I.","Neuquén","Pehuenches","1",4
+"S.I.","Neuquén","Pehuenches","2",2
+"S.I.","Neuquén","Picunches","1",2
+"S.I.","Neuquén","Picunches","2",1
+"S.I.","Neuquén","S.I.","1",2
+"S.I.","Neuquén","Zapala","1",4
+"S.I.","Neuquén","Zapala","2",1
+"S.I.","Río Negro","25 de Mayo","1",107
+"S.I.","Río Negro","25 de Mayo","2",41
+"S.I.","Río Negro","9 de Julio","1",25
+"S.I.","Río Negro","9 de Julio","2",17
+"S.I.","Río Negro","Adolfo Alsina","1",870
+"S.I.","Río Negro","Adolfo Alsina","2",558
+"S.I.","Río Negro","Adolfo Alsina","3",12
+"S.I.","Río Negro","Avellaneda","1",323
+"S.I.","Río Negro","Avellaneda","2",182
+"S.I.","Río Negro","Avellaneda","3",2
+"S.I.","Río Negro","Bariloche","1",753
+"S.I.","Río Negro","Bariloche","2",451
+"S.I.","Río Negro","Bariloche","3",10
+"S.I.","Río Negro","Conesa","1",116
+"S.I.","Río Negro","Conesa","2",92
+"S.I.","Río Negro","Conesa","3",4
+"S.I.","Río Negro","El Cuy","1",20
+"S.I.","Río Negro","El Cuy","2",15
+"S.I.","Río Negro","General Roca","1",3570
+"S.I.","Río Negro","General Roca","2",1783
+"S.I.","Río Negro","General Roca","3",30
+"S.I.","Río Negro","Ñorquincó","1",5
+"S.I.","Río Negro","Pichi Mahuida","1",634
+"S.I.","Río Negro","Pichi Mahuida","2",482
+"S.I.","Río Negro","Pichi Mahuida","3",10
+"S.I.","Río Negro","Pilcaniyeu","1",27
+"S.I.","Río Negro","Pilcaniyeu","2",21
+"S.I.","Río Negro","Pilcaniyeu","3",1
+"S.I.","Río Negro","S.I.","1",24
+"S.I.","Río Negro","S.I.","2",16
+"S.I.","Río Negro","San Antonio","1",507
+"S.I.","Río Negro","San Antonio","2",331
+"S.I.","Río Negro","San Antonio","3",5
+"S.I.","Río Negro","Valcheta","1",79
+"S.I.","Río Negro","Valcheta","2",52
+"S.I.","S.I.","S.I.","1",6831
+"S.I.","S.I.","S.I.","2",3327
+"S.I.","S.I.","S.I.","3",20
+"S.I.","Salta","Anta","1",125
+"S.I.","Salta","Anta","2",40
+"S.I.","Salta","Cachi","1",32
+"S.I.","Salta","Cachi","2",10
+"S.I.","Salta","Cafayate","1",509
+"S.I.","Salta","Cafayate","2",77
+"S.I.","Salta","Capital","1",4428
+"S.I.","Salta","Capital","2",2670
+"S.I.","Salta","Capital","3",20
+"S.I.","Salta","Cerrillos","1",152
+"S.I.","Salta","Cerrillos","2",73
+"S.I.","Salta","Chicoana","1",98
+"S.I.","Salta","Chicoana","2",46
+"S.I.","Salta","General Güemes","1",296
+"S.I.","Salta","General Güemes","2",127
+"S.I.","Salta","Grl. José de San Martín","1",592
+"S.I.","Salta","Grl. José de San Martín","2",271
+"S.I.","Salta","Guachipas","1",8
+"S.I.","Salta","Guachipas","2",2
+"S.I.","Salta","Iruya","1",9
+"S.I.","Salta","Iruya","2",5
+"S.I.","Salta","La Caldera","1",31
+"S.I.","Salta","La Caldera","2",20
+"S.I.","Salta","La Candelaria","1",23
+"S.I.","Salta","La Candelaria","2",5
+"S.I.","Salta","La Poma","1",14
+"S.I.","Salta","La Poma","2",4
+"S.I.","Salta","La Viña","1",25
+"S.I.","Salta","La Viña","2",11
+"S.I.","Salta","Los Andes","1",31
+"S.I.","Salta","Los Andes","2",4
+"S.I.","Salta","Metán","1",208
+"S.I.","Salta","Metán","2",71
+"S.I.","Salta","Molinos","1",27
+"S.I.","Salta","Molinos","2",11
+"S.I.","Salta","Orán","1",557
+"S.I.","Salta","Orán","2",204
+"S.I.","Salta","Rivadavia","1",46
+"S.I.","Salta","Rivadavia","2",20
+"S.I.","Salta","Rosario de la Frontera","1",115
+"S.I.","Salta","Rosario de la Frontera","2",22
+"S.I.","Salta","Rosario de Lerma","1",233
+"S.I.","Salta","Rosario de Lerma","2",97
+"S.I.","Salta","Rosario de Lerma","3",1
+"S.I.","Salta","S.I.","1",8
+"S.I.","Salta","S.I.","2",7
+"S.I.","Salta","San Carlos","1",66
+"S.I.","Salta","San Carlos","2",7
+"S.I.","Salta","Santa Victoria","1",47
+"S.I.","Salta","Santa Victoria","2",15
+"S.I.","San Juan","25 de Mayo","1",119
+"S.I.","San Juan","25 de Mayo","2",39
+"S.I.","San Juan","9 de Julio","1",45
+"S.I.","San Juan","9 de Julio","2",22
+"S.I.","San Juan","Albardón","1",333
+"S.I.","San Juan","Albardón","2",75
+"S.I.","San Juan","Albardón","3",1
+"S.I.","San Juan","Angaco","1",70
+"S.I.","San Juan","Angaco","2",35
+"S.I.","San Juan","Angaco","3",1
+"S.I.","San Juan","Calingasta","1",61
+"S.I.","San Juan","Calingasta","2",37
+"S.I.","San Juan","Capital","1",1796
+"S.I.","San Juan","Capital","2",892
+"S.I.","San Juan","Capital","3",3
+"S.I.","San Juan","Caucete","1",486
+"S.I.","San Juan","Caucete","2",234
+"S.I.","San Juan","Chimbas","1",893
+"S.I.","San Juan","Chimbas","2",343
+"S.I.","San Juan","Chimbas","3",1
+"S.I.","San Juan","Iglesia","1",45
+"S.I.","San Juan","Iglesia","2",18
+"S.I.","San Juan","Jáchal","1",474
+"S.I.","San Juan","Jáchal","2",148
+"S.I.","San Juan","Pocito","1",422
+"S.I.","San Juan","Pocito","2",220
+"S.I.","San Juan","Pocito","3",3
+"S.I.","San Juan","Rawson","1",1430
+"S.I.","San Juan","Rawson","2",649
+"S.I.","San Juan","Rawson","3",2
+"S.I.","San Juan","Rivadavia","1",1131
+"S.I.","San Juan","Rivadavia","2",445
+"S.I.","San Juan","S.I.","1",29
+"S.I.","San Juan","S.I.","2",7
+"S.I.","San Juan","San Martín","1",117
+"S.I.","San Juan","San Martín","2",24
+"S.I.","San Juan","Santa Lucía","1",545
+"S.I.","San Juan","Santa Lucía","2",255
+"S.I.","San Juan","Santa Lucía","3",2
+"S.I.","San Juan","Sarmiento","1",179
+"S.I.","San Juan","Sarmiento","2",105
+"S.I.","San Juan","Ullúm","1",27
+"S.I.","San Juan","Ullúm","2",11
+"S.I.","San Juan","Valle Fértil","1",74
+"S.I.","San Juan","Valle Fértil","2",26
+"S.I.","San Juan","Zonda","1",13
+"S.I.","San Juan","Zonda","2",9
+"S.I.","San Luis","Ayacucho","1",5
+"S.I.","San Luis","Ayacucho","2",3
+"S.I.","San Luis","Coronel Pringles","1",1
+"S.I.","San Luis","General Pedernera","1",11
+"S.I.","San Luis","General Pedernera","2",4
+"S.I.","San Luis","Gobernador Dupuy","1",1
+"S.I.","San Luis","Junín","1",1
+"S.I.","San Luis","La Capital","1",52
+"S.I.","San Luis","La Capital","2",19
+"S.I.","San Luis","S.I.","1",1
+"S.I.","Santa Cruz","Corpen Aike","1",52
+"S.I.","Santa Cruz","Corpen Aike","2",25
+"S.I.","Santa Cruz","Deseado","1",773
+"S.I.","Santa Cruz","Deseado","2",471
+"S.I.","Santa Cruz","Güer Aike","1",435
+"S.I.","Santa Cruz","Güer Aike","2",236
+"S.I.","Santa Cruz","Güer Aike","3",2
+"S.I.","Santa Cruz","Lago Argentino","1",78
+"S.I.","Santa Cruz","Lago Argentino","2",43
+"S.I.","Santa Cruz","Lago Buenos Aires","1",48
+"S.I.","Santa Cruz","Lago Buenos Aires","2",35
+"S.I.","Santa Cruz","Magallanes","1",34
+"S.I.","Santa Cruz","Magallanes","2",23
+"S.I.","Santa Cruz","Río Chico","1",22
+"S.I.","Santa Cruz","Río Chico","2",10
+"S.I.","Santa Cruz","S.I.","1",1
+"S.I.","Santa Fe","Caseros","1",7
+"S.I.","Santa Fe","Caseros","2",3
+"S.I.","Santa Fe","Castellanos","1",8
+"S.I.","Santa Fe","Castellanos","2",4
+"S.I.","Santa Fe","Constitución","1",1
+"S.I.","Santa Fe","Garay","1",5
+"S.I.","Santa Fe","Garay","2",3
+"S.I.","Santa Fe","General López","1",9
+"S.I.","Santa Fe","General López","2",1
+"S.I.","Santa Fe","General Obligado","1",15
+"S.I.","Santa Fe","General Obligado","2",6
+"S.I.","Santa Fe","Iriondo","1",4
+"S.I.","Santa Fe","Iriondo","2",2
+"S.I.","Santa Fe","La Capital","1",24
+"S.I.","Santa Fe","La Capital","2",12
+"S.I.","Santa Fe","Las Colonias","1",9
+"S.I.","Santa Fe","Las Colonias","2",2
+"S.I.","Santa Fe","Rosario","1",36
+"S.I.","Santa Fe","Rosario","2",15
+"S.I.","Santa Fe","San Cristóbal","1",9
+"S.I.","Santa Fe","San Cristóbal","2",1
+"S.I.","Santa Fe","San Javier","1",2
+"S.I.","Santa Fe","San Jerónimo","1",3
+"S.I.","Santa Fe","San Justo","1",1
+"S.I.","Santa Fe","San Justo","2",1
+"S.I.","Santa Fe","San Lorenzo","1",7
+"S.I.","Santa Fe","San Lorenzo","2",2
+"S.I.","Santa Fe","San Martín","1",1
+"S.I.","Santa Fe","Vera","1",4
+"S.I.","Santa Fe","Vera","2",3
+"S.I.","Santiago del Estero","Aguirre","1",88
+"S.I.","Santiago del Estero","Aguirre","2",10
+"S.I.","Santiago del Estero","Aguirre","3",1
+"S.I.","Santiago del Estero","Alberdi","1",43
+"S.I.","Santiago del Estero","Alberdi","2",22
+"S.I.","Santiago del Estero","Atamisqui","1",16
+"S.I.","Santiago del Estero","Atamisqui","2",4
+"S.I.","Santiago del Estero","Avellaneda","1",82
+"S.I.","Santiago del Estero","Avellaneda","2",17
+"S.I.","Santiago del Estero","Banda","1",682
+"S.I.","Santiago del Estero","Banda","2",170
+"S.I.","Santiago del Estero","Banda","3",2
+"S.I.","Santiago del Estero","Belgrano","1",6
+"S.I.","Santiago del Estero","Belgrano","2",1
+"S.I.","Santiago del Estero","Capital","1",1293
+"S.I.","Santiago del Estero","Capital","2",553
+"S.I.","Santiago del Estero","Capital","3",5
+"S.I.","Santiago del Estero","Choya","1",134
+"S.I.","Santiago del Estero","Choya","2",40
+"S.I.","Santiago del Estero","Choya","3",1
+"S.I.","Santiago del Estero","Copo","1",60
+"S.I.","Santiago del Estero","Copo","2",22
+"S.I.","Santiago del Estero","Copo","3",3
+"S.I.","Santiago del Estero","Figueroa","1",29
+"S.I.","Santiago del Estero","Figueroa","2",14
+"S.I.","Santiago del Estero","General Taboada","1",249
+"S.I.","Santiago del Estero","General Taboada","2",63
+"S.I.","Santiago del Estero","Guasayán","1",26
+"S.I.","Santiago del Estero","Guasayán","2",12
+"S.I.","Santiago del Estero","Jiménez","1",81
+"S.I.","Santiago del Estero","Jiménez","2",11
+"S.I.","Santiago del Estero","Juan F. Ibarra","1",15
+"S.I.","Santiago del Estero","Juan F. Ibarra","2",7
+"S.I.","Santiago del Estero","Loreto","1",55
+"S.I.","Santiago del Estero","Loreto","2",25
+"S.I.","Santiago del Estero","Moreno","1",331
+"S.I.","Santiago del Estero","Moreno","2",87
+"S.I.","Santiago del Estero","Ojo de Agua","1",49
+"S.I.","Santiago del Estero","Ojo de Agua","2",17
+"S.I.","Santiago del Estero","Pellegrini","1",85
+"S.I.","Santiago del Estero","Pellegrini","2",16
+"S.I.","Santiago del Estero","Quebrachos","1",19
+"S.I.","Santiago del Estero","Quebrachos","2",6
+"S.I.","Santiago del Estero","Río Hondo","1",478
+"S.I.","Santiago del Estero","Río Hondo","2",112
+"S.I.","Santiago del Estero","Rivadavia","1",2
+"S.I.","Santiago del Estero","Rivadavia","2",3
+"S.I.","Santiago del Estero","Rivadavia","3",1
+"S.I.","Santiago del Estero","Robles","1",92
+"S.I.","Santiago del Estero","Robles","2",12
+"S.I.","Santiago del Estero","Robles","3",1
+"S.I.","Santiago del Estero","S.I.","1",3
+"S.I.","Santiago del Estero","S.I.","2",2
+"S.I.","Santiago del Estero","Salavina","1",39
+"S.I.","Santiago del Estero","Salavina","2",4
+"S.I.","Santiago del Estero","San Martín","1",17
+"S.I.","Santiago del Estero","San Martín","2",5
+"S.I.","Santiago del Estero","Sarmiento","1",2
+"S.I.","Santiago del Estero","Sarmiento","2",1
+"S.I.","Santiago del Estero","Silípica","1",9
+"S.I.","Santiago del Estero","Silípica","2",7
+"S.I.","Santiago del Estero","Tafí Viejo","1",5
+"S.I.","Tierra del Fuego","Antártida Argentina","1",1
+"S.I.","Tierra del Fuego","Río Grande","1",724
+"S.I.","Tierra del Fuego","Río Grande","2",255
+"S.I.","Tierra del Fuego","Río Grande","3",1
+"S.I.","Tierra del Fuego","S.I.","1",11
+"S.I.","Tierra del Fuego","S.I.","2",3
+"S.I.","Tierra del Fuego","Ushuaia","1",299
+"S.I.","Tierra del Fuego","Ushuaia","2",175
+"S.I.","Tierra del Fuego","Ushuaia","3",1
+"S.I.","Tucumán","Burruyacú","1",4
+"S.I.","Tucumán","Capital","1",124
+"S.I.","Tucumán","Capital","2",22
+"S.I.","Tucumán","Chicligasta","1",11
+"S.I.","Tucumán","Chicligasta","2",1
+"S.I.","Tucumán","Cruz Alta","1",22
+"S.I.","Tucumán","Cruz Alta","2",4
+"S.I.","Tucumán","Famaillá","1",13
+"S.I.","Tucumán","Graneros","1",3
+"S.I.","Tucumán","Juan Bautista Alberdi","1",3
+"S.I.","Tucumán","Juan Bautista Alberdi","2",1
+"S.I.","Tucumán","La Cocha","1",5
+"S.I.","Tucumán","Leales","1",8
+"S.I.","Tucumán","Leales","2",1
+"S.I.","Tucumán","Lules","1",13
+"S.I.","Tucumán","Lules","2",1
+"S.I.","Tucumán","Monteros","1",11
+"S.I.","Tucumán","Río Chico","1",10
+"S.I.","Tucumán","Río Chico","2",1
+"S.I.","Tucumán","Simoca","1",3
+"S.I.","Tucumán","Simoca","2",1
+"S.I.","Tucumán","Tafí del Valle","1",9
+"S.I.","Tucumán","Tafí Viejo","1",20
+"S.I.","Tucumán","Tafí Viejo","2",6
+"S.I.","Tucumán","Trancas","1",9
+"S.I.","Tucumán","Yerba Buena","1",8
+"S.I.","Tucumán","Yerba Buena","2",1
